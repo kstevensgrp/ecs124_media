@@ -6,9 +6,17 @@ This repository exists so that figures can be referenced by URL from Google Docs
 and other documents. Course materials themselves live in the private repository
 `ucdavis/ECS124`.
 
-## notes/
+## Layout
 
-Figures for the unit notes. Each figure is provided twice: an SVG (the vector
+Media is organized by subject, one folder per subject:
+
+| folder | subject |
+|---|---|
+| `unit1_notes/` | figures for the Unit 1 notes |
+
+## unit1_notes/
+
+Figures for the Unit 1 notes. Each figure is provided twice: an SVG (the vector
 source, for slides and print) and a PNG (for Google Docs, which cannot embed SVG).
 
 | figure | what it shows |
