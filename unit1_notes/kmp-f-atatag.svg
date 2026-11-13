@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="452" viewBox="0 0 760 452">
+<text x="16.00" y="26.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.50" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">KMP-F on P = ATATAG — the Z-boxes, and the arrays built from them</text>
+<rect x="222.00" y="84.00" width="138.00" height="102.00" fill="#e9e9e9" stroke="none" stroke-width="1.00" rx="0.0"/>
+<rect x="314.00" y="112.00" width="46.00" height="74.00" fill="#e9e9e9" stroke="none" stroke-width="1.00" rx="0.0"/>
+<line x1="225.00" y1="84.00" x2="357.00" y2="84.00" stroke="#000000" stroke-width="1.60"/>
+<line x1="225.00" y1="84.00" x2="225.00" y2="92.00" stroke="#000000" stroke-width="1.60"/>
+<line x1="357.00" y1="84.00" x2="357.00" y2="92.00" stroke="#000000" stroke-width="1.60"/>
+<line x1="317.00" y1="112.00" x2="357.00" y2="112.00" stroke="#000000" stroke-width="1.60"/>
+<line x1="317.00" y1="112.00" x2="317.00" y2="120.00" stroke="#000000" stroke-width="1.60"/>
+<line x1="357.00" y1="112.00" x2="357.00" y2="120.00" stroke="#000000" stroke-width="1.60"/>
+<line x1="362.00" y1="84.00" x2="460.00" y2="84.00" stroke="#cccccc" stroke-width="0.80" stroke-dasharray="2 3"/>
+<text x="468.00" y="88.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Z[2] = 3   box P[2 : 5]</text>
+<line x1="362.00" y1="112.00" x2="460.00" y2="112.00" stroke="#cccccc" stroke-width="0.80" stroke-dasharray="2 3"/>
+<text x="468.00" y="116.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Z[4] = 1   box P[4 : 5]</text>
+<text x="112.00" y="98.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10.50" fill="#555555" text-anchor="end" font-weight="normal" xml:space="preserve">Z-boxes</text>
+<text x="112.00" y="138.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="end" font-weight="normal" xml:space="preserve">index</text>
+<text x="153.00" y="138.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<text x="199.00" y="138.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">1</text>
+<text x="245.00" y="138.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">2</text>
+<text x="291.00" y="138.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">3</text>
+<text x="337.00" y="138.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">4</text>
+<text x="383.00" y="138.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">5</text>
+<text x="429.00" y="138.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#999999" text-anchor="middle" font-weight="normal" xml:space="preserve">6</text>
+<text x="112.00" y="176.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="end" font-weight="normal" xml:space="preserve">P</text>
+<text x="153.00" y="176.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">A</text>
+<text x="199.00" y="176.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">T</text>
+<text x="245.00" y="176.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">A</text>
+<text x="291.00" y="176.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">T</text>
+<text x="337.00" y="176.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">A</text>
+<text x="383.00" y="176.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">G</text>
+<line x1="126.00" y1="192.00" x2="456.00" y2="192.00" stroke="#cccccc" stroke-width="0.80"/>
+<text x="112.00" y="222.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="12.50" fill="#000000" text-anchor="end" font-weight="normal" xml:space="preserve">Z[s]</text>
+<text x="153.00" y="222.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">6</text>
+<text x="199.00" y="222.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<text x="245.00" y="222.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">3</text>
+<text x="291.00" y="222.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<text x="337.00" y="222.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">1</text>
+<text x="383.00" y="222.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<text x="468.00" y="222.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10.50" fill="#555555" text-anchor="start" font-weight="normal" xml:space="preserve">length of the box beginning at s</text>
+<text x="112.00" y="254.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="12.50" fill="#000000" text-anchor="end" font-weight="normal" xml:space="preserve">A[s]</text>
+<text x="199.00" y="254.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">1</text>
+<text x="245.00" y="254.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">5</text>
+<text x="291.00" y="254.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">3</text>
+<text x="337.00" y="254.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">5</text>
+<text x="383.00" y="254.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">5</text>
+<text x="468.00" y="254.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10.50" fill="#555555" text-anchor="start" font-weight="normal" xml:space="preserve">s + Z[s], where the box at s stops</text>
+<text x="112.00" y="286.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="12.50" fill="#000000" text-anchor="end" font-weight="normal" xml:space="preserve">M[s]</text>
+<text x="199.00" y="286.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">1</text>
+<text x="245.00" y="286.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">5</text>
+<text x="291.00" y="286.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">5</text>
+<text x="337.00" y="286.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">5</text>
+<text x="383.00" y="286.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">5</text>
+<text x="468.00" y="286.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10.50" fill="#555555" text-anchor="start" font-weight="normal" xml:space="preserve">max A[1..s], furthest reach so far</text>
+<text x="16.00" y="254.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="9.50" fill="#999999" text-anchor="start" font-weight="normal" xml:space="preserve">by shift s</text>
+<line x1="126.00" y1="306.00" x2="456.00" y2="306.00" stroke="#cccccc" stroke-width="0.80"/>
+<text x="112.00" y="336.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="12.50" fill="#000000" text-anchor="end" font-weight="normal" xml:space="preserve">S[k]</text>
+<text x="153.00" y="336.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">1</text>
+<text x="199.00" y="336.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">1</text>
+<text x="245.00" y="336.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">2</text>
+<text x="291.00" y="336.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">2</text>
+<text x="337.00" y="336.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">2</text>
+<text x="383.00" y="336.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">2</text>
+<text x="429.00" y="336.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">6</text>
+<text x="468.00" y="336.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10.50" fill="#555555" text-anchor="start" font-weight="normal" xml:space="preserve">smallest s with M[s] ≥ k: the shift</text>
+<text x="112.00" y="368.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="12.50" fill="#000000" text-anchor="end" font-weight="normal" xml:space="preserve">F[k]</text>
+<text x="153.00" y="368.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<text x="199.00" y="368.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<text x="245.00" y="368.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<text x="291.00" y="368.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">1</text>
+<text x="337.00" y="368.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">2</text>
+<text x="383.00" y="368.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">3</text>
+<text x="429.00" y="368.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<text x="468.00" y="368.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10.50" fill="#555555" text-anchor="start" font-weight="normal" xml:space="preserve">k − S[k]: characters that come free</text>
+<text x="16.00" y="356.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="9.50" fill="#999999" text-anchor="start" font-weight="normal" xml:space="preserve">by match</text>
+<text x="16.00" y="369.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="9.50" fill="#999999" text-anchor="start" font-weight="normal" xml:space="preserve">count k</text>
+<line x1="16.00" y1="390.00" x2="744.00" y2="390.00" stroke="#cccccc" stroke-width="0.80"/>
+<text x="16.00" y="412.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#555555" text-anchor="start" font-weight="normal" xml:space="preserve">Reading k = 5:  P[0 : 5] = ATATA matched.  The first s with M[s] ≥ 5 is s = 2, so S[5] = 2 and F[5] = 3:</text>
+<text x="16.00" y="432.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#555555" text-anchor="start" font-weight="normal" xml:space="preserve">the box P[2 : 5] = ATA runs to the end of the match, so those 3 characters come free.</text>
+</svg>
