@@ -25,3 +25,4 @@ source, for slides and print) and a PNG (for Google Docs, which cannot embed SVG
 | `z-case2a-atatag` | case 2a at i = 3 — the answer lies inside the box, no comparison |
 | `z-case2b-atatag` | case 2b at i = 4 — the box runs out at r, the scan continues |
 | `kmp-f-atatag` | KMP-F on P = ATATAG — Z-boxes over the pattern, and the Z, A, M, S, F arrays |
+| `z-boxes-aabcaabxaaz` | the Z-boxes of P = aabcaabxaaz drawn over the pattern, with the Z array underneath |

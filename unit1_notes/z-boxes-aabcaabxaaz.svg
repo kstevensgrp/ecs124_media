@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="392" viewBox="0 0 760 392">
+<text x="16.00" y="26.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.50" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">The Z-boxes of P = aabcaabxaaz</text>
+<rect x="176.00" y="98.00" width="46.00" height="82.00" fill="#e9e9e9" stroke="none" stroke-width="1.00" rx="0.0"/>
+<rect x="314.00" y="98.00" width="138.00" height="82.00" fill="#e9e9e9" stroke="none" stroke-width="1.00" rx="0.0"/>
+<rect x="498.00" y="98.00" width="92.00" height="82.00" fill="#e9e9e9" stroke="none" stroke-width="1.00" rx="0.0"/>
+<line x1="180.00" y1="98.00" x2="218.00" y2="98.00" stroke="#000000" stroke-width="1.60"/>
+<line x1="180.00" y1="98.00" x2="180.00" y2="106.00" stroke="#000000" stroke-width="1.60"/>
+<line x1="218.00" y1="98.00" x2="218.00" y2="106.00" stroke="#000000" stroke-width="1.60"/>
+<line x1="318.00" y1="98.00" x2="448.00" y2="98.00" stroke="#000000" stroke-width="1.60"/>
+<line x1="318.00" y1="98.00" x2="318.00" y2="106.00" stroke="#000000" stroke-width="1.60"/>
+<line x1="448.00" y1="98.00" x2="448.00" y2="106.00" stroke="#000000" stroke-width="1.60"/>
+<line x1="364.00" y1="72.00" x2="402.00" y2="72.00" stroke="#000000" stroke-width="1.60"/>
+<line x1="364.00" y1="72.00" x2="364.00" y2="80.00" stroke="#000000" stroke-width="1.60"/>
+<line x1="402.00" y1="72.00" x2="402.00" y2="80.00" stroke="#000000" stroke-width="1.60"/>
+<line x1="502.00" y1="98.00" x2="586.00" y2="98.00" stroke="#000000" stroke-width="1.60"/>
+<line x1="502.00" y1="98.00" x2="502.00" y2="106.00" stroke="#000000" stroke-width="1.60"/>
+<line x1="586.00" y1="98.00" x2="586.00" y2="106.00" stroke="#000000" stroke-width="1.60"/>
+<line x1="548.00" y1="72.00" x2="586.00" y2="72.00" stroke="#000000" stroke-width="1.60"/>
+<line x1="548.00" y1="72.00" x2="548.00" y2="80.00" stroke="#000000" stroke-width="1.60"/>
+<line x1="586.00" y1="72.00" x2="586.00" y2="80.00" stroke="#000000" stroke-width="1.60"/>
+<text x="112.00" y="90.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10.50" fill="#555555" text-anchor="end" font-weight="normal" xml:space="preserve">Z-boxes</text>
+<text x="112.00" y="132.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="end" font-weight="normal" xml:space="preserve">index</text>
+<text x="153.00" y="132.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<text x="199.00" y="132.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">1</text>
+<text x="245.00" y="132.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">2</text>
+<text x="291.00" y="132.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">3</text>
+<text x="337.00" y="132.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">4</text>
+<text x="383.00" y="132.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">5</text>
+<text x="429.00" y="132.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">6</text>
+<text x="475.00" y="132.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">7</text>
+<text x="521.00" y="132.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">8</text>
+<text x="567.00" y="132.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">9</text>
+<text x="613.00" y="132.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">10</text>
+<text x="112.00" y="170.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="end" font-weight="normal" xml:space="preserve">P</text>
+<text x="153.00" y="170.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">a</text>
+<text x="199.00" y="170.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">a</text>
+<text x="245.00" y="170.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">b</text>
+<text x="291.00" y="170.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">c</text>
+<text x="337.00" y="170.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">a</text>
+<text x="383.00" y="170.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">a</text>
+<text x="429.00" y="170.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">b</text>
+<text x="475.00" y="170.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">x</text>
+<text x="521.00" y="170.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">a</text>
+<text x="567.00" y="170.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">a</text>
+<text x="613.00" y="170.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">z</text>
+<line x1="126.00" y1="186.00" x2="640.00" y2="186.00" stroke="#cccccc" stroke-width="0.80"/>
+<text x="112.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="12.50" fill="#000000" text-anchor="end" font-weight="normal" xml:space="preserve">Z[i]</text>
+<text x="153.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">11</text>
+<text x="199.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">1</text>
+<text x="245.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#999999" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<text x="291.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#999999" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<text x="337.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">3</text>
+<text x="383.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">1</text>
+<text x="429.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#999999" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<text x="475.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#999999" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<text x="521.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">2</text>
+<text x="567.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">1</text>
+<text x="613.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="14.00" fill="#999999" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<line x1="16.00" y1="234.00" x2="744.00" y2="234.00" stroke="#cccccc" stroke-width="0.80"/>
+<text x="16.00" y="262.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#555555" text-anchor="start" font-weight="normal" xml:space="preserve">Each box is a maximal interval that matches a prefix of P:</text>
+<text x="40.00" y="286.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">P[1 : 2] = a</text>
+<text x="250.00" y="286.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#555555" text-anchor="start" font-weight="normal" xml:space="preserve">matches the prefix P[0 : 1]</text>
+<text x="470.00" y="286.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Z[1] = 1</text>
+<text x="40.00" y="306.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">P[4 : 7] = aab</text>
+<text x="250.00" y="306.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#555555" text-anchor="start" font-weight="normal" xml:space="preserve">matches the prefix P[0 : 3]</text>
+<text x="470.00" y="306.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Z[4] = 3</text>
+<text x="40.00" y="326.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">P[5 : 6] = a</text>
+<text x="250.00" y="326.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#555555" text-anchor="start" font-weight="normal" xml:space="preserve">matches the prefix P[0 : 1]</text>
+<text x="470.00" y="326.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Z[5] = 1</text>
+<text x="40.00" y="346.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">P[8 : 10] = aa</text>
+<text x="250.00" y="346.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#555555" text-anchor="start" font-weight="normal" xml:space="preserve">matches the prefix P[0 : 2]</text>
+<text x="470.00" y="346.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Z[8] = 2</text>
+<text x="40.00" y="366.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">P[9 : 10] = a</text>
+<text x="250.00" y="366.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#555555" text-anchor="start" font-weight="normal" xml:space="preserve">matches the prefix P[0 : 1]</text>
+<text x="470.00" y="366.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Z[9] = 1</text>
+</svg>
