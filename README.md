@@ -29,3 +29,4 @@ source, for slides and print) and a PNG (for Google Docs, which cannot embed SVG
 | `z-case2-inside` | schematic of case 2: index i inside the right-most Z-box, with α, β, twin and known |
 | `z-case2a-inside` | schematic of case 2a: Z[twin] < known, so Z[i] = Z[twin] |
 | `z-case2b-extends` | schematic of case 2b: Z[twin] ≥ known, so the scan continues past r |
+| `z-match-atatag` | Z values of S = P$T for P = ATATAG, T = ATATATAGATA — Z[9] = m marks the occurrence at index 2 of T |
