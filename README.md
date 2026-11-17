@@ -26,3 +26,6 @@ source, for slides and print) and a PNG (for Google Docs, which cannot embed SVG
 | `z-case2b-atatag` | case 2b at i = 4 — the box runs out at r, the scan continues |
 | `kmp-f-atatag` | KMP-F on P = ATATAG — Z-boxes over the pattern, and the Z, A, M, S, F arrays |
 | `z-boxes-aabcaabxaaz` | the Z-boxes of P = aabcaabxaaz drawn over the pattern, with the Z array underneath |
+| `z-case2-inside` | schematic of case 2: index i inside the right-most Z-box, with α, β, twin and known |
+| `z-case2a-inside` | schematic of case 2a: Z[twin] < known, so Z[i] = Z[twin] |
+| `z-case2b-extends` | schematic of case 2b: Z[twin] ≥ known, so the scan continues past r |
