@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="262" viewBox="0 0 760 262">
+<text x="16.00" y="22.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.50" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">The good suffix rule — shift P so that t′ lies under t</text>
+<line x1="170.00" y1="78.00" x2="752.00" y2="78.00" stroke="#000000" stroke-width="1.60"/>
+<text x="16.00" y="83.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.50" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">T</text>
+<rect x="452.00" y="52.00" width="120.00" height="26.00" fill="#e9e9e9" stroke="#000000" stroke-width="1.40" rx="0.0"/>
+<text x="512.00" y="70.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">t</text>
+<text x="439.00" y="70.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">x</text>
+<line x1="190.00" y1="146.00" x2="572.00" y2="146.00" stroke="#000000" stroke-width="1.60"/>
+<text x="16.00" y="151.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.50" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">P before the shift</text>
+<rect x="452.00" y="120.00" width="120.00" height="26.00" fill="#e9e9e9" stroke="#000000" stroke-width="1.40" rx="0.0"/>
+<text x="512.00" y="138.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">t</text>
+<text x="439.00" y="138.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">y</text>
+<rect x="272.00" y="120.00" width="120.00" height="26.00" fill="#e9e9e9" stroke="#000000" stroke-width="1.40" rx="0.0"/>
+<text x="332.00" y="138.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">t′</text>
+<text x="259.00" y="138.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">z</text>
+<line x1="370.00" y1="222.00" x2="752.00" y2="222.00" stroke="#000000" stroke-width="1.60"/>
+<text x="16.00" y="227.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.50" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">P after the shift</text>
+<rect x="452.00" y="196.00" width="120.00" height="26.00" fill="#e9e9e9" stroke="#000000" stroke-width="1.40" rx="0.0"/>
+<text x="512.00" y="214.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">t′</text>
+<text x="439.00" y="214.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">z</text>
+<line x1="439.00" y1="82.00" x2="439.00" y2="116.00" stroke="#555555" stroke-width="0.90" stroke-dasharray="2 3"/>
+<line x1="439.00" y1="150.00" x2="439.00" y2="192.00" stroke="#555555" stroke-width="0.90" stroke-dasharray="2 3"/>
+<line x1="192.00" y1="180.00" x2="367.00" y2="180.00" stroke="#000000" stroke-width="1.30"/>
+<path d="M 367.00 180.00 L 358.90 183.15 L 358.90 176.85 Z" fill="#000000"/>
+<line x1="192.00" y1="175.00" x2="192.00" y2="185.00" stroke="#000000" stroke-width="1.30"/>
+<text x="280.00" y="173.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">shift</text>
+<text x="588.00" y="138.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10.50" fill="#555555" text-anchor="start" font-weight="normal" xml:space="preserve">t is a suffix of P, |t| = k</text>
+<text x="768.00" y="214.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10.50" fill="#555555" text-anchor="start" font-weight="normal" xml:space="preserve"></text>
+<text x="16.00" y="252.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#555555" text-anchor="start" font-weight="normal" xml:space="preserve">x ≠ y (the mismatch).  The rule guarantees z ≠ y, so z has a chance of matching x.</text>
+</svg>
