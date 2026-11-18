@@ -30,3 +30,4 @@ source, for slides and print) and a PNG (for Google Docs, which cannot embed SVG
 | `z-case2a-inside` | schematic of case 2a: Z[twin] < known, so Z[i] = Z[twin] |
 | `z-case2b-extends` | schematic of case 2b: Z[twin] ≥ known, so the scan continues past r |
 | `z-match-atatag` | Z values of S = P$T for P = ATATAG, T = ATATATAGATA — Z[9] = m marks the occurrence at index 2 of T |
+| `kmp-shift-abcxabcde` | the KMP shift for P = abcxabcde aligned at index 2 of T = xyabcxabcxadcdqfeg — mismatch at index 7 of P, Z-boxes and Z values of P, and P shifted by 4 |
