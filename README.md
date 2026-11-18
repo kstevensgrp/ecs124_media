@@ -22,9 +22,10 @@ source, for slides and print) and a PNG (for Google Docs, which cannot embed SVG
 
 | figure | what it shows |
 |---|---|
-| `z-case1-atatag` | Z-algorithm case 1 at i = 2 on P = ATATAG — no Z-box covers i |
-| `z-case2a-atatag` | case 2a at i = 3 — the answer lies inside the box, no comparison |
-| `z-case2b-atatag` | case 2b at i = 4 — the box runs out at r, the scan continues |
+| `z-linear-atatag` | Z-LINEAR on P = ATATAG as one figure: the trace table (case, l, r, Z[i] after each step) and one panel for each case — (a) case 1 at i = 2, (b) case 2a at i = 3, (c) case 2b at i = 4 |
+| `z-case1-atatag` | (superseded by `z-linear-atatag`) Z-algorithm case 1 at i = 2 on P = ATATAG — no Z-box covers i |
+| `z-case2a-atatag` | (superseded) case 2a at i = 3 — the answer lies inside the box, no comparison |
+| `z-case2b-atatag` | (superseded) case 2b at i = 4 — the box runs out at r, the scan continues |
 | `kmp-f-atatag` | KMP-F on P = ATATAG — Z-boxes over the pattern, and the Z, A, M, S, F arrays |
 | `z-boxes-aabcaabxaaz` | the Z-boxes of P = aabcaabxaaz drawn over the pattern, with the Z array underneath |
 | `z-case2-inside` | schematic of case 2: index i inside the right-most Z-box, with α, β, twin and known |
@@ -33,7 +34,7 @@ source, for slides and print) and a PNG (for Google Docs, which cannot embed SVG
 | `z-match-atatag` | Z values of S = P$T for P = ATATAG, T = ATATATAGATA — Z[9] = m marks the occurrence at index 2 of T |
 | `kmp-shift-abcxabcde` | the KMP shift for P = abcxabcde aligned at index 2 of T = xyabcxabcxadcdqfeg — mismatch at index 7 of P, Z-boxes and Z values of P, and P shifted by 4 |
 | `shiftfree-abcxabcde` | SHIFTFREE on P = abcxabcde — the Z-box P[4:7], the Z[s] and s + Z[s] rows, and the shift[k] and free[k] tables |
-| `kmp-trace-abcxabcde` | trace of KMP-MATCH on P = abcxabcde and T = xyabcxabcxadcdqfeg — one row per alignment, with c, k, the shifts, the free characters and the loop's stopping condition |
+| `kmp-trace-abcxabcde` | trace of KMP-MATCH on P = abcxabcde and T = xyabcxabcxadcdqfeg — one row per alignment, with c, k, the shifts, the free characters and the loop's stopping condition (assignments written with ←) |
 | `bm-badchar-tpabxab` | Boyer–Moore right-to-left scan and bad character shift for P = tpabxab at index 2 of T = xpbctbxabpqxctbpq (Gusfield's §2.2.1 example, 0-based) |
 | `bm-bad-character` | schematic of the bad character rule in three cases: x absent from P, two copies of x left of the mismatch, and copies on both sides (rightmost inside t, shift 1) |
 | `bm-good-suffix` | schematic of the good suffix rule: x, y, z, t and t′ (Gusfield Fig. 2.1 redrawn) |
