@@ -13,6 +13,7 @@ Media is organized by subject, one folder per subject:
 | folder | subject |
 |---|---|
 | `unit1_notes/` | figures for the Unit 1 notes |
+| `lab1/` | page figures for the Lab 1 writeup (exact matching) |
 
 ## unit1_notes/
 
@@ -33,3 +34,19 @@ source, for slides and print) and a PNG (for Google Docs, which cannot embed SVG
 | `kmp-shift-abcxabcde` | the KMP shift for P = abcxabcde aligned at index 2 of T = xyabcxabcxadcdqfeg — mismatch at index 7 of P, Z-boxes and Z values of P, and P shifted by 4 |
 | `shiftfree-abcxabcde` | SHIFTFREE on P = abcxabcde — the Z-box P[4:7], the Z[s] and s + Z[s] rows, and the shift[k] and free[k] tables |
 | `kmp-trace-abcxabcde` | trace of KMP-MATCH on P = abcxabcde and T = xyabcxabcxadcdqfeg — one row per alignment, with c, k, the shifts, the free characters and the loop's stopping condition |
+
+## lab1/
+
+Page figures for the Lab 1 writeup (Unit 1, exact matching). Only figures that
+appear on the student-facing lab page are published here. Each is provided as an
+SVG (the vector original, the same file the Canvas page uses) and a PNG
+(1760 px wide, for Google Docs). File stems match the lab's own image names.
+
+| figure | # | what it shows |
+|---|---|---|
+| `fig_locus` | 1 | the CPS1 Q335X target site on both strands, with the 20 nt protospacer, the PAM and the variant position marked |
+| `fig_texts` | 2 | distinct 12-mer fraction and GC content for the three 50,000 bp texts |
+| `fig_strand` | 3 | a read matching the reference directly, and a read matching only after reverse complementation |
+| `fig_comparisons_example` | 4 | example line chart of character comparisons against pattern length for naive, Boyer–Moore and KMP, computed on different data |
+| `fig_mapping_example` | 5 | example histogram of how many positions each read maps to, computed on different data |
+| `fig_mismatch_ladder` | 6 | four sequences aligned against the guide at 0, 1, 3 and 5 mismatches |
