@@ -14,6 +14,7 @@ Media is organized by subject, one folder per subject:
 |---|---|
 | `unit1_notes/` | figures for the Unit 1 notes |
 | `lab1/` | page figures for the Lab 1 writeup (exact matching) |
+| `lab2/` | page figures for the Lab 2 and Lab 2 Extra writeups (approximate matching) |
 
 ## unit1_notes/
 
@@ -54,3 +55,14 @@ SVG (the vector original, the same file the Canvas page uses) and a PNG
 | `fig_comparisons_example` | 4 | example line chart of character comparisons against pattern length for naive, Boyer–Moore and KMP, computed on different data |
 | `fig_mapping_example` | 5 | example histogram of how many positions each read maps to, computed on different data |
 | `fig_mismatch_ladder` | 6 | four sequences aligned against the guide at 0, 1, 3 and 5 mismatches |
+
+## lab2/
+
+Page figures for the Lab 2 and Lab 2 Extra writeups (Unit 2, approximate
+matching). Each is provided as an SVG and a PNG (for Google Docs). File stems
+match the lab's own image names. Schematic redrawings of published figures are
+published here; the original paper figures are not.
+
+| figure | what it shows |
+|---|---|
+| `fig_riordan_f508_gel` | schematic of the normal and cystic fibrosis sequencing gels around F508del, read with the B primer (forward strand) and D primer (reverse strand); after Riordan et al., *Science* 245:1066 (1989), Fig. 4 |
