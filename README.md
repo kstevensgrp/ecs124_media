@@ -59,10 +59,24 @@ SVG (the vector original, the same file the Canvas page uses) and a PNG
 ## lab2/
 
 Page figures for the Lab 2 and Lab 2 Extra writeups (Unit 2, approximate
-matching). Each is provided as an SVG and a PNG (for Google Docs). File stems
-match the lab's own image names. Schematic redrawings of published figures are
-published here; the original paper figures are not.
+matching). Each is provided as an SVG (the same file the Canvas page uses) and a
+PNG (1760 px wide, for Google Docs). File stems match the lab's own image names.
+Schematic redrawings of published figures are published here; the original
+paper figures are not.
 
-| figure | what it shows |
-|---|---|
-| `fig_riordan_f508_gel` | schematic of the normal and cystic fibrosis sequencing gels around F508del, read with the B primer (forward strand) and D primer (reverse strand); after Riordan et al., *Science* 245:1066 (1989), Fig. 4 |
+| figure | where | what it shows |
+|---|---|---|
+| `fig_riordan_f508_gel` | Lab 2 Fig. 1, Lab 2 Extra Fig. 1 | schematic of the normal and cystic fibrosis sequencing gels around F508del, read with the B primer (forward strand) and D primer (reverse strand); after Riordan et al., *Science* 245:1066 (1989), Fig. 4 |
+| `fig_f508_site` | Lab 2 Fig. 2 | CFTR exon 11 with codons N505 to V510 and two ways to place the 3-base deletion. |
+| `fig_hamming_vs_edit` | Lab 2 Fig. 3 | Reference and patient aligned position by position with ten mismatches, then with a gap and no mismatches. |
+| `fig_dp_grid` | Lab 2 Fig. 4 | A 13 by 10 table of edit distances with the optimal paths highlighted. |
+| `fig_sickle` | Lab 2 Fig. 7 | Two protein sequences differing at residue 6, and a bar chart of substitution costs. |
+| `fig_global_local` | Lab 2 Fig. 10 | A dot plot of FOXP3 against FOXA3 with the local alignment path in the forkhead domain. |
+| `fig_three_levels` | Lab 2 Fig. 12 | Three stacked grids labelled upper, middle and lower with the edges between them. |
+| `fig_cooptimal` | Lab 2 Fig. 13 | Six alignments of the same two 12-base sequences, two of them highlighted. |
+| `fig_counts` | Lab 2 Fig. 15 | Bar chart of 600, 20 and 4 optimal alignments on a log scale. |
+| `fig_fitting` | Lab 2 Extra Fig. 2 | A line plot of edit distance against chr7 position with one sharp dip to 3 inside exon 11. |
+| `fig_band` | Lab 2 Extra Fig. 3 | An edit-distance table with only a diagonal band of cells filled. |
+| `fig_two_rows` | Lab 2 Extra Fig. 4 | A grid in which only two adjacent rows are kept. |
+| `fig_band_example` | Lab 2 Extra Fig. 5 | Example line chart of percent of cells filled and percent of reads resolved against k. |
+| `fig_cube` | Lab 2 Extra Fig. 7 | A cube with arrows from seven corners to the eighth. |
