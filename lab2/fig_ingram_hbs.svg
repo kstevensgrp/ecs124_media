@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="950" viewBox="0 0 1100 950" role="img" aria-labelledby="figure-title figure-desc">
+<title id="figure-title">Ingram peptide fingerprint schematic</title>
+<desc id="figure-desc">Ten labeled peptide spots redrawn from the supplied Ingram figure. Normal hemoglobin uses solid outlines, sickle hemoglobin dashed outlines. His-Val-Leu-Leu and Glu-Lys have both outlines. Source G and Ly labels are expanded to Glu and Lys. The chromatography arrow points upward. The original minus sign, origin dot, and plus sign are retained. No caption or legend is displayed.</desc>
+<rect width="1100" height="950" fill="#FFFFFF"/>
+<g id="plot-boundary">
+<rect x="48" y="32" width="904" height="884" fill="none" stroke="#243B49" stroke-width="2.2"/>
+</g>
+<g id="val-leu-leu-sickle">
+<ellipse cx="505" cy="227" rx="19" ry="19" transform="rotate(0 505 227)" fill="none" stroke="#243B49" stroke-width="2.6" stroke-dasharray="7 5"/>
+<text x="536" y="235" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#243B49" text-anchor="start">Val·Leu·Leu</text>
+</g>
+<g id="thr-pro-val-sickle">
+<ellipse cx="515" cy="329" rx="23" ry="19" transform="rotate(-12 515 329)" fill="none" stroke="#243B49" stroke-width="2.6" stroke-dasharray="7 5"/>
+<text x="549" y="337" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#243B49" text-anchor="start">Thr·Pro·Val</text>
+</g>
+<g id="his-val-leu-leu-shared">
+<ellipse cx="432" cy="416" rx="17" ry="39" transform="rotate(0 432 416)" fill="none" stroke="#243B49" stroke-width="2.6"/>
+<ellipse cx="432" cy="416" rx="22" ry="45" transform="rotate(0 432 416)" fill="none" stroke="#243B49" stroke-width="2.6" stroke-dasharray="7 5"/>
+<text x="399" y="424" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#243B49" text-anchor="end">His·Val·Leu·Leu</text>
+</g>
+<g id="his-val-leu-normal">
+<ellipse cx="461" cy="458" rx="14" ry="21" transform="rotate(24 461 458)" fill="none" stroke="#243B49" stroke-width="2.6"/>
+<text x="449" y="507" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#243B49" text-anchor="middle">His·Val·Leu</text>
+</g>
+<g id="thr-pro-val-glu-sickle">
+<ellipse cx="607" cy="428" rx="21" ry="33" transform="rotate(17 607 428)" fill="none" stroke="#243B49" stroke-width="2.6" stroke-dasharray="7 5"/>
+<text x="639" y="436" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#243B49" text-anchor="start">Thr·Pro·Val·Glu</text>
+</g>
+<g id="thr-pro-glu-normal">
+<ellipse cx="670" cy="513" rx="23" ry="45" transform="rotate(16 670 513)" fill="none" stroke="#243B49" stroke-width="2.6"/>
+<text x="708" y="521" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#243B49" text-anchor="start">Thr·Pro·Glu</text>
+</g>
+<g id="his-val-sickle">
+<ellipse cx="398" cy="595" rx="14" ry="18" transform="rotate(10 398 595)" fill="none" stroke="#243B49" stroke-width="2.6" stroke-dasharray="7 5"/>
+<text x="374" y="603" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#243B49" text-anchor="end">His·Val</text>
+</g>
+<g id="thr-pro-val-glu-lys-sickle">
+<ellipse cx="515" cy="604" rx="21" ry="34" transform="rotate(3 515 604)" fill="none" stroke="#243B49" stroke-width="2.6" stroke-dasharray="7 5"/>
+<text x="547" y="612" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#243B49" text-anchor="start">Thr·Pro·Val·Glu·Lys</text>
+</g>
+<g id="glu-lys-shared">
+<path d="M510 676.04 C504.24 674.12 496.56 702.92 489.84 725 C485.04 740.36 484.08 754.76 488.88 760.52 C497.52 766.28 520.56 766.28 527.28 760.52 C532.08 752.84 528.24 731.72 524.4 717.32 C517.68 696.2 515.76 676.04 510 676.04 Z" fill="none" stroke="#243B49" stroke-width="2.6"/>
+<path d="M510 667.88 C503.28 665.64 494.32 699.24 486.48 725 C480.88 742.92 479.76 759.72 485.36 766.44 C495.44 773.16 522.32 773.16 530.16 766.44 C535.76 757.48 531.28 732.84 526.8 716.04 C518.96 691.4 516.72 667.88 510 667.88 Z" fill="none" stroke="#243B49" stroke-width="2.6" stroke-dasharray="7 5"/>
+<text x="472" y="757" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#243B49" text-anchor="end">Glu·Lys</text>
+</g>
+<g id="thr-pro-glu-glu-lys-normal">
+<ellipse cx="609" cy="733" rx="20" ry="46" transform="rotate(16 609 733)" fill="none" stroke="#243B49" stroke-width="2.6"/>
+<text x="642" y="754" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#243B49" text-anchor="start">Thr·Pro·Glu·Glu·Lys</text>
+</g>
+<g id="axis-and-polarity">
+<text x="1035" y="485" font-family="Arial, Helvetica, sans-serif" font-size="29" fill="#243B49" text-anchor="middle" transform="rotate(-90 1035 485)">Chromatography</text>
+<path d="M1026 780 V688" stroke="#243B49" stroke-width="2.4" fill="none"/>
+<path d="M1020 699 L1026 686 L1032 699 Z" fill="#243B49"/>
+<text x="511" y="869" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#243B49" text-anchor="middle">−</text>
+<text x="603" y="869" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#243B49" text-anchor="middle">+</text>
+<circle cx="554" cy="849" r="3.3" fill="#243B49"/>
+</g>
+</svg>

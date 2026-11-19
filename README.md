@@ -60,9 +60,10 @@ SVG (the vector original, the same file the Canvas page uses) and a PNG
 
 Page figures for the Lab 2 and Lab 2 Extra writeups (Unit 2, approximate
 matching). Each is provided as an SVG (the same file the Canvas page uses) and a
-PNG (1760 px wide, for Google Docs). File stems match the lab's own image names.
-Schematic redrawings of published figures are published here; the original
-paper figures are not.
+PNG for Google Docs: 1760 px wide for the original drawings, and the
+instructor's own 2x-3x export for the schematics. File stems match the lab's
+own image names. Schematic redrawings of published figures are published here;
+the original paper figures are not.
 
 | figure | where | what it shows |
 |---|---|---|
@@ -70,13 +71,20 @@ paper figures are not.
 | `fig_f508_site` | Lab 2 Fig. 2 | CFTR exon 11 with codons N505 to V510 and two ways to place the 3-base deletion. |
 | `fig_hamming_vs_edit` | Lab 2 Fig. 3 | Reference and patient aligned position by position with ten mismatches, then with a gap and no mismatches. |
 | `fig_dp_grid` | Lab 2 Fig. 4 | A 13 by 10 table of edit distances with the optimal paths highlighted. |
+| `fig_riordan_f508_sequence` | Lab 2 Fig. 5 | schematic of four lines of CFTR cDNA (1441-1680) with the translation above, the F508 12-mer shaded and the three deleted bases bracketed; after Riordan et al. 1989, Fig. 2 (excerpt) |
+| `fig_ingram_hbs` | Lab 2 Fig. 6 | schematic of Ingram's two-dimensional map of peptide No. 4: ten labelled spots, solid outlines for hemoglobin A, dashed for hemoglobin S; after Ingram, *Nature* 180:326 (1957), Fig. 1 |
 | `fig_sickle` | Lab 2 Fig. 7 | Two protein sequences differing at residue 6, and a bar chart of substitution costs. |
+| `fig_brunkow_nw_alignment` | Lab 2 Fig. 8 | schematic of mouse and human FOXP3 aligned with Needleman-Wunsch: identity bars, the forkhead domain shaded, the scurfy site starred; after Brunkow et al., *Nat Genet* 27:68 (2001), Fig. 5 |
+| `fig_wildin_forkhead` | Lab 2 Fig. 9 | schematic of the forkhead domains of human and mouse scurfin aligned with HNF3-gamma and Genesis, with the IPEX mutations on top; after Wildin et al., *Nat Genet* 27:18 (2001), Fig. 1 |
 | `fig_global_local` | Lab 2 Fig. 10 | A dot plot of FOXP3 against FOXA3 with the local alignment path in the forkhead domain. |
+| `fig_brunkow_scurfy_insertion` | Lab 2 Fig. 11 | schematic of the *Foxp3* exons with the wild-type and scurfy sequences of exon 8; after Brunkow et al. 2001, Fig. 1b |
 | `fig_three_levels` | Lab 2 Fig. 12 | Three stacked grids labelled upper, middle and lower with the edges between them. |
 | `fig_cooptimal` | Lab 2 Fig. 13 | Six alignments of the same two 12-base sequences, two of them highlighted. |
+| `fig_tan_vcf` | Lab 2 Fig. 14 | schematic of one CA deletion in a CA repeat written four ways in VCF, only one normalized; after Tan, Abecasis & Kang, *Bioinformatics* 31:2202 (2015), Fig. 1 |
 | `fig_counts` | Lab 2 Fig. 15 | Bar chart of 600, 20 and 4 optimal alignments on a log scale. |
 | `fig_fitting` | Lab 2 Extra Fig. 2 | A line plot of edit distance against chr7 position with one sharp dip to 3 inside exon 11. |
 | `fig_band` | Lab 2 Extra Fig. 3 | An edit-distance table with only a diagonal band of cells filled. |
 | `fig_two_rows` | Lab 2 Extra Fig. 4 | A grid in which only two adjacent rows are kept. |
 | `fig_band_example` | Lab 2 Extra Fig. 5 | Example line chart of percent of cells filled and percent of reads resolved against k. |
+| `fig_riordan_nbf_alignment` | Lab 2 Extra Fig. 6 | schematic of three conserved segments of CFTR's nucleotide-binding domains aligned with the same segments of 18 other proteins, F508 starred; after Riordan et al. 1989, Fig. 6 |
 | `fig_cube` | Lab 2 Extra Fig. 7 | A cube with arrows from seven corners to the eighth. |

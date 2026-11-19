@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2200" height="260" viewBox="0 0 2200 260" role="img" aria-labelledby="figure-title figure-desc">
+<title id="figure-title">Foxp3 exons and the scurfy insertion</title>
+<desc id="figure-desc">Schematic redraw of the supplied Foxp3 gene diagram. Exons -2b, -2a, -1, and 1 through 11 are shown, with coding portions filled and untranslated portions open. Restriction labels Hp and Bs and endpoint coordinates -12.5 kb and +18.3 kb are retained. The exon 8 callout shows wild type GGACAAGAGCTC above scurfy GGACAAAAGAGCTC. The inserted AA, mutant positions 7 and 8, are highlighted. Intron spacing is schematic.</desc>
+<rect x="0" y="0" width="2200" height="260" rx="0" fill="#FFFFFF"/>
+<text x="46" y="34" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" font-style="italic" fill="#243B49" text-anchor="start">Foxp3</text>
+<g id="genomic-axis">
+<line x1="70" y1="103" x2="2100" y2="103" stroke="#243B49" stroke-width="2.4"/>
+<line x1="304.688" y1="99" x2="304.688" y2="107" stroke="#243B49" stroke-width="1.7"/>
+<line x1="409.595" y1="99" x2="409.595" y2="107" stroke="#243B49" stroke-width="1.7"/>
+<line x1="512.339" y1="99" x2="512.339" y2="107" stroke="#243B49" stroke-width="1.7"/>
+<line x1="615.083" y1="99" x2="615.083" y2="107" stroke="#243B49" stroke-width="1.7"/>
+<line x1="717.826" y1="99" x2="717.826" y2="107" stroke="#243B49" stroke-width="1.7"/>
+<line x1="820.57" y1="99" x2="820.57" y2="107" stroke="#243B49" stroke-width="1.7"/>
+<line x1="922.232" y1="99" x2="922.232" y2="107" stroke="#243B49" stroke-width="1.7"/>
+<line x1="1024.98" y1="99" x2="1024.98" y2="107" stroke="#243B49" stroke-width="1.7"/>
+<line x1="1127.72" y1="99" x2="1127.72" y2="107" stroke="#243B49" stroke-width="1.7"/>
+<line x1="1229.38" y1="99" x2="1229.38" y2="107" stroke="#243B49" stroke-width="1.7"/>
+<line x1="1332.13" y1="99" x2="1332.13" y2="107" stroke="#243B49" stroke-width="1.7"/>
+<line x1="1434.87" y1="99" x2="1434.87" y2="107" stroke="#243B49" stroke-width="1.7"/>
+<line x1="1537.61" y1="99" x2="1537.61" y2="107" stroke="#243B49" stroke-width="1.7"/>
+<line x1="1640.36" y1="99" x2="1640.36" y2="107" stroke="#243B49" stroke-width="1.7"/>
+<line x1="1743.1" y1="99" x2="1743.1" y2="107" stroke="#243B49" stroke-width="1.7"/>
+<line x1="1844.76" y1="99" x2="1844.76" y2="107" stroke="#243B49" stroke-width="1.7"/>
+<line x1="1947.51" y1="99" x2="1947.51" y2="107" stroke="#243B49" stroke-width="1.7"/>
+<line x1="2050.25" y1="99" x2="2050.25" y2="107" stroke="#243B49" stroke-width="1.7"/>
+<line x1="70" y1="88" x2="70" y2="103" stroke="#243B49" stroke-width="2"/>
+<text x="70" y="79" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" font-style="normal" fill="#60727D" text-anchor="middle">Hp</text>
+<line x1="99.2009" y1="88" x2="99.2009" y2="103" stroke="#243B49" stroke-width="2"/>
+<text x="99.2009" y="79" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" font-style="normal" fill="#60727D" text-anchor="middle">Bs</text>
+<line x1="1515.98" y1="88" x2="1515.98" y2="103" stroke="#243B49" stroke-width="2"/>
+<text x="1515.98" y="79" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" font-style="normal" fill="#60727D" text-anchor="middle">Bs</text>
+<line x1="1782.04" y1="88" x2="1782.04" y2="103" stroke="#243B49" stroke-width="2"/>
+<text x="1782.04" y="79" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" font-style="normal" fill="#60727D" text-anchor="middle">Bs</text>
+<line x1="2100" y1="88" x2="2100" y2="103" stroke="#243B49" stroke-width="2"/>
+<text x="2100" y="79" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" font-style="normal" fill="#60727D" text-anchor="middle">Hp</text>
+<line x1="70" y1="94" x2="70" y2="112" stroke="#243B49" stroke-width="2.4"/>
+<line x1="2100" y1="94" x2="2100" y2="112" stroke="#243B49" stroke-width="2.4"/>
+<text x="70" y="139" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" font-style="normal" fill="#60727D" text-anchor="middle">-12.5 kb</text>
+<text x="2100" y="139" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" font-style="normal" fill="#60727D" text-anchor="middle">+18.3 kb</text>
+<rect x="144.869" y="94" width="15" height="18" rx="0" fill="#FFFFFF"/>
+<line x1="147.869" y1="111" x2="154.358" y2="95" stroke="#243B49" stroke-width="2"/>
+<line x1="153.277" y1="111" x2="159.766" y2="95" stroke="#243B49" stroke-width="2"/>
+</g>
+<g id="splice-connectors">
+<path d="M222.341 114 L529.643 138 L833.956 114" fill="none" stroke="#243B49" stroke-width="1.9" stroke-linejoin="round"/>
+<path d="M298.873 114 L567.496 138 L833.956 114" fill="none" stroke="#243B49" stroke-width="1.9" stroke-linejoin="round"/>
+<path d="M843.956 114 L865.529 138 L887.102 114" fill="none" stroke="#243B49" stroke-width="1.9" stroke-linejoin="round"/>
+<path d="M914.102 114 L940.292 138 L966.482 114" fill="none" stroke="#243B49" stroke-width="1.9" stroke-linejoin="round"/>
+<path d="M977.482 114 L982.047 138 L986.612 114" fill="none" stroke="#243B49" stroke-width="1.9" stroke-linejoin="round"/>
+<path d="M1000.61 114 L1020.57 138 L1040.52 114" fill="none" stroke="#243B49" stroke-width="1.9" stroke-linejoin="round"/>
+<path d="M1050.52 114 L1054.22 138 L1057.91 114" fill="none" stroke="#243B49" stroke-width="1.9" stroke-linejoin="round"/>
+<path d="M1069.91 114 L1109.83 138 L1149.76 114" fill="none" stroke="#243B49" stroke-width="1.9" stroke-linejoin="round"/>
+<path d="M1159.76 114 L1166.11 138 L1172.47 114" fill="none" stroke="#243B49" stroke-width="1.9" stroke-linejoin="round"/>
+<path d="M1182.47 114 L1294.94 138 L1407.4 114" fill="none" stroke="#243B49" stroke-width="1.9" stroke-linejoin="round"/>
+<path d="M1423.4 114 L1455.05 138 L1486.69 114" fill="none" stroke="#243B49" stroke-width="1.9" stroke-linejoin="round"/>
+<path d="M1497.69 114 L1517.65 138 L1537.6 114" fill="none" stroke="#243B49" stroke-width="1.9" stroke-linejoin="round"/>
+<path d="M1550.6 114 L1557.95 138 L1565.3 114" fill="none" stroke="#243B49" stroke-width="1.9" stroke-linejoin="round"/>
+</g>
+<g id="exons">
+<rect x="205.341" y="92" width="17" height="22" rx="0" fill="#FFFFFF" stroke="#243B49" stroke-width="2"/>
+<text x="213.841" y="83" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">-2b</text>
+<rect x="288.873" y="92" width="10" height="22" rx="0" fill="#FFFFFF" stroke="#243B49" stroke-width="2"/>
+<text x="293.873" y="83" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">-2a</text>
+<rect x="833.956" y="92" width="10" height="22" rx="0" fill="#FFFFFF" stroke="#243B49" stroke-width="2"/>
+<text x="838.956" y="83" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">-1</text>
+<rect x="887.102" y="92" width="27" height="22" rx="0" fill="#243B49" stroke="#243B49" stroke-width="2"/>
+<rect x="887.102" y="92" width="4" height="22" rx="0" fill="#FFFFFF" stroke="#243B49" stroke-width="1.8"/>
+<text x="900.602" y="83" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">1</text>
+<rect x="966.482" y="92" width="11" height="22" rx="0" fill="#243B49" stroke="#243B49" stroke-width="2"/>
+<text x="971.982" y="83" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">2</text>
+<rect x="986.612" y="92" width="14" height="22" rx="0" fill="#243B49" stroke="#243B49" stroke-width="2"/>
+<text x="993.612" y="83" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">3</text>
+<rect x="1040.52" y="92" width="10" height="22" rx="0" fill="#243B49" stroke="#243B49" stroke-width="2"/>
+<text x="1045.52" y="83" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">4</text>
+<rect x="1057.91" y="92" width="12" height="22" rx="0" fill="#243B49" stroke="#243B49" stroke-width="2"/>
+<text x="1063.91" y="83" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">5</text>
+<rect x="1149.76" y="92" width="10" height="22" rx="0" fill="#243B49" stroke="#243B49" stroke-width="2"/>
+<text x="1154.76" y="83" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">6</text>
+<rect x="1172.47" y="92" width="10" height="22" rx="0" fill="#243B49" stroke="#243B49" stroke-width="2"/>
+<text x="1177.47" y="83" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">7</text>
+<rect x="1407.4" y="92" width="16" height="22" rx="0" fill="#243B49" stroke="#243B49" stroke-width="2"/>
+<text x="1415.4" y="83" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">8</text>
+<rect x="1486.69" y="92" width="11" height="22" rx="0" fill="#243B49" stroke="#243B49" stroke-width="2"/>
+<text x="1492.19" y="83" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">9</text>
+<rect x="1537.6" y="92" width="13" height="22" rx="0" fill="#243B49" stroke="#243B49" stroke-width="2"/>
+<text x="1544.1" y="83" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">10</text>
+<rect x="1565.3" y="92" width="16" height="22" rx="0" fill="#243B49" stroke="#243B49" stroke-width="2"/>
+<rect x="1581.3" y="92" width="223.444" height="22" rx="0" fill="#FFFFFF" stroke="#243B49" stroke-width="2"/>
+<line x1="1671.72" y1="93" x2="1671.72" y2="101" stroke="#243B49" stroke-width="1.4"/>
+<line x1="1671.72" y1="106" x2="1671.72" y2="113" stroke="#243B49" stroke-width="1.4"/>
+<text x="1573.3" y="83" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">11</text>
+</g>
+<g id="exon-8-insertion-callout">
+<line x1="1415.4" y1="121" x2="1415.4" y2="162" stroke="#243B49" stroke-width="2.2"/>
+<path d="M1408.4 153 L1415.4 163 L1422.4 153" fill="none" stroke="#243B49" stroke-width="2.2" stroke-linejoin="round"/>
+<text x="1314.65" y="190" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">G</text>
+<text x="1330.15" y="190" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">G</text>
+<text x="1345.65" y="190" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">A</text>
+<text x="1361.15" y="190" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">C</text>
+<text x="1376.65" y="190" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">A</text>
+<text x="1392.15" y="190" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">A</text>
+<text x="1407.65" y="190" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">G</text>
+<text x="1423.15" y="190" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">A</text>
+<text x="1438.65" y="190" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">G</text>
+<text x="1454.15" y="190" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">C</text>
+<text x="1469.65" y="190" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">T</text>
+<text x="1485.15" y="190" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">C</text>
+<text x="1566.9" y="190" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" font-style="normal" fill="#243B49" text-anchor="start">wild type</text>
+<rect x="1397.9" y="210" width="35" height="27" rx="2" fill="#FCECE2"/>
+<text x="1314.65" y="230" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">G</text>
+<text x="1330.15" y="230" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">G</text>
+<text x="1345.65" y="230" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">A</text>
+<text x="1361.15" y="230" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">C</text>
+<text x="1376.65" y="230" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">A</text>
+<text x="1392.15" y="230" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">A</text>
+<text x="1407.65" y="230" font-family="Courier New, monospace" font-size="25" font-weight="700" font-style="normal" fill="#BA562C" text-anchor="middle">A</text>
+<text x="1423.15" y="230" font-family="Courier New, monospace" font-size="25" font-weight="700" font-style="normal" fill="#BA562C" text-anchor="middle">A</text>
+<text x="1438.65" y="230" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">G</text>
+<text x="1454.15" y="230" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">A</text>
+<text x="1469.65" y="230" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">G</text>
+<text x="1485.15" y="230" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">C</text>
+<text x="1500.65" y="230" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">T</text>
+<text x="1516.15" y="230" font-family="Courier New, monospace" font-size="25" font-weight="400" font-style="normal" fill="#243B49" text-anchor="middle">C</text>
+<text x="1566.9" y="230" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" font-style="normal" fill="#243B49" text-anchor="start">scurfy</text>
+</g>
+</svg>

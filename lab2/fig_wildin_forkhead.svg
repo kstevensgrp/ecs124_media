@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1962" height="416" viewBox="0 0 1962 416" role="img" aria-labelledby="figure-title figure-desc">
+<title id="figure-title">Forkhead-domain alignment and IPEX mutations</title>
+<desc id="figure-desc">Schematic of the supplied Wildin forkhead-domain comparison. The four rows show human scurfin, mouse scurfin, HNF3-gamma and Genesis. The ruler uses human scurfin residue numbers, with the first displayed residue R337. Orange IPEX markers show C above F371, T above A384, W above R397, and the original ## notation above G430 and P431. Source contact annotations, helix underlines and structural labels H1, H2, L1, H4, H3, S2, W1, S3 and W2 are retained. Original 1962:416 aspect ratio.</desc>
+<rect width="1962" height="416" fill="#FFFFFF"/>
+<g id="human-residue-axis">
+<text x="118.725" y="35" font-family="Courier New, monospace" font-size="22" font-weight="400" font-style="normal" text-anchor="middle" fill="#60727D">340</text>
+<line x1="118.725" y1="50" x2="118.725" y2="76" stroke="#60727D" stroke-width="1.6"/>
+<text x="292.225" y="35" font-family="Courier New, monospace" font-size="22" font-weight="400" font-style="normal" text-anchor="middle" fill="#60727D">350</text>
+<line x1="292.225" y1="50" x2="292.225" y2="76" stroke="#60727D" stroke-width="1.6"/>
+<text x="465.725" y="35" font-family="Courier New, monospace" font-size="22" font-weight="400" font-style="normal" text-anchor="middle" fill="#60727D">360</text>
+<line x1="465.725" y1="50" x2="465.725" y2="76" stroke="#60727D" stroke-width="1.6"/>
+<text x="639.225" y="35" font-family="Courier New, monospace" font-size="22" font-weight="400" font-style="normal" text-anchor="middle" fill="#60727D">370</text>
+<line x1="639.225" y1="50" x2="639.225" y2="76" stroke="#60727D" stroke-width="1.6"/>
+<text x="812.725" y="35" font-family="Courier New, monospace" font-size="22" font-weight="400" font-style="normal" text-anchor="middle" fill="#60727D">380</text>
+<line x1="812.725" y1="50" x2="812.725" y2="76" stroke="#60727D" stroke-width="1.6"/>
+<text x="986.225" y="35" font-family="Courier New, monospace" font-size="22" font-weight="400" font-style="normal" text-anchor="middle" fill="#60727D">390</text>
+<line x1="986.225" y1="50" x2="986.225" y2="76" stroke="#60727D" stroke-width="1.6"/>
+<text x="1159.73" y="35" font-family="Courier New, monospace" font-size="22" font-weight="400" font-style="normal" text-anchor="middle" fill="#60727D">400</text>
+<line x1="1159.73" y1="50" x2="1159.73" y2="76" stroke="#60727D" stroke-width="1.6"/>
+<text x="1333.23" y="35" font-family="Courier New, monospace" font-size="22" font-weight="400" font-style="normal" text-anchor="middle" fill="#60727D">410</text>
+<line x1="1333.23" y1="50" x2="1333.23" y2="76" stroke="#60727D" stroke-width="1.6"/>
+<text x="1506.73" y="35" font-family="Courier New, monospace" font-size="22" font-weight="400" font-style="normal" text-anchor="middle" fill="#60727D">420</text>
+<line x1="1506.73" y1="50" x2="1506.73" y2="76" stroke="#60727D" stroke-width="1.6"/>
+<text x="1680.23" y="35" font-family="Courier New, monospace" font-size="22" font-weight="400" font-style="normal" text-anchor="middle" fill="#60727D">430</text>
+<line x1="1680.23" y1="50" x2="1680.23" y2="76" stroke="#60727D" stroke-width="1.6"/>
+</g>
+<g id="ipex-mutations">
+<text x="656.575" y="109" font-family="Courier New, monospace" font-size="24" font-weight="700" font-style="normal" text-anchor="middle" fill="#BA562C">C</text>
+<text x="882.125" y="109" font-family="Courier New, monospace" font-size="24" font-weight="700" font-style="normal" text-anchor="middle" fill="#BA562C">T</text>
+<text x="1107.68" y="109" font-family="Courier New, monospace" font-size="24" font-weight="700" font-style="normal" text-anchor="middle" fill="#BA562C">W</text>
+<text x="1680.23" y="109" font-family="Courier New, monospace" font-size="24" font-weight="700" font-style="normal" text-anchor="middle" fill="#BA562C">#</text>
+<text x="1697.58" y="109" font-family="Courier New, monospace" font-size="24" font-weight="700" font-style="normal" text-anchor="middle" fill="#BA562C">#</text>
+<text x="1810" y="109" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" font-style="normal" text-anchor="start" fill="#BA562C">IPEX</text>
+</g>
+<g id="human-scurfin">
+<text x="66.675 84.025 101.375 118.725 136.075 153.425 170.775 188.125 205.475 222.825 240.175 257.525 274.875 292.225 309.575 326.925 344.275 361.625 378.975 396.325 413.675 431.025 448.375 465.725 483.075 500.425 517.775 535.125 552.475 569.825 587.175 604.525 621.875 639.225 656.575 673.925 691.275 708.625 725.975 743.325 760.675 778.025 795.375 812.725 830.075 847.425 864.775 882.125 899.475 916.825 934.175 951.525 968.875 986.225 1003.58 1020.93 1038.28 1055.62 1072.98 1090.33 1107.68 1125.03 1142.38 1159.73 1177.08 1194.43 1211.78 1229.12 1246.48 1263.83 1281.18 1298.53 1315.88 1333.23 1350.58 1367.93 1385.28 1402.62 1419.98 1437.33 1454.68 1472.03 1489.38 1506.73 1524.08 1541.43 1558.78 1576.13 1593.48 1610.83 1628.18 1645.53 1662.88 1680.23 1697.58" y="146" font-family="Courier New, monospace" font-size="22.5" text-anchor="middle" fill="#243B49">RPPFTYATLIRWAILEAPEKQRTLNEIYHWFTRMFAFFRNHPATWKNAIRHNLSLHKCFVRVESEKGAVWTVDELEFRKKRSQRPSRCSNPTPGP</text>
+<text x="1810" y="145" font-family="Arial, Helvetica, sans-serif" font-size="20.5" font-weight="400" font-style="normal" text-anchor="start" fill="#243B49">Human scurfin</text>
+</g>
+<g id="mouse-scurfin">
+<text x="66.675 84.025 101.375 118.725 136.075 153.425 170.775 188.125 205.475 222.825 240.175 257.525 274.875 292.225 309.575 326.925 344.275 361.625 378.975 396.325 413.675 431.025 448.375 465.725 483.075 500.425 517.775 535.125 552.475 569.825 587.175 604.525 621.875 639.225 656.575 673.925 691.275 708.625 725.975 743.325 760.675 778.025 795.375 812.725 830.075 847.425 864.775 882.125 899.475 916.825 934.175 951.525 968.875 986.225 1003.58 1020.93 1038.28 1055.62 1072.98 1090.33 1107.68 1125.03 1142.38 1159.73 1177.08 1194.43 1211.78 1229.12 1246.48 1263.83 1281.18 1298.53 1315.88 1333.23 1350.58 1367.93 1385.28 1402.62 1419.98 1437.33 1454.68 1472.03 1489.38 1506.73 1524.08 1541.43 1558.78 1576.13 1593.48 1610.83 1628.18 1645.53 1662.88" y="182" font-family="Courier New, monospace" font-size="22.5" text-anchor="middle" fill="#243B49">RPPFTYATLIRWAILEAPERQRTLNEIYHWFTRMFAYFRNHPATWKNAIRHNLSLHKCFVRVESEKGAVWTVDEFEFRKKRSQRPNKCSNPCP</text>
+<text x="1810" y="181" font-family="Arial, Helvetica, sans-serif" font-size="20.5" font-weight="400" font-style="normal" text-anchor="start" fill="#243B49">Mouse scurfin</text>
+</g>
+<g id="hnf3-gamma">
+<text x="66.675 84.025 101.375 118.725 136.075 153.425 170.775 188.125 205.475 222.825 240.175 257.525 274.875 292.225 309.575 326.925 344.275 361.625 378.975 396.325 413.675 431.025 448.375 465.725 483.075 500.425 517.775 535.125 552.475 569.825 587.175 604.525 621.875 639.225 656.575 673.925 691.275 708.625 725.975 743.325 760.675 778.025 795.375 812.725 830.075 847.425 864.775 882.125 899.475 916.825 934.175 951.525 968.875 986.225 1003.58 1020.93 1038.28 1055.62 1072.98 1090.33 1107.68 1125.03 1142.38 1159.73 1177.08 1194.43 1211.78 1229.12 1246.48 1263.83 1281.18 1298.53 1315.88 1333.23 1350.58 1367.93 1385.28 1402.62 1419.98 1437.33 1454.68 1472.03 1489.38 1506.73 1524.08 1541.43 1558.78 1576.13 1593.48 1610.83 1628.18 1645.53 1662.88 1680.23 1697.58 1714.93 1732.28 1749.63 1766.98" y="270" font-family="Courier New, monospace" font-size="22.5" text-anchor="middle" fill="#243B49">KPPYSYISLITMAIQQAPGKMLTLSEIYQWIMDLFPYYRENQQRWQNSIRHSLSFNDCFVKVARSPDKPGKGSYWALHPSSGNMFENGCYLRRQKRFKL</text>
+<text x="1810" y="269" font-family="Arial, Helvetica, sans-serif" font-size="20.5" font-weight="700" font-style="normal" text-anchor="start" fill="#243B49">HNF3γ</text>
+</g>
+<g id="genesis">
+<text x="66.675 84.025 101.375 118.725 136.075 153.425 170.775 188.125 205.475 222.825 240.175 257.525 274.875 292.225 309.575 326.925 344.275 361.625 378.975 396.325 413.675 431.025 448.375 465.725 483.075 500.425 517.775 535.125 552.475 569.825 587.175 604.525 621.875 639.225 656.575 673.925 691.275 708.625 725.975 743.325 760.675 778.025 795.375 812.725 830.075 847.425 864.775 882.125 899.475 916.825 934.175 951.525 968.875 986.225 1003.58 1020.93 1038.28 1055.62 1072.98 1090.33 1107.68 1125.03 1142.38 1159.73 1177.08 1194.43 1211.78 1229.12 1246.48 1263.83 1281.18 1298.53 1315.88 1333.23 1350.58 1367.93 1385.28 1402.62 1419.98 1437.33 1454.68 1472.03 1489.38 1506.73 1524.08 1541.43 1558.78 1576.13 1593.48 1610.83 1628.18 1645.53 1662.88 1680.23 1697.58 1714.93 1732.28 1749.63 1766.98 1784.33" y="362" font-family="Courier New, monospace" font-size="22.5" text-anchor="middle" fill="#243B49">KPPYSYIALITMAILQSPQKKLTLSGICEFISNRFPYYREKFPAWQNSIRHNLSLNDCFVKIPREPGNPGKGNYWTLDPQSEDMFDNGSFLRRRKRFKEL</text>
+<text x="1810" y="361" font-family="Arial, Helvetica, sans-serif" font-size="20.5" font-weight="700" font-style="normal" text-anchor="start" fill="#243B49">Genesis</text>
+</g>
+<g id="contact-markers-1">
+<text x="153.425" y="228" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="italic" text-anchor="middle" fill="#60727D">P</text>
+<text x="465.725" y="228" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="italic" text-anchor="middle" fill="#60727D">p</text>
+<text x="812.725" y="228" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="italic" text-anchor="middle" fill="#60727D">P</text>
+<text x="864.775" y="228" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="italic" text-anchor="middle" fill="#60727D">*</text>
+<text x="934.175" y="228" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="italic" text-anchor="middle" fill="#60727D">*</text>
+<text x="986.225" y="228" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="italic" text-anchor="middle" fill="#60727D">p</text>
+<text x="1003.58" y="228" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="italic" text-anchor="middle" fill="#60727D">W</text>
+<text x="1020.93" y="228" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="italic" text-anchor="middle" fill="#60727D">W</text>
+<text x="1315.88" y="228" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="italic" text-anchor="middle" fill="#60727D">p</text>
+<text x="1350.58" y="228" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="italic" text-anchor="middle" fill="#60727D">p</text>
+<text x="1628.18" y="228" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="italic" text-anchor="middle" fill="#60727D">p</text>
+<text x="1645.53" y="228" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="italic" text-anchor="middle" fill="#60727D">*</text>
+<text x="1662.88" y="228" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="italic" text-anchor="middle" fill="#60727D">p</text>
+<text x="1714.93" y="228" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="italic" text-anchor="middle" fill="#60727D">P</text>
+<text x="1810" y="228" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" font-style="italic" text-anchor="start" fill="#60727D">Contacts</text>
+</g>
+<g id="contact-markers-2">
+<text x="847.425" y="320" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="italic" text-anchor="middle" fill="#60727D">*</text>
+<text x="864.775" y="320" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="italic" text-anchor="middle" fill="#60727D">*</text>
+<text x="934.175" y="320" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="italic" text-anchor="middle" fill="#60727D">*</text>
+<text x="1107.68" y="320" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="italic" text-anchor="middle" fill="#60727D">p</text>
+<text x="1645.53" y="320" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="italic" text-anchor="middle" fill="#60727D">*</text>
+<text x="1810" y="320" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" font-style="italic" text-anchor="start" fill="#60727D">Contacts</text>
+</g>
+<g id="helical-regions">
+<line x1="144.75" y1="276" x2="335.6" y2="276" stroke="#243B49" stroke-width="1.7"/>
+<line x1="457.05" y1="276" x2="630.55" y2="276" stroke="#243B49" stroke-width="1.7"/>
+<line x1="769.35" y1="276" x2="1012.25" y2="276" stroke="#243B49" stroke-width="1.7"/>
+<line x1="144.75" y1="368" x2="335.6" y2="368" stroke="#243B49" stroke-width="1.7"/>
+<line x1="491.75" y1="368" x2="630.55" y2="368" stroke="#243B49" stroke-width="1.7"/>
+<line x1="699.95" y1="368" x2="769.35" y2="368" stroke="#243B49" stroke-width="1.7"/>
+<line x1="804.05" y1="368" x2="977.55" y2="368" stroke="#243B49" stroke-width="1.7"/>
+</g>
+<g id="structural-labels">
+<text x="240.175" y="402" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="normal" text-anchor="middle" fill="#60727D">H1</text>
+<text x="561.15" y="402" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="normal" text-anchor="middle" fill="#60727D">H2</text>
+<text x="665.25" y="402" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="normal" text-anchor="middle" fill="#60727D">L1</text>
+<text x="734.65" y="402" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="normal" text-anchor="middle" fill="#60727D">H4</text>
+<text x="890.8" y="402" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="normal" text-anchor="middle" fill="#60727D">H3</text>
+<text x="1107.68" y="402" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="italic" text-anchor="middle" fill="#60727D">S2</text>
+<text x="1229.12" y="402" font-family="Courier New, monospace" font-size="20" font-weight="700" font-style="normal" text-anchor="middle" fill="#60727D">W1</text>
+<text x="1359.25" y="402" font-family="Courier New, monospace" font-size="20" font-weight="400" font-style="italic" text-anchor="middle" fill="#60727D">S3</text>
+<text x="1680.23" y="402" font-family="Courier New, monospace" font-size="20" font-weight="700" font-style="normal" text-anchor="middle" fill="#60727D">W2</text>
+<text x="1810" y="402" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" font-style="normal" text-anchor="start" fill="#60727D">Domains</text>
+</g>
+</svg>

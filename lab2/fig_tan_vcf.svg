@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="638" viewBox="0 0 1140 638" role="img" aria-labelledby="figure-title figure-desc">
+<title id="figure-title">Four VCF representations of the same CA deletion</title>
+<desc id="figure-desc">The reference GGGCACACACAGGG and alternate GGGCACACAGGG differ by one CA deletion. Four equivalent records are shown, with each REF and ALT positioned beneath its reference start on the left and the POS, REF, and ALT fields on the right. A: 6 CAC C. B: 3 GCACA GCA. C: 2 GGCA GG. D: 3 GCA G. Only D is normalized. No caption is displayed.</desc>
+<rect x="0" y="0" width="1140" height="638" rx="0" fill="#FFFFFF"/>
+<g id="reference-and-alternate">
+<text x="40" y="69" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#243B49" text-anchor="start">Variant</text>
+<text x="222" y="50" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#243B49" text-anchor="start">Reference sequence</text>
+<text x="222" y="87" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#243B49" text-anchor="start">Alternate sequence</text>
+<text x="661 683 705 727 749 771 793 815 837 859 881 903 925 947" y="50" font-family="Courier New, monospace" font-size="25" font-weight="700" text-anchor="middle" fill="#243B49">GGGCACACACAGGG</text>
+<text x="661 683 705 727 749 771 793 815 837 859 881 903" y="87" font-family="Courier New, monospace" font-size="25" font-weight="700" text-anchor="middle" fill="#243B49">GGGCACACAGGG</text>
+</g>
+<line x1="32" y1="116" x2="1108" y2="116" stroke="#D8E0E4" stroke-width="1.4"/>
+<g id="column-headings">
+<text x="244" y="164" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#243B49" text-anchor="start">Genome reference</text>
+<text x="665" y="164" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#243B49" text-anchor="start">Variant Call Format</text>
+<text x="255" y="201" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#60727D" text-anchor="middle">1</text>
+<text x="277" y="201" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#60727D" text-anchor="middle">2</text>
+<text x="299" y="201" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#60727D" text-anchor="middle">3</text>
+<text x="321" y="201" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#60727D" text-anchor="middle">4</text>
+<text x="343" y="201" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#60727D" text-anchor="middle">5</text>
+<text x="365" y="201" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#60727D" text-anchor="middle">6</text>
+<text x="387" y="201" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#60727D" text-anchor="middle">7</text>
+<text x="409" y="201" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#60727D" text-anchor="middle">8</text>
+<text x="431" y="201" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#60727D" text-anchor="middle">9</text>
+<text x="453" y="201" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#60727D" text-anchor="middle">10</text>
+<text x="475" y="201" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#60727D" text-anchor="middle">11</text>
+<text x="497" y="201" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#60727D" text-anchor="middle">12</text>
+<text x="519" y="201" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#60727D" text-anchor="middle">13</text>
+<text x="541" y="201" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#60727D" text-anchor="middle">14</text>
+<text x="255 277 299 321 343 365 387 409 431 453 475 497 519 541" y="231" font-family="Courier New, monospace" font-size="25" font-weight="700" text-anchor="middle" fill="#243B49">GGGCACACACAGGG</text>
+<text x="672" y="231" font-family="Courier New, monospace" font-size="23" font-weight="700" fill="#243B49" text-anchor="start">POS</text>
+<text x="784" y="231" font-family="Courier New, monospace" font-size="23" font-weight="700" fill="#243B49" text-anchor="start">REF</text>
+<text x="1000" y="231" font-family="Courier New, monospace" font-size="23" font-weight="700" fill="#243B49" text-anchor="start">ALT</text>
+<line x1="610" y1="145" x2="610" y2="602" stroke="#D8E0E4" stroke-width="1.4"/>
+</g>
+<g id="representation-a">
+<text x="32" y="307" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#C7474E" text-anchor="start">(A)</text>
+<text x="105" y="289" font-family="Courier New, monospace" font-size="22" font-weight="700" fill="#C7474E" text-anchor="start">REF</text>
+<text x="105" y="321" font-family="Courier New, monospace" font-size="22" font-weight="700" fill="#C7474E" text-anchor="start">ALT</text>
+<text x="365 387 409" y="289" font-family="Courier New, monospace" font-size="25" font-weight="700" text-anchor="middle" fill="#C7474E">CAC</text>
+<text x="365" y="321" font-family="Courier New, monospace" font-size="25" font-weight="700" text-anchor="middle" fill="#C7474E">C</text>
+<text x="672" y="305" font-family="Courier New, monospace" font-size="26" font-weight="700" fill="#C7474E" text-anchor="start">6</text>
+<text x="788 810 832" y="305" font-family="Courier New, monospace" font-size="25" font-weight="700" text-anchor="middle" fill="#C7474E">CAC</text>
+<text x="1004" y="305" font-family="Courier New, monospace" font-size="25" font-weight="700" text-anchor="middle" fill="#C7474E">C</text>
+</g>
+<g id="representation-b">
+<text x="32" y="394" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#218456" text-anchor="start">(B)</text>
+<text x="105" y="376" font-family="Courier New, monospace" font-size="22" font-weight="700" fill="#218456" text-anchor="start">REF</text>
+<text x="105" y="408" font-family="Courier New, monospace" font-size="22" font-weight="700" fill="#218456" text-anchor="start">ALT</text>
+<text x="299 321 343 365 387" y="376" font-family="Courier New, monospace" font-size="25" font-weight="700" text-anchor="middle" fill="#218456">GCACA</text>
+<text x="299 321 343" y="408" font-family="Courier New, monospace" font-size="25" font-weight="700" text-anchor="middle" fill="#218456">GCA</text>
+<text x="672" y="392" font-family="Courier New, monospace" font-size="26" font-weight="700" fill="#218456" text-anchor="start">3</text>
+<text x="788 810 832 854 876" y="392" font-family="Courier New, monospace" font-size="25" font-weight="700" text-anchor="middle" fill="#218456">GCACA</text>
+<text x="1004 1026 1048" y="392" font-family="Courier New, monospace" font-size="25" font-weight="700" text-anchor="middle" fill="#218456">GCA</text>
+</g>
+<g id="representation-c">
+<text x="32" y="481" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#D7762D" text-anchor="start">(C)</text>
+<text x="105" y="463" font-family="Courier New, monospace" font-size="22" font-weight="700" fill="#D7762D" text-anchor="start">REF</text>
+<text x="105" y="495" font-family="Courier New, monospace" font-size="22" font-weight="700" fill="#D7762D" text-anchor="start">ALT</text>
+<text x="277 299 321 343" y="463" font-family="Courier New, monospace" font-size="25" font-weight="700" text-anchor="middle" fill="#D7762D">GGCA</text>
+<text x="277 299" y="495" font-family="Courier New, monospace" font-size="25" font-weight="700" text-anchor="middle" fill="#D7762D">GG</text>
+<text x="672" y="479" font-family="Courier New, monospace" font-size="26" font-weight="700" fill="#D7762D" text-anchor="start">2</text>
+<text x="788 810 832 854" y="479" font-family="Courier New, monospace" font-size="25" font-weight="700" text-anchor="middle" fill="#D7762D">GGCA</text>
+<text x="1004 1026" y="479" font-family="Courier New, monospace" font-size="25" font-weight="700" text-anchor="middle" fill="#D7762D">GG</text>
+</g>
+<g id="representation-d">
+<text x="32" y="568" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#4857A8" text-anchor="start">(D)</text>
+<text x="105" y="550" font-family="Courier New, monospace" font-size="22" font-weight="700" fill="#4857A8" text-anchor="start">REF</text>
+<text x="105" y="582" font-family="Courier New, monospace" font-size="22" font-weight="700" fill="#4857A8" text-anchor="start">ALT</text>
+<text x="299 321 343" y="550" font-family="Courier New, monospace" font-size="25" font-weight="700" text-anchor="middle" fill="#4857A8">GCA</text>
+<text x="299" y="582" font-family="Courier New, monospace" font-size="25" font-weight="700" text-anchor="middle" fill="#4857A8">G</text>
+<text x="672" y="566" font-family="Courier New, monospace" font-size="26" font-weight="700" fill="#4857A8" text-anchor="start">3</text>
+<text x="788 810 832" y="566" font-family="Courier New, monospace" font-size="25" font-weight="700" text-anchor="middle" fill="#4857A8">GCA</text>
+<text x="1004" y="566" font-family="Courier New, monospace" font-size="25" font-weight="700" text-anchor="middle" fill="#4857A8">G</text>
+<rect x="1035" y="545" width="91" height="28" rx="5" fill="#E9EDF8"/>
+<text x="1080.5" y="564" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#4857A8" text-anchor="middle">Normalized</text>
+</g>
+</svg>

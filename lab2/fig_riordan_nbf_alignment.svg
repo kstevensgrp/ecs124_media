@@ -1,0 +1,342 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2320" height="862" viewBox="0 0 2320 862" role="img" aria-labelledby="figure-title figure-desc">
+<title id="figure-title">Conserved transporter segments and CFTR F508</title>
+<desc id="figure-desc">All 26 source rows are retained in three sequence blocks of 41, 27 and 43 aligned columns. Original labels, historical residue strings, gaps and conservation bars are preserved. An orange star marks F508 in the CFTR N-terminal row, middle segment column 22. No caption is displayed.</desc>
+<rect x="0" y="0" width="2320" height="862" fill="#FFFFFF"/>
+<g id="conservation-bars">
+<g id="segment-1-conservation">
+<rect x="320.077" y="45" width="29.914" height="15" fill="#243B49"/>
+<rect x="385.063" y="45" width="29.914" height="15" fill="#243B49"/>
+<rect x="422.198" y="45" width="29.914" height="15" fill="#243B49"/>
+<rect x="464.49" y="45" width="29.914" height="15" fill="#243B49"/>
+<rect x="511.94" y="45" width="29.914" height="15" fill="#243B49"/>
+<rect x="559.39" y="45" width="108.309" height="15" fill="#243B49"/>
+<rect x="685.235" y="45" width="204.241" height="15" fill="#243B49"/>
+</g>
+<g id="segment-2-conservation">
+<rect x="970" y="45" width="24.8276" height="15" fill="#243B49"/>
+<rect x="1062.07" y="45" width="25.8621" height="15" fill="#243B49"/>
+<rect x="1207.93" y="45" width="186.207" height="15" fill="#243B49"/>
+</g>
+<g id="segment-3-conservation">
+<rect x="1611.84" y="45" width="163.636" height="15" fill="#243B49"/>
+<rect x="1789.97" y="45" width="107.71" height="15" fill="#243B49"/>
+<rect x="1957.75" y="45" width="295.167" height="15" fill="#243B49"/>
+</g>
+</g>
+<g id="f508-marker">
+<polygon points="1363,15 1364.94,20.3302 1370.61,20.5279 1366.14,24.0198 1367.7,29.4721 1363,26.3 1358.3,29.4721 1359.86,24.0198 1355.39,20.5279 1361.06,20.3302" fill="#BA562C"/>
+<text x="1380" y="30" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#BA562C">F508</text>
+</g>
+<g id="protein-1">
+<text x="28" y="94" font-family="Courier New, monospace" font-size="22.4" font-weight="700" fill="#243B49">CFTR (N)</text>
+<g id="protein-1-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="94" font-family="Courier New, monospace" font-size="22.4" font-weight="700" text-anchor="middle" fill="#243B49">FSLLGTPVLKDINFKIERGQLLAVAGSTGAGKTSLLMMIMG</text>
+</g>
+<g id="protein-1-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="94" font-family="Courier New, monospace" font-size="22.4" font-weight="700" text-anchor="middle" fill="#243B49">ISFCSQFSWIMPGTIK-ENII<tspan fill="#BA562C">F</tspan>GVSYD</text>
+</g>
+<g id="protein-1-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="94" font-family="Courier New, monospace" font-size="22.4" font-weight="700" text-anchor="middle" fill="#243B49">GEGGITLSGGQRARISLARAVYKDADLYLLDSPFGYLDVLTEK</text>
+</g>
+</g>
+<g id="protein-2">
+<text x="28" y="123" font-family="Courier New, monospace" font-size="22.4" font-weight="700" fill="#243B49">CFTR (C)</text>
+<g id="protein-2-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="123" font-family="Courier New, monospace" font-size="22.4" font-weight="700" text-anchor="middle" fill="#243B49">YTEGGNAILENISFSISPGQRVGLLGRTGSGKSTLLSAFLR</text>
+</g>
+<g id="protein-2-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="123" font-family="Courier New, monospace" font-size="22.4" font-weight="700" text-anchor="middle" fill="#243B49">DSITLQQWRKAFGVIPQKVFIFSGTFR</text>
+</g>
+<g id="protein-2-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="123" font-family="Courier New, monospace" font-size="22.4" font-weight="700" text-anchor="middle" fill="#243B49">VDGGCVLSHGHKQLMCLARSVLSKAKILLLDEPSAHLDPVTYQ</text>
+</g>
+</g>
+<g id="protein-3">
+<text x="28" y="152" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">hmdr1 (N)</text>
+<g id="protein-3-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="152" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">PSRKEVKILKGLNLKVQSGQTVALVGNSGCGKSTTVQLMQR</text>
+</g>
+<g id="protein-3-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="152" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">IGVVSQEPVLFATTI-AENIRYGRENV</text>
+</g>
+<g id="protein-3-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="152" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">GERGAQLSGGQKQRIAIARALVRNPKILLLDEATSALDTESEA</text>
+</g>
+</g>
+<g id="protein-4">
+<text x="28" y="181" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">hmdr1 (C)</text>
+<g id="protein-4-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="181" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">PTRPDIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLER</text>
+</g>
+<g id="protein-4-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="181" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">LGIVSQEPILFDCSI-AENIAYGDNSR</text>
+</g>
+<g id="protein-4-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="181" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">GDKGTLLSGGQKQRIAIARALVRQPHILLLDEATSALDTESEK</text>
+</g>
+</g>
+<g id="protein-5">
+<text x="28" y="210" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">mmdr1 (N)</text>
+<g id="protein-5-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="210" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">PSRSEVQILKGLNLKVKSGQTVALVGNSGCGKSTTVQLMQR</text>
+</g>
+<g id="protein-5-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="210" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">IGVVSQEPVLFATTI-AENIRYGREDV</text>
+</g>
+<g id="protein-5-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="210" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">GERGAQLSGGQKQRIAIARALVRNPKILLLDEATSALDTESEA</text>
+</g>
+</g>
+<g id="protein-6">
+<text x="28" y="239" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">mmdr1 (C)</text>
+<g id="protein-6-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="239" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">PTRPNIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLER</text>
+</g>
+<g id="protein-6-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="239" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">LGEVSQEPILFDCSI-AENIAYGDNSR</text>
+</g>
+<g id="protein-6-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="239" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">GDKGTQLSGGQKQRIAIARALVRQPHILLLDEATSALDTESEK</text>
+</g>
+</g>
+<g id="protein-7">
+<text x="28" y="268" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">mmdr2 (N)</text>
+<g id="protein-7-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="268" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">PSRANIKILKGLNLKVKSGQTVALVGNSGCGKSTTVQLLQR</text>
+</g>
+<g id="protein-7-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="268" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">IGVVSQEPVLSFTTI-AENIRYGRGNV</text>
+</g>
+<g id="protein-7-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="268" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">GDRGAQLSGGQKQRIAIARALVRNPKILLLDEATSALDTESEA</text>
+</g>
+</g>
+<g id="protein-8">
+<text x="28" y="297" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">mmdr2 (C)</text>
+<g id="protein-8-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="297" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">PTRANVPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLER</text>
+</g>
+<g id="protein-8-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="297" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">LGIVSQEPILFDCSI-AENIAYGDNSR</text>
+</g>
+<g id="protein-8-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="297" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">GDKGTQLSGGQKQRIAIARALIRQPRVLLLDEATSALDTESEK</text>
+</g>
+</g>
+<g id="protein-9">
+<text x="28" y="326" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">pfmdr (N)</text>
+<g id="protein-9-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="326" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">DTRKDVEIYKDLSFTLLKEGKTYAFVGESGCGKSTILKLIE</text>
+</g>
+<g id="protein-9-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="326" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">IGVVSQDPLLFSNSI-KNNIKYSLYSL</text>
+</g>
+<g id="protein-9-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="326" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">GSNASKLSGGQKQRISIARAIMRNPKILILDEATSSLDNKSEY</text>
+</g>
+</g>
+<g id="protein-10">
+<text x="28" y="355" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">pfmdr (C)</text>
+<g id="protein-10-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="355" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">ISRPNVPIYKNLSFTCDSKKTTAIVGETGSGKSTFMNLLLR</text>
+</g>
+<g id="protein-10-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="355" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">FSIVSQEPMLFNMSI-YENIKFGREDA</text>
+</g>
+<g id="protein-10-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="355" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">PYGKS-LSGGQKQRIAIARALLREPKILLLDEATSSLDSNSEK</text>
+</g>
+</g>
+<g id="protein-11">
+<text x="28" y="384" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">STE6 (N)</text>
+<g id="protein-11-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="384" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">PSRPSEAVLKNVSLNFSAGQFTFIVGKSGSGKSTLSNLLLR</text>
+</g>
+<g id="protein-11-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="384" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">ITVVEQRCTLFNDTL-RKNILLGSTDS</text>
+</g>
+<g id="protein-11-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="384" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">GTGGVTLSGGQQQRVAIARAFIRDTPILFLDEAVSALDIVHRN</text>
+</g>
+</g>
+<g id="protein-12">
+<text x="28" y="413" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">STE6 (C)</text>
+<g id="protein-12-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="413" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">PSAPTAFVYKNMNFDMFCGQTLGIIGESGTGKSTLVLLLTK</text>
+</g>
+<g id="protein-12-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="413" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">ISVVEQKPLLFNGTI-RDNLTYGLQDE</text>
+</g>
+<g id="protein-12-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="413" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">RIDTTLLSGGQAQRLCIARALLRKSKILILDECTSALDSVSSS</text>
+</g>
+</g>
+<g id="protein-13">
+<text x="28" y="442" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">hlyB</text>
+<g id="protein-13-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="442" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">YKPDSPVILDNINISIKQGEVIGIVGRSGSGKSTLIKLIQR</text>
+</g>
+<g id="protein-13-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="442" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">VGVVLQDNVLLNRSI-IDNISLAPGMS</text>
+</g>
+<g id="protein-13-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="442" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">GEQGAGLSGGQRQRIAIARALVNNPKILIFDEATSALDYASEH</text>
+</g>
+</g>
+<g id="protein-14">
+<text x="28" y="471" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">White</text>
+<g id="protein-14-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="471" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">IPAPRKHLLKNVCGVAYPGELLAVMGSSGAGKTTLLNALAF</text>
+</g>
+<g id="protein-14-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="471" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">RCAYVQQDDLFIGLIAREHLIFQAMVR</text>
+</g>
+<g id="protein-14-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="471" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">PGRVKGLSGGERKRLAFASEALTDPPLLICDEPTSGLDSFTAH</text>
+</g>
+</g>
+<g id="protein-15">
+<text x="28" y="500" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">MbpX</text>
+<g id="protein-15-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="500" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">KSLGNLKILDRVSLYVPKFSLIALLGPSGSGKSSLLRILAG</text>
+</g>
+<g id="protein-15-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="500" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">MSFVFQHYALFKHMTVYENISFGLRLR</text>
+</g>
+<g id="protein-15-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="500" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">FEYPAQLSGGQKQRVALARSLAIQPDLLL-DEPFGALDGELRR</text>
+</g>
+</g>
+<g id="protein-16">
+<text x="28" y="529" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">BtuD</text>
+<g id="protein-16-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="529" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">QDVAESTRLGPLSGEVRAGRILHLVGPNGAGKSTLLARIAG</text>
+</g>
+<g id="protein-16-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="529" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">YLSQQQTPPFATPVWHYLTLHQHDKTR</text>
+</g>
+<g id="protein-16-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="529" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">GRSTNQLSGGEWQRVRLAAVVLQITLLLLDEPMNSLDVAQQSA</text>
+</g>
+</g>
+<g id="protein-17">
+<text x="28" y="558" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">PstB</text>
+<g id="protein-17-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="558" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">FYYGKFHALKNINLDTAKNQVTAFIGPSGCGKSTLLRTFNK</text>
+</g>
+<g id="protein-17-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="558" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">VGMVFQKPTPFPMSI-YDNIAFGVRLF</text>
+</g>
+<g id="protein-17-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="558" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">HQSGYSLSGGQQQRLCIARGIAIRPEVLLLDEPCSALDPISTG</text>
+</g>
+</g>
+<g id="protein-18">
+<text x="28" y="587" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">hisP</text>
+<g id="protein-18-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="587" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">RRYGGHEVLKGVSLQARAGDVISIIGSSGSGKSTFLRCINF</text>
+</g>
+<g id="protein-18-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="587" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">GIMVFQHFNLWSHMTVLENVMEAPIQV</text>
+</g>
+<g id="protein-18-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="587" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">GKYPVHLSGGQQQRVSIARALAMEPDVLLFDEPTSALDPELVG</text>
+</g>
+</g>
+<g id="protein-19">
+<text x="28" y="616" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">malK</text>
+<g id="protein-19-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="616" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">KAWGEVVVSKDINIDIHEGEFVVFVGPSGCGKSTLLRMIAG</text>
+</g>
+<g id="protein-19-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="616" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">VGMVFQSYALYPHLSVAENMSFGLKPA</text>
+</g>
+<g id="protein-19-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="616" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">DRKPKALSGGQRQRVAIGRTLVAEPSVFLLDEPLSNLDAALRV</text>
+</g>
+</g>
+<g id="protein-20">
+<text x="28" y="645" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">oppD</text>
+<g id="protein-20-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="645" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">TPDGDVTAVNDLNFTLRAGETLGIVGESGSGKSQTAFALMG</text>
+</g>
+<g id="protein-20-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="645" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">ISMIFQDPMTSLNPYMRVGEQLMEVLM</text>
+</g>
+<g id="protein-20-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="645" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">KMYPHEFSGGMRQRVMIAMALLCRPKLLIADEPTTALDVTVQA</text>
+</g>
+</g>
+<g id="protein-21">
+<text x="28" y="674" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">oppF</text>
+<g id="protein-21-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="674" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">QPPKTLKAVDGVTLRLYEGETLGVVGESGCGKSTFARAIIG</text>
+</g>
+<g id="protein-21-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="674" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">IQMIFQDPLASLNPRMTIGEIIAEPLR</text>
+</g>
+<g id="protein-21-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="674" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">NRYPHEFSGGQCQRIGIARALILEPKLLICDDAVSALDVSIQA</text>
+</g>
+</g>
+<g id="protein-22">
+<text x="28" y="703" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">RbsA (N)</text>
+<g id="protein-22-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="703" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">KAVPGVKALSGAALNVYPGRVMALVGENGAGKSTMMKVLTG</text>
+</g>
+<g id="protein-22-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="703" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">AGIIHQELNLIPQLTIAENIFLGREFV</text>
+</g>
+<g id="protein-22-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="703" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">DKLVGDLSIGDQQMVEIAKVLSFESKVIIMDEPTCALIDTETE</text>
+</g>
+</g>
+<g id="protein-23">
+<text x="28" y="732" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">RbsA (C)</text>
+<g id="protein-23-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="732" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">VDNLCGPGVNDVSFTLRKGEILGVSGLMGAGRTELMKVLYG</text>
+</g>
+<g id="protein-23-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="732" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">ISEDRKRDGLVLGMSVKENMSLTALRY</text>
+</g>
+<g id="protein-23-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="732" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">EQAIGLLSGGNQQKVAIARGLMTRPKVLILDEPTPGVDVGAKK</text>
+</g>
+</g>
+<g id="protein-24">
+<text x="28" y="761" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">UvrA</text>
+<g id="protein-24-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="761" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">LTGARGNNLKDVTLTLPVGLFTCITGVSGSGKSTLINDTLF</text>
+</g>
+<g id="protein-24-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="761" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">TYTGVFTPVRELFAGVPESRARGYTPG</text>
+</g>
+<g id="protein-24-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="761" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">GQSATTLSGGEAQRVKLARELSKRGLYILDEPTTGLHFADIQQ</text>
+</g>
+</g>
+<g id="protein-25">
+<text x="28" y="790" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">NodI</text>
+<g id="protein-25-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="790" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">KSYGGKIVVNDLSFTIAAGECFGLLGPNGAGKSTIIRMILG</text>
+</g>
+<g id="protein-25-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="790" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">IGIVSQEDNLDLEFTVRENLLVYGRYF</text>
+</g>
+<g id="protein-25-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="790" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">NTRVADLSGGMKRRLTLAGALINDPQLLILDEPTTGLDPHARH</text>
+</g>
+</g>
+<g id="protein-26">
+<text x="28" y="819" font-family="Courier New, monospace" font-size="22.4" font-weight="400" fill="#243B49">FtsE</text>
+<g id="protein-26-segment-1">
+<text x="203 221 239 257 275 293 311 329 347 365 383 401 419 437 455 473 491 509 527 545 563 581 599 617 635 653 671 689 707 725 743 761 779 797 815 833 851 869 887 905 923" y="819" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">AYLGGRQALQGVTFHMQPGEMAFLTGHSGAGKSTLLKLICG</text>
+</g>
+<g id="protein-26-segment-2">
+<text x="985 1003 1021 1039 1057 1075 1093 1111 1129 1147 1165 1183 1201 1219 1237 1255 1273 1291 1309 1327 1345 1363 1381 1399 1417 1435 1453" y="819" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">IGMIFQDHHLLMDRTVYDNVAIPLIIA</text>
+</g>
+<g id="protein-26-segment-3">
+<text x="1515 1533 1551 1569 1587 1605 1623 1641 1659 1677 1695 1713 1731 1749 1767 1785 1803 1821 1839 1857 1875 1893 1911 1929 1947 1965 1983 2001 2019 2037 2055 2073 2091 2109 2127 2145 2163 2181 2199 2217 2235 2253 2271" y="819" font-family="Courier New, monospace" font-size="22.4" font-weight="400" text-anchor="middle" fill="#243B49">KNFPIQLSGGEQQRVGIARAVVNKPAVLLADEPTGNLDDALSE</text>
+</g>
+</g>
+</svg>
