@@ -49,7 +49,7 @@ source) and a PNG (1760 px wide, greyscale, for Google Docs).
 | figure | what it shows |
 |---|---|
 | `hamming-kj-target` | Hamming distance from the patient's 23-character KJ target S1 (CPS1 Q335X) to the wild-type CPS1 sequence (1), the ATP7B intron site (4) and the DNAI7 exon site (5); differing characters shaded |
-| `hamming-f508del` | Hamming distance between the CFTR sequence around F508 (S1, 16 characters) and the patient's F508del sequence (S2, 13): (a) S2 at the left end of S1, 5; (b) at the right end, 1; (c) S3 = S2 with three dashes inserted, 3. Overhanging characters are not counted |
+| `hamming-f508del` | Hamming distance between the CFTR sequence around F508 (S1 = GAAAATATCATCTTTGGTGTTT, 22 characters) and the patient's F508del sequence (S2, 19): (a) S2 at the left end of S1, 5; (b) at the right end, 5; (c) S3 = S2 with three dashes inserted, 3. Overhanging characters are not counted |
 
 ## lab1/
 
