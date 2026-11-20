@@ -53,5 +53,6 @@ SVG (the vector original, the same file the Canvas page uses) and a PNG
 | `fig_strand` | 3 | a read matching the reference directly, and a read matching only after reverse complementation |
 | `fig_comparisons` | 4 | the Part E/F answer: character comparisons against pattern length for naive, Boyer–Moore and KMP, one panel per text (random, repetitive, CPS1) |
 | `fig_comparisons_example` | — | (superseded by `fig_comparisons`, 2026-11-18) example line chart of the same axes, computed on different data |
-| `fig_mapping_example` | 5 | example histogram of how many positions each read maps to, computed on different data |
+| `fig_mapping` | 5 | the Part G answer: how many places each read maps to, for the CPS1 reads (200 once, 10 nowhere) and the mixed reads (176 once, 24 at 25 places, 10 nowhere) |
+| `fig_mapping_example` | — | (superseded by `fig_mapping`, 2026-11-20) example histogram of the same axes, computed on different data |
 | `fig_mismatch_ladder` | 6 | four sequences aligned against the guide at 0, 1, 3 and 5 mismatches |
