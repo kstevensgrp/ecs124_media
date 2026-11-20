@@ -15,6 +15,7 @@ Media is organized by subject, one folder per subject:
 | `unit1_notes/` | figures for the Unit 1 notes |
 | `lab1/` | page figures for the Lab 1 writeup (exact matching) |
 | `lab2/` | page figures for the Lab 2 and Lab 2 Extra writeups (approximate matching) |
+| `unit2_notes/` | figures for the Unit 2 Handout (approximate matching and sequence alignment) |
 
 ## unit1_notes/
 
@@ -39,6 +40,16 @@ source, for slides and print) and a PNG (for Google Docs, which cannot embed SVG
 | `bm-badchar-tpabxab` | Boyer–Moore right-to-left scan and bad character shift for P = tpabxab at index 2 of T = xpbctbxabpqxctbpq (Gusfield's §2.2.1 example, 0-based) |
 | `bm-bad-character` | schematic of the bad character rule in three cases: x absent from P, two copies of x left of the mismatch, and copies on both sides (rightmost inside t, shift 1) |
 | `bm-good-suffix` | schematic of the good suffix rule: x, y, z, t and t′ (Gusfield Fig. 2.1 redrawn) |
+
+## unit2_notes/
+
+Figures for the Unit 2 Handout. Each figure is provided as an SVG (the vector
+source) and a PNG (1760 px wide, greyscale, for Google Docs).
+
+| figure | what it shows |
+|---|---|
+| `hamming-kj-target` | Hamming distance from the patient's 23-character KJ target S1 (CPS1 Q335X) to the wild-type CPS1 sequence (1), the ATP7B intron site (4) and the DNAI7 exon site (5); differing characters shaded |
+| `hamming-f508del` | Hamming distance between the CFTR sequence around F508 (S1, 16 characters) and the patient's F508del sequence (S2, 13): (a) S2 at the left end of S1, 5; (b) at the right end, 1; (c) S3 = S2 with three dashes inserted, 3. Overhanging characters are not counted |
 
 ## lab1/
 
