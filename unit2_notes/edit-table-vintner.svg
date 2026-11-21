@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330">
+<rect x="0" y="0" width="760" height="330" fill="#ffffff"/>
+<text x="16.00" y="26.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.50" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve"><tspan>Filling the edit distance table for S</tspan><tspan dy="3.50" font-size="9.00">1</tspan><tspan dy="-3.50"> = vintner and S</tspan><tspan dy="3.50" font-size="9.00">2</tspan><tspan dy="-3.50"> = writers</tspan></text>
+<text x="16.00" y="64.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.50" fill="#000000" text-anchor="start" font-weight="bold" xml:space="preserve">(a)</text>
+<text x="44.00" y="64.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.50" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">row 0 and column 0 from the base conditions</text>
+<text x="396.00" y="64.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.50" fill="#000000" text-anchor="start" font-weight="bold" xml:space="preserve">(b)</text>
+<text x="424.00" y="64.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.50" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">row by row, left to right, up to D[4][3]</text>
+<text x="63.00" y="94.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#999999" text-anchor="middle" font-weight="normal" xml:space="preserve">i</text>
+<text x="30.00" y="112.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#999999" text-anchor="middle" font-weight="normal" xml:space="preserve">j</text>
+<text x="95.00" y="112.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<text x="125.00" y="94.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">w</text>
+<text x="125.00" y="112.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">1</text>
+<text x="155.00" y="94.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">r</text>
+<text x="155.00" y="112.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">2</text>
+<text x="185.00" y="94.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">i</text>
+<text x="185.00" y="112.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">3</text>
+<text x="215.00" y="94.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">t</text>
+<text x="215.00" y="112.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">4</text>
+<text x="245.00" y="94.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">e</text>
+<text x="245.00" y="112.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">5</text>
+<text x="275.00" y="94.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">r</text>
+<text x="275.00" y="112.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">6</text>
+<text x="305.00" y="94.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">s</text>
+<text x="305.00" y="112.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">7</text>
+<text x="63.00" y="134.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<text x="95.00" y="134.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<text x="125.00" y="134.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">1</text>
+<text x="155.00" y="134.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">2</text>
+<text x="185.00" y="134.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">3</text>
+<text x="215.00" y="134.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">4</text>
+<text x="245.00" y="134.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">5</text>
+<text x="275.00" y="134.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">6</text>
+<text x="305.00" y="134.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">7</text>
+<text x="30.00" y="160.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">v</text>
+<text x="63.00" y="160.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">1</text>
+<text x="95.00" y="160.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">1</text>
+<text x="30.00" y="186.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">i</text>
+<text x="63.00" y="186.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">2</text>
+<text x="95.00" y="186.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">2</text>
+<text x="30.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">n</text>
+<text x="63.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">3</text>
+<text x="95.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">3</text>
+<text x="30.00" y="238.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">t</text>
+<text x="63.00" y="238.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">4</text>
+<text x="95.00" y="238.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">4</text>
+<text x="30.00" y="264.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">n</text>
+<text x="63.00" y="264.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">5</text>
+<text x="95.00" y="264.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">5</text>
+<text x="30.00" y="290.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">e</text>
+<text x="63.00" y="290.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">6</text>
+<text x="95.00" y="290.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">6</text>
+<text x="30.00" y="316.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">r</text>
+<text x="63.00" y="316.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">7</text>
+<text x="95.00" y="316.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">7</text>
+<line x1="80.00" y1="116.00" x2="320.00" y2="116.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="80.00" y1="142.00" x2="320.00" y2="142.00" stroke="#cccccc" stroke-width="1.60"/>
+<line x1="80.00" y1="168.00" x2="320.00" y2="168.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="80.00" y1="194.00" x2="320.00" y2="194.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="80.00" y1="220.00" x2="320.00" y2="220.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="80.00" y1="246.00" x2="320.00" y2="246.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="80.00" y1="272.00" x2="320.00" y2="272.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="80.00" y1="298.00" x2="320.00" y2="298.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="80.00" y1="324.00" x2="320.00" y2="324.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="80.00" y1="116.00" x2="80.00" y2="324.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="110.00" y1="116.00" x2="110.00" y2="324.00" stroke="#cccccc" stroke-width="1.60"/>
+<line x1="140.00" y1="116.00" x2="140.00" y2="324.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="170.00" y1="116.00" x2="170.00" y2="324.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="200.00" y1="116.00" x2="200.00" y2="324.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="230.00" y1="116.00" x2="230.00" y2="324.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="260.00" y1="116.00" x2="260.00" y2="324.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="290.00" y1="116.00" x2="290.00" y2="324.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="320.00" y1="116.00" x2="320.00" y2="324.00" stroke="#cccccc" stroke-width="0.80"/>
+<text x="443.00" y="94.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#999999" text-anchor="middle" font-weight="normal" xml:space="preserve">i</text>
+<text x="410.00" y="112.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.00" fill="#999999" text-anchor="middle" font-weight="normal" xml:space="preserve">j</text>
+<text x="475.00" y="112.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<text x="505.00" y="94.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">w</text>
+<text x="505.00" y="112.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">1</text>
+<text x="535.00" y="94.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">r</text>
+<text x="535.00" y="112.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">2</text>
+<text x="565.00" y="94.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">i</text>
+<text x="565.00" y="112.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">3</text>
+<text x="595.00" y="94.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">t</text>
+<text x="595.00" y="112.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">4</text>
+<text x="625.00" y="94.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">e</text>
+<text x="625.00" y="112.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">5</text>
+<text x="655.00" y="94.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">r</text>
+<text x="655.00" y="112.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">6</text>
+<text x="685.00" y="94.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">s</text>
+<text x="685.00" y="112.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">7</text>
+<text x="443.00" y="134.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<text x="475.00" y="134.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<text x="505.00" y="134.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">1</text>
+<text x="535.00" y="134.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">2</text>
+<text x="565.00" y="134.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">3</text>
+<text x="595.00" y="134.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">4</text>
+<text x="625.00" y="134.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">5</text>
+<text x="655.00" y="134.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">6</text>
+<text x="685.00" y="134.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">7</text>
+<text x="410.00" y="160.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">v</text>
+<text x="443.00" y="160.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">1</text>
+<text x="475.00" y="160.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">1</text>
+<text x="505.00" y="160.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">1</text>
+<text x="535.00" y="160.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">2</text>
+<text x="565.00" y="160.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">3</text>
+<text x="595.00" y="160.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">4</text>
+<text x="625.00" y="160.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">5</text>
+<text x="655.00" y="160.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">6</text>
+<text x="685.00" y="160.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">7</text>
+<text x="410.00" y="186.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">i</text>
+<text x="443.00" y="186.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">2</text>
+<text x="475.00" y="186.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">2</text>
+<text x="505.00" y="186.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">2</text>
+<text x="535.00" y="186.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">2</text>
+<text x="565.00" y="186.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">2</text>
+<text x="595.00" y="186.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">3</text>
+<text x="625.00" y="186.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">4</text>
+<text x="655.00" y="186.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">5</text>
+<text x="685.00" y="186.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">6</text>
+<text x="410.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">n</text>
+<text x="443.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">3</text>
+<text x="475.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">3</text>
+<text x="505.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">3</text>
+<text x="535.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">3</text>
+<rect x="550.00" y="194.00" width="30.00" height="26.00" fill="#d6d6d6" stroke="none" stroke-width="1.00" rx="0.0"/>
+<text x="565.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">3</text>
+<rect x="580.00" y="194.00" width="30.00" height="26.00" fill="#d6d6d6" stroke="none" stroke-width="1.00" rx="0.0"/>
+<text x="595.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">3</text>
+<text x="625.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">4</text>
+<text x="655.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">5</text>
+<text x="685.00" y="212.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">6</text>
+<text x="410.00" y="238.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">t</text>
+<text x="443.00" y="238.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">4</text>
+<text x="475.00" y="238.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">4</text>
+<text x="505.00" y="238.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">4</text>
+<text x="535.00" y="238.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">4</text>
+<rect x="550.00" y="220.00" width="30.00" height="26.00" fill="#d6d6d6" stroke="none" stroke-width="1.00" rx="0.0"/>
+<text x="565.00" y="238.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">4</text>
+<rect x="582.00" y="222.00" width="26.00" height="22.00" fill="none" stroke="#000000" stroke-width="1.20" rx="0.0" stroke-dasharray="3,2"/>
+<text x="595.00" y="238.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="15.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">*</text>
+<text x="410.00" y="264.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">n</text>
+<text x="443.00" y="264.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">5</text>
+<text x="475.00" y="264.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">5</text>
+<text x="410.00" y="290.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">e</text>
+<text x="443.00" y="290.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">6</text>
+<text x="475.00" y="290.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">6</text>
+<text x="410.00" y="316.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">r</text>
+<text x="443.00" y="316.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">7</text>
+<text x="475.00" y="316.00" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">7</text>
+<line x1="460.00" y1="116.00" x2="700.00" y2="116.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="460.00" y1="142.00" x2="700.00" y2="142.00" stroke="#cccccc" stroke-width="1.60"/>
+<line x1="460.00" y1="168.00" x2="700.00" y2="168.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="460.00" y1="194.00" x2="700.00" y2="194.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="460.00" y1="220.00" x2="700.00" y2="220.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="460.00" y1="246.00" x2="700.00" y2="246.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="460.00" y1="272.00" x2="700.00" y2="272.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="460.00" y1="298.00" x2="700.00" y2="298.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="460.00" y1="324.00" x2="700.00" y2="324.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="460.00" y1="116.00" x2="460.00" y2="324.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="490.00" y1="116.00" x2="490.00" y2="324.00" stroke="#cccccc" stroke-width="1.60"/>
+<line x1="520.00" y1="116.00" x2="520.00" y2="324.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="550.00" y1="116.00" x2="550.00" y2="324.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="580.00" y1="116.00" x2="580.00" y2="324.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="610.00" y1="116.00" x2="610.00" y2="324.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="640.00" y1="116.00" x2="640.00" y2="324.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="670.00" y1="116.00" x2="670.00" y2="324.00" stroke="#cccccc" stroke-width="0.80"/>
+<line x1="700.00" y1="116.00" x2="700.00" y2="324.00" stroke="#cccccc" stroke-width="0.80"/>
+</svg>
