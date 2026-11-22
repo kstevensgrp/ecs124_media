@@ -53,6 +53,7 @@ source) and a PNG (1760 px wide, greyscale, for Google Docs).
 | `edit-table-vintner` | the edit distance table for S1 = vintner and S2 = writers (Gusfield Figs 11.1 and 11.2 redrawn): (a) row 0 and column 0 from the base conditions; (b) filled row by row up to D[4][3], with D[4][4] next and the three cells it reads shaded |
 | `edit-pointers-vintner` | the same table with every pointer (Gusfield Fig 11.3 redrawn): ← to (i, j − 1), ↑ to (i − 1, j), ↖ to (i − 1, j − 1); the cells on the three traceback paths from (7, 7) to (0, 0) shaded |
 | `local-pointers-pqraxabcstvq` | the local alignment (Smith-Waterman) table for S1 = pqraxabcstvq and S2 = xyaxbacsll (the example of Gusfield §11.7) with match 2, mismatch −2 and gap 1, in the layout of `edit-pointers-vintner`: a pointer out of every cell with a positive value; the largest value, 8, is in cell (9, 8), and the cells on the two tracebacks to the zero cell (3, 2) are shaded (axab-cs / ax-bacs and ax-abcs / axba-cs) |
+| `gap-types` | the three types of alignment behind the affine gap recurrences (after Gusfield Fig. 11.8, redrawn): an alignment of the first i characters of S1 and the first j of S2 ends with S2[j − 1] opposite a space (type 1, E[i][j]), with S1[i − 1] opposite a space (type 2, F[i][j]), or with S1[i − 1] opposite S2[j − 1] (type 3, G[i][j]); each panel shows the last column and what the rest of the alignment covers |
 
 ## lab1/
 
