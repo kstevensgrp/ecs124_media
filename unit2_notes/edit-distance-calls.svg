@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="699" viewBox="0 0 640 699">
+<rect x="0" y="0" width="640" height="699" fill="#ffffff"/>
+<text x="51.00" y="24.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.50" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">first call</text>
+<text x="51.00" y="41.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">1 call</text>
+<text x="209.00" y="24.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.50" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">level 1</text>
+<text x="209.00" y="41.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">3 calls, 3 different</text>
+<text x="367.00" y="24.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.50" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">level 2</text>
+<text x="367.00" y="41.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">9 calls, 6 different</text>
+<text x="525.00" y="24.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.50" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">level 3</text>
+<text x="525.00" y="41.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">27 calls, 10 different</text>
+<line x1="80.00" y1="347.00" x2="180.00" y2="158.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="80.00" y1="347.00" x2="180.00" y2="347.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="80.00" y1="347.00" x2="180.00" y2="536.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="238.00" y1="158.00" x2="338.00" y2="95.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="238.00" y1="158.00" x2="338.00" y2="158.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="238.00" y1="158.00" x2="338.00" y2="221.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="238.00" y1="347.00" x2="338.00" y2="284.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="238.00" y1="347.00" x2="338.00" y2="347.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="238.00" y1="347.00" x2="338.00" y2="410.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="238.00" y1="536.00" x2="338.00" y2="473.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="238.00" y1="536.00" x2="338.00" y2="536.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="238.00" y1="536.00" x2="338.00" y2="599.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="95.00" x2="496.00" y2="74.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="95.00" x2="496.00" y2="95.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="95.00" x2="496.00" y2="116.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="158.00" x2="496.00" y2="137.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="158.00" x2="496.00" y2="158.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="158.00" x2="496.00" y2="179.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="221.00" x2="496.00" y2="200.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="221.00" x2="496.00" y2="221.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="221.00" x2="496.00" y2="242.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="284.00" x2="496.00" y2="263.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="284.00" x2="496.00" y2="284.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="284.00" x2="496.00" y2="305.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="347.00" x2="496.00" y2="326.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="347.00" x2="496.00" y2="347.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="347.00" x2="496.00" y2="368.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="410.00" x2="496.00" y2="389.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="410.00" x2="496.00" y2="410.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="410.00" x2="496.00" y2="431.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="473.00" x2="496.00" y2="452.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="473.00" x2="496.00" y2="473.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="473.00" x2="496.00" y2="494.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="536.00" x2="496.00" y2="515.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="536.00" x2="496.00" y2="536.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="536.00" x2="496.00" y2="557.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="599.00" x2="496.00" y2="578.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="599.00" x2="496.00" y2="599.00" stroke="#cccccc" stroke-width="1.00"/>
+<line x1="396.00" y1="599.00" x2="496.00" y2="620.00" stroke="#cccccc" stroke-width="1.00"/>
+<text x="122.00" y="256.50" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10.50" fill="#555555" text-anchor="end" font-weight="normal" font-style="italic" xml:space="preserve">insert</text>
+<text x="130.00" y="342.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" font-style="italic" xml:space="preserve">delete</text>
+<text x="122.00" y="445.50" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10.50" fill="#555555" text-anchor="end" font-weight="normal" font-style="italic" xml:space="preserve">align</text>
+<rect x="22.00" y="339.00" width="58.00" height="16.00" fill="#ffffff" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="51.00" y="351.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(7, 7)</text>
+<rect x="180.00" y="150.00" width="58.00" height="16.00" fill="#ffffff" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="209.00" y="162.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(7, 6)</text>
+<rect x="180.00" y="339.00" width="58.00" height="16.00" fill="#ffffff" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="209.00" y="351.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(6, 7)</text>
+<rect x="180.00" y="528.00" width="58.00" height="16.00" fill="#e4e4e4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="209.00" y="540.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(6, 6)</text>
+<rect x="338.00" y="87.00" width="58.00" height="16.00" fill="#ffffff" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="367.00" y="99.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(7, 5)</text>
+<rect x="338.00" y="150.00" width="58.00" height="16.00" fill="#e4e4e4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="367.00" y="162.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(6, 6)</text>
+<rect x="338.00" y="213.00" width="58.00" height="16.00" fill="#c4c4c4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="367.00" y="225.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(6, 5)</text>
+<rect x="338.00" y="276.00" width="58.00" height="16.00" fill="#e4e4e4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="367.00" y="288.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(6, 6)</text>
+<rect x="338.00" y="339.00" width="58.00" height="16.00" fill="#ffffff" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="367.00" y="351.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(5, 7)</text>
+<rect x="338.00" y="402.00" width="58.00" height="16.00" fill="#c4c4c4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="367.00" y="414.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(5, 6)</text>
+<rect x="338.00" y="465.00" width="58.00" height="16.00" fill="#c4c4c4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="367.00" y="477.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(6, 5)</text>
+<rect x="338.00" y="528.00" width="58.00" height="16.00" fill="#c4c4c4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="367.00" y="540.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(5, 6)</text>
+<rect x="338.00" y="591.00" width="58.00" height="16.00" fill="#9e9e9e" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="367.00" y="603.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(5, 5)</text>
+<rect x="496.00" y="66.00" width="58.00" height="16.00" fill="#ffffff" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="78.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(7, 4)</text>
+<rect x="496.00" y="87.00" width="58.00" height="16.00" fill="#c4c4c4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="99.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(6, 5)</text>
+<rect x="496.00" y="108.00" width="58.00" height="16.00" fill="#e4e4e4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="120.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(6, 4)</text>
+<rect x="496.00" y="129.00" width="58.00" height="16.00" fill="#c4c4c4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="141.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(6, 5)</text>
+<rect x="496.00" y="150.00" width="58.00" height="16.00" fill="#c4c4c4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="162.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(5, 6)</text>
+<rect x="496.00" y="171.00" width="58.00" height="16.00" fill="#9e9e9e" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="183.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(5, 5)</text>
+<rect x="496.00" y="192.00" width="58.00" height="16.00" fill="#e4e4e4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="204.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(6, 4)</text>
+<rect x="496.00" y="213.00" width="58.00" height="16.00" fill="#9e9e9e" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="225.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(5, 5)</text>
+<rect x="496.00" y="234.00" width="58.00" height="16.00" fill="#e4e4e4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="246.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(5, 4)</text>
+<rect x="496.00" y="255.00" width="58.00" height="16.00" fill="#c4c4c4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="267.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(6, 5)</text>
+<rect x="496.00" y="276.00" width="58.00" height="16.00" fill="#c4c4c4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="288.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(5, 6)</text>
+<rect x="496.00" y="297.00" width="58.00" height="16.00" fill="#9e9e9e" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="309.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(5, 5)</text>
+<rect x="496.00" y="318.00" width="58.00" height="16.00" fill="#c4c4c4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="330.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(5, 6)</text>
+<rect x="496.00" y="339.00" width="58.00" height="16.00" fill="#ffffff" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="351.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(4, 7)</text>
+<rect x="496.00" y="360.00" width="58.00" height="16.00" fill="#e4e4e4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="372.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(4, 6)</text>
+<rect x="496.00" y="381.00" width="58.00" height="16.00" fill="#9e9e9e" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="393.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(5, 5)</text>
+<rect x="496.00" y="402.00" width="58.00" height="16.00" fill="#e4e4e4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="414.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(4, 6)</text>
+<rect x="496.00" y="423.00" width="58.00" height="16.00" fill="#e4e4e4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="435.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(4, 5)</text>
+<rect x="496.00" y="444.00" width="58.00" height="16.00" fill="#e4e4e4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="456.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(6, 4)</text>
+<rect x="496.00" y="465.00" width="58.00" height="16.00" fill="#9e9e9e" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="477.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(5, 5)</text>
+<rect x="496.00" y="486.00" width="58.00" height="16.00" fill="#e4e4e4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="498.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(5, 4)</text>
+<rect x="496.00" y="507.00" width="58.00" height="16.00" fill="#9e9e9e" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="519.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(5, 5)</text>
+<rect x="496.00" y="528.00" width="58.00" height="16.00" fill="#e4e4e4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="540.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(4, 6)</text>
+<rect x="496.00" y="549.00" width="58.00" height="16.00" fill="#e4e4e4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="561.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(4, 5)</text>
+<rect x="496.00" y="570.00" width="58.00" height="16.00" fill="#e4e4e4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="582.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(5, 4)</text>
+<rect x="496.00" y="591.00" width="58.00" height="16.00" fill="#e4e4e4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="603.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(4, 5)</text>
+<rect x="496.00" y="612.00" width="58.00" height="16.00" fill="#ffffff" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="525.00" y="624.20" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="11.50" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">(4, 4)</text>
+<text x="22.00" y="667.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#555555" text-anchor="start" font-weight="normal" xml:space="preserve">In this figure the pair is</text>
+<rect x="152.66" y="656.00" width="18.00" height="14.00" fill="#ffffff" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="176.66" y="667.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">called once</text>
+<rect x="254.59" y="656.00" width="18.00" height="14.00" fill="#e4e4e4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="278.59" y="667.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">3 times</text>
+<rect x="334.60" y="656.00" width="18.00" height="14.00" fill="#c4c4c4" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="358.60" y="667.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">5 times</text>
+<rect x="414.50" y="656.00" width="18.00" height="14.00" fill="#9e9e9e" stroke="#444444" stroke-width="0.80" rx="2.0"/>
+<text x="438.50" y="667.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">7 times</text>
+</svg>

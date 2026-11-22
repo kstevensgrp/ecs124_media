@@ -54,6 +54,8 @@ source) and a PNG (1760 px wide, greyscale, for Google Docs).
 | `edit-pointers-vintner` | the same table with every pointer (Gusfield Fig 11.3 redrawn): ← to (i, j − 1), ↑ to (i − 1, j), ↖ to (i − 1, j − 1); the cells on the three traceback paths from (7, 7) to (0, 0) shaded |
 | `local-pointers-pqraxabcstvq` | the local alignment (Smith-Waterman) table for S1 = pqraxabcstvq and S2 = xyaxbacsll (the example of Gusfield §11.7) with match 2, mismatch −2 and gap 1, in the layout of `edit-pointers-vintner`: a pointer out of every cell with a positive value; the largest value, 8, is in cell (9, 8), and the cells on the two tracebacks to the zero cell (3, 2) are shaded (axab-cs / ax-bacs and ax-abcs / axba-cs) |
 | `gap-types` | the three types of alignment behind the affine gap recurrences (after Gusfield Fig. 11.8, redrawn): an alignment of the first i characters of S1 and the first j of S2 ends with S2[j − 1] opposite a space (type 1, E[i][j]), with S1[i − 1] opposite a space (type 2, F[i][j]), or with S1[i − 1] opposite S2[j − 1] (type 3, G[i][j]); each panel shows the last column and what the rest of the alignment covers |
+| `edit-distance-calls` | Appendix A Figure A1: the first three levels of calls made by EDIT-DISTANCE(vintner, writers, 7, 7), drawn left to right (insert, delete, align top to bottom); each box shaded by how many times its pair (i, j) is called in the figure (1, 3, 5 or 7) |
+| `art-tour-davis` | Appendix A Figure A2: the Downtown Davis art tour as a weighted grid after Jones & Pevzner's Manhattan tourist (5th–2nd × A–G, edge weights = art pieces per block from Hoshovsky's 2017 downtown map, proposed thinning; Downtown Tom −2), best route dotted (19), greedy walk dashed (15) |
 
 ## lab1/
 

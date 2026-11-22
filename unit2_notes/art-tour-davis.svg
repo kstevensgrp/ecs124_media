@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="794" height="476" viewBox="0 0 794 476">
+<rect x="0" y="0" width="794" height="476" fill="#ffffff"/>
+<rect x="194.00" y="102.00" width="72.00" height="172.00" fill="#ececec" stroke="none" stroke-width="1.00" rx="0.0"/>
+<text x="220.00" y="138.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" font-style="italic" xml:space="preserve">Central</text>
+<text x="220.00" y="151.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10.50" fill="#555555" text-anchor="middle" font-weight="normal" font-style="italic" xml:space="preserve">Park</text>
+<text x="92.00" y="40.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">A</text>
+<text x="184.00" y="40.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">B</text>
+<text x="276.00" y="40.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">C</text>
+<text x="368.00" y="40.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">D</text>
+<text x="460.00" y="40.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">E</text>
+<text x="552.00" y="40.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">F</text>
+<text x="644.00" y="40.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">G</text>
+<text x="62.00" y="40.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#555555" text-anchor="end" font-weight="normal" xml:space="preserve">Street</text>
+<text x="62.00" y="96.50" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">5th</text>
+<text x="62.00" y="192.50" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">4th</text>
+<text x="62.00" y="288.50" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">3rd</text>
+<text x="62.00" y="384.50" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">2nd</text>
+<line x1="92.00" y1="92.00" x2="184.00" y2="92.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="149.0,92.0 140.2,86.5 140.2,97.5" fill="#555555"/>
+<text x="132.00" y="82.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#888888" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<line x1="184.00" y1="92.00" x2="276.00" y2="92.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="241.0,92.0 232.2,86.5 232.2,97.5" fill="#555555"/>
+<text x="224.00" y="82.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#888888" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<line x1="276.00" y1="92.00" x2="368.00" y2="92.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="333.0,92.0 324.2,86.5 324.2,97.5" fill="#555555"/>
+<text x="316.00" y="82.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#888888" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<line x1="368.00" y1="92.00" x2="460.00" y2="92.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="425.0,92.0 416.2,86.5 416.2,97.5" fill="#555555"/>
+<text x="408.00" y="82.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#888888" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<line x1="460.00" y1="92.00" x2="552.00" y2="92.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="517.0,92.0 508.2,86.5 508.2,97.5" fill="#555555"/>
+<text x="500.00" y="82.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#888888" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<line x1="552.00" y1="92.00" x2="644.00" y2="92.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="609.0,92.0 600.2,86.5 600.2,97.5" fill="#555555"/>
+<text x="592.00" y="82.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#888888" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<line x1="92.00" y1="188.00" x2="184.00" y2="188.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="149.0,188.0 140.2,182.5 140.2,193.5" fill="#555555"/>
+<text x="132.00" y="178.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#888888" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<line x1="184.00" y1="188.00" x2="276.00" y2="188.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="241.0,188.0 232.2,182.5 232.2,193.5" fill="#555555"/>
+<text x="224.00" y="178.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#888888" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<line x1="276.00" y1="188.00" x2="368.00" y2="188.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="333.0,188.0 324.2,182.5 324.2,193.5" fill="#555555"/>
+<text x="316.00" y="178.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#888888" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<line x1="368.00" y1="188.00" x2="460.00" y2="188.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="425.0,188.0 416.2,182.5 416.2,193.5" fill="#555555"/>
+<text x="408.00" y="178.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#888888" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<line x1="460.00" y1="188.00" x2="552.00" y2="188.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="517.0,188.0 508.2,182.5 508.2,193.5" fill="#555555"/>
+<text x="500.00" y="178.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">−2</text>
+<line x1="552.00" y1="188.00" x2="644.00" y2="188.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="609.0,188.0 600.2,182.5 600.2,193.5" fill="#555555"/>
+<text x="592.00" y="178.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#888888" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<line x1="92.00" y1="284.00" x2="184.00" y2="284.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="149.0,284.0 140.2,278.5 140.2,289.5" fill="#555555"/>
+<text x="132.00" y="274.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">1</text>
+<line x1="184.00" y1="284.00" x2="276.00" y2="284.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="241.0,284.0 232.2,278.5 232.2,289.5" fill="#555555"/>
+<text x="224.00" y="274.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">2</text>
+<line x1="276.00" y1="284.00" x2="368.00" y2="284.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="333.0,284.0 324.2,278.5 324.2,289.5" fill="#555555"/>
+<text x="316.00" y="274.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">3</text>
+<line x1="368.00" y1="284.00" x2="460.00" y2="284.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="425.0,284.0 416.2,278.5 416.2,289.5" fill="#555555"/>
+<text x="408.00" y="274.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">1</text>
+<line x1="460.00" y1="284.00" x2="552.00" y2="284.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="517.0,284.0 508.2,278.5 508.2,289.5" fill="#555555"/>
+<text x="500.00" y="274.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">2</text>
+<line x1="552.00" y1="284.00" x2="644.00" y2="284.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="609.0,284.0 600.2,278.5 600.2,289.5" fill="#555555"/>
+<text x="592.00" y="274.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">1</text>
+<line x1="92.00" y1="380.00" x2="184.00" y2="380.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="149.0,380.0 140.2,374.5 140.2,385.5" fill="#555555"/>
+<text x="132.00" y="370.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#888888" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<line x1="184.00" y1="380.00" x2="276.00" y2="380.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="241.0,380.0 232.2,374.5 232.2,385.5" fill="#555555"/>
+<text x="224.00" y="370.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#888888" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<line x1="276.00" y1="380.00" x2="368.00" y2="380.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="333.0,380.0 324.2,374.5 324.2,385.5" fill="#555555"/>
+<text x="316.00" y="370.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">1</text>
+<line x1="368.00" y1="380.00" x2="460.00" y2="380.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="425.0,380.0 416.2,374.5 416.2,385.5" fill="#555555"/>
+<text x="408.00" y="370.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#888888" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<line x1="460.00" y1="380.00" x2="552.00" y2="380.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="517.0,380.0 508.2,374.5 508.2,385.5" fill="#555555"/>
+<text x="500.00" y="370.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#888888" text-anchor="middle" font-weight="normal" xml:space="preserve">0</text>
+<line x1="552.00" y1="380.00" x2="644.00" y2="380.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="609.0,380.0 600.2,374.5 600.2,385.5" fill="#555555"/>
+<text x="592.00" y="370.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">1</text>
+<line x1="92.00" y1="92.00" x2="92.00" y2="188.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="92.0,151.5 86.5,142.7 97.5,142.7" fill="#555555"/>
+<text x="79.00" y="138.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#888888" text-anchor="end" font-weight="normal" xml:space="preserve">0</text>
+<line x1="184.00" y1="92.00" x2="184.00" y2="188.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="184.0,151.5 178.5,142.7 189.5,142.7" fill="#555555"/>
+<text x="171.00" y="138.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">2</text>
+<line x1="276.00" y1="92.00" x2="276.00" y2="188.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="276.0,151.5 270.5,142.7 281.5,142.7" fill="#555555"/>
+<text x="263.00" y="138.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">2</text>
+<line x1="368.00" y1="92.00" x2="368.00" y2="188.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="368.0,151.5 362.5,142.7 373.5,142.7" fill="#555555"/>
+<text x="355.00" y="138.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">1</text>
+<line x1="460.00" y1="92.00" x2="460.00" y2="188.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="460.0,151.5 454.5,142.7 465.5,142.7" fill="#555555"/>
+<text x="447.00" y="138.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#888888" text-anchor="end" font-weight="normal" xml:space="preserve">0</text>
+<line x1="552.00" y1="92.00" x2="552.00" y2="188.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="552.0,151.5 546.5,142.7 557.5,142.7" fill="#555555"/>
+<text x="539.00" y="138.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">−2</text>
+<line x1="644.00" y1="92.00" x2="644.00" y2="188.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="644.0,151.5 638.5,142.7 649.5,142.7" fill="#555555"/>
+<text x="631.00" y="138.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">7</text>
+<line x1="92.00" y1="188.00" x2="92.00" y2="284.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="92.0,247.5 86.5,238.7 97.5,238.7" fill="#555555"/>
+<text x="79.00" y="234.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#888888" text-anchor="end" font-weight="normal" xml:space="preserve">0</text>
+<line x1="184.00" y1="188.00" x2="184.00" y2="284.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="184.0,247.5 178.5,238.7 189.5,238.7" fill="#555555"/>
+<text x="171.00" y="234.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">5</text>
+<line x1="276.00" y1="188.00" x2="276.00" y2="284.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="276.0,247.5 270.5,238.7 281.5,238.7" fill="#555555"/>
+<text x="263.00" y="234.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">2</text>
+<line x1="368.00" y1="188.00" x2="368.00" y2="284.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="368.0,247.5 362.5,238.7 373.5,238.7" fill="#555555"/>
+<text x="355.00" y="234.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">1</text>
+<line x1="460.00" y1="188.00" x2="460.00" y2="284.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="460.0,247.5 454.5,238.7 465.5,238.7" fill="#555555"/>
+<text x="447.00" y="234.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">1</text>
+<line x1="552.00" y1="188.00" x2="552.00" y2="284.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="552.0,247.5 546.5,238.7 557.5,238.7" fill="#555555"/>
+<text x="539.00" y="234.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">2</text>
+<line x1="644.00" y1="188.00" x2="644.00" y2="284.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="644.0,247.5 638.5,238.7 649.5,238.7" fill="#555555"/>
+<text x="631.00" y="234.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">2</text>
+<line x1="92.00" y1="284.00" x2="92.00" y2="380.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="92.0,343.5 86.5,334.7 97.5,334.7" fill="#555555"/>
+<text x="79.00" y="330.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#888888" text-anchor="end" font-weight="normal" xml:space="preserve">0</text>
+<line x1="184.00" y1="284.00" x2="184.00" y2="380.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="184.0,343.5 178.5,334.7 189.5,334.7" fill="#555555"/>
+<text x="171.00" y="330.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#888888" text-anchor="end" font-weight="normal" xml:space="preserve">0</text>
+<line x1="276.00" y1="284.00" x2="276.00" y2="380.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="276.0,343.5 270.5,334.7 281.5,334.7" fill="#555555"/>
+<text x="263.00" y="330.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#888888" text-anchor="end" font-weight="normal" xml:space="preserve">0</text>
+<line x1="368.00" y1="284.00" x2="368.00" y2="380.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="368.0,343.5 362.5,334.7 373.5,334.7" fill="#555555"/>
+<text x="355.00" y="330.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">2</text>
+<line x1="460.00" y1="284.00" x2="460.00" y2="380.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="460.0,343.5 454.5,334.7 465.5,334.7" fill="#555555"/>
+<text x="447.00" y="330.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">4</text>
+<line x1="552.00" y1="284.00" x2="552.00" y2="380.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="552.0,343.5 546.5,334.7 557.5,334.7" fill="#555555"/>
+<text x="539.00" y="330.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">3</text>
+<line x1="644.00" y1="284.00" x2="644.00" y2="380.00" stroke="#555555" stroke-width="1.30"/>
+<polygon points="644.0,343.5 638.5,334.7 649.5,334.7" fill="#555555"/>
+<text x="631.00" y="330.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">2</text>
+<polyline points="88.0,88.0 180.0,88.0 180.0,184.0 180.0,280.0 272.0,280.0 364.0,280.0 456.0,280.0 548.0,280.0 548.0,376.0 640.0,376.0" fill="none" stroke="#000000" stroke-width="3.6" stroke-dasharray="0.1 6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="96.0,96.0 188.0,96.0 188.0,192.0 188.0,288.0 280.0,288.0 372.0,288.0 372.0,384.0 464.0,384.0 556.0,384.0 648.0,384.0" fill="none" stroke="#000000" stroke-width="2.4" stroke-dasharray="10 6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="92.0" cy="92.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="184.0" cy="92.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="276.0" cy="92.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="368.0" cy="92.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="460.0" cy="92.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="552.0" cy="92.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="644.0" cy="92.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="92.0" cy="188.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="184.0" cy="188.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="276.0" cy="188.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="368.0" cy="188.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="460.0" cy="188.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="552.0" cy="188.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="644.0" cy="188.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="92.0" cy="284.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="184.0" cy="284.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="276.0" cy="284.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="368.0" cy="284.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="460.0" cy="284.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="552.0" cy="284.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="644.0" cy="284.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="92.0" cy="380.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="184.0" cy="380.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="276.0" cy="380.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="368.0" cy="380.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="460.0" cy="380.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="552.0" cy="380.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<circle cx="644.0" cy="380.0" r="4.5" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
+<text x="84.00" y="70.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#555555" text-anchor="end" font-weight="normal" font-style="italic" xml:space="preserve">start: the track</text>
+<text x="658.00" y="384.50" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#555555" text-anchor="start" font-weight="normal" font-style="italic" xml:space="preserve">→ station</text>
+<text x="560.00" y="205.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10.50" fill="#555555" text-anchor="start" font-weight="normal" font-style="italic" xml:space="preserve">Downtown Tom</text>
+<line x1="92.0" y1="432.0" x2="136.0" y2="432.0" stroke="#000" stroke-width="3.6" stroke-dasharray="0.1 6" stroke-linecap="round"/>
+<text x="146.00" y="436.50" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">best route: 19 pieces</text>
+<line x1="303.4" y1="432.0" x2="347.4" y2="432.0" stroke="#000" stroke-width="2.4" stroke-dasharray="10 6" stroke-linecap="round"/>
+<text x="357.37" y="436.50" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">greedy walk: 15 pieces</text>
+</svg>
