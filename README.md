@@ -92,7 +92,7 @@ the original paper figures are not.
 | `fig_wildin_forkhead` | Lab 2 Fig. 9 | schematic of the forkhead domains of human and mouse scurfin aligned with HNF3-gamma and Genesis, with the IPEX mutations on top; after Wildin et al., *Nat Genet* 27:18 (2001), Fig. 1 |
 | `fig_global_local` | Lab 2 Fig. 10 | A dot plot of FOXP3 against FOXA3 with the local alignment path in the forkhead domain. |
 | `fig_brunkow_scurfy_insertion` | Lab 2 Fig. 11 | schematic of the *Foxp3* exons with the wild-type and scurfy sequences of exon 8; after Brunkow et al. 2001, Fig. 1b |
-| `fig_three_levels` | Lab 2 Fig. 12 | Three stacked grids labelled upper, middle and lower with the edges between them. |
+| `fig_three_levels` | Lab 2 Fig. 12 | Three stacked grids labelled with the stub's tables E, V and F (upper, middle and lower level) with the edges between them. |
 | `fig_cooptimal` | Lab 2 Fig. 13 | Six alignments of the same two 12-base sequences, two of them highlighted. |
 | `fig_tan_vcf` | Lab 2 Fig. 14 | schematic of one CA deletion in a CA repeat written four ways in VCF, only one normalized; after Tan, Abecasis & Kang, *Bioinformatics* 31:2202 (2015), Fig. 1 |
 | `fig_counts` | Lab 2 Fig. 15 | Bar chart of 600, 20 and 4 optimal alignments on a log scale. |
