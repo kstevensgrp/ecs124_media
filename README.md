@@ -52,6 +52,7 @@ source) and a PNG (1760 px wide, greyscale, for Google Docs).
 | `hamming-f508del` | Hamming distance between the CFTR sequence around F508 (S1 = GAAAATATCATCTTTGGTGTTT, 22 characters) and the patient's F508del sequence (S2, 19): (a) S2 at the left end of S1, 5; (b) at the right end, 5; (c) S3 = S2 with three dashes inserted, 3. Overhanging characters are not counted |
 | `edit-table-vintner` | the edit distance table for S1 = vintner and S2 = writers (Gusfield Figs 11.1 and 11.2 redrawn): (a) row 0 and column 0 from the base conditions; (b) filled row by row up to D[4][3], with D[4][4] next and the three cells it reads shaded |
 | `edit-pointers-vintner` | the same table with every pointer (Gusfield Fig 11.3 redrawn): ← to (i, j − 1), ↑ to (i − 1, j), ↖ to (i − 1, j − 1); the cells on the three traceback paths from (7, 7) to (0, 0) shaded |
+| `local-pointers-vintner` | the local alignment (Smith-Waterman) table for S1 = vintner and S2 = writers with match 1, mismatch −1 and gap 1, in the layout of `edit-pointers-vintner`: a pointer out of every cell with a positive value; the largest value, 2, is in cell (7, 6), and the cells on the traceback to the zero cell (5, 4) are shaded (the local alignment is er / er) |
 
 ## lab1/
 
