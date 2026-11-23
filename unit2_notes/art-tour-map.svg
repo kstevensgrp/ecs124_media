@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="794" height="671" viewBox="0 0 794 671">
-<rect x="0" y="0" width="794" height="671" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="670" height="671" viewBox="0 0 670 671">
+<rect x="0" y="0" width="670" height="671" fill="#ffffff"/>
+<g transform="translate(-124.0,0)">
 <rect x="144.00" y="50.00" width="568.00" height="422.00" fill="#e9e9e9" stroke="none" stroke-width="1.00" rx="0.0"/>
 <rect x="8.00" y="50.00" width="136.00" height="422.00" fill="#f6f6f6" stroke="none" stroke-width="1.00" rx="0.0"/>
-<text x="16.00" y="66.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#555555" text-anchor="start" font-weight="normal" font-style="italic" xml:space="preserve">UC Davis campus</text>
-<ellipse cx="84.0" cy="152.0" rx="46" ry="30" fill="#dcdcdc" stroke="#8c8c8c" stroke-width="7"/>
-<text x="84.00" y="156.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">track</text>
 <rect x="232.50" y="102.50" width="63.00" height="211.00" fill="#c9c9c9" stroke="none" stroke-width="1.00" rx="0.0"/>
 <text x="291.50" y="143.04" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="normal" font-style="italic" xml:space="preserve">Central</text>
 <text x="291.50" y="156.04" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="normal" font-style="italic" xml:space="preserve">Park</text>
@@ -99,6 +97,7 @@
 <text x="363.00" y="410.42" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="8.50" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">26</text>
 <circle cx="561.8" cy="417.0" r="7.2" fill="#ffffff" stroke="#000000" stroke-width="1.3"/>
 <text x="561.83" y="420.60" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="8.50" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">27</text>
+</g>
 <text x="30.00" y="502.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">1</text>
 <text x="36.00" y="502.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">A-Maze-ing (utility box)</text>
 <text x="30.00" y="519.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">2</text>
@@ -117,40 +116,40 @@
 <text x="36.00" y="621.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Bellepede</text>
 <text x="30.00" y="638.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">9</text>
 <text x="36.00" y="638.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Marie Whitcombe Plaza</text>
-<text x="286.67" y="502.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">10</text>
-<text x="292.67" y="502.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Rainbow Shed</text>
-<text x="286.67" y="519.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">11</text>
-<text x="292.67" y="519.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Phoenix</text>
-<text x="286.67" y="536.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">12</text>
-<text x="292.67" y="536.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Fluid Rhythm</text>
-<text x="286.67" y="553.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">13</text>
-<text x="292.67" y="553.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Picnic in the Park (utility box)</text>
-<text x="286.67" y="570.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">14</text>
-<text x="292.67" y="570.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Compassion Is…</text>
-<text x="286.67" y="587.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">15</text>
-<text x="292.67" y="587.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Flowers to Miss L</text>
-<text x="286.67" y="604.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">16</text>
-<text x="292.67" y="604.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Tuscan Village</text>
-<text x="286.67" y="621.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">17</text>
-<text x="292.67" y="621.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Flying through the Flatlands</text>
-<text x="286.67" y="638.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">18</text>
-<text x="292.67" y="638.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">The Joggers</text>
-<text x="543.33" y="502.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">19</text>
-<text x="549.33" y="502.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Paint Chip Walkers</text>
-<text x="543.33" y="519.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">20</text>
-<text x="549.33" y="519.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Clepsydra</text>
-<text x="543.33" y="536.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">21</text>
-<text x="549.33" y="536.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">City Lights</text>
-<text x="543.33" y="553.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">22</text>
-<text x="549.33" y="553.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Trout Surf</text>
-<text x="543.33" y="570.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">23</text>
-<text x="549.33" y="570.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Watermelon Tree</text>
-<text x="543.33" y="587.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">24</text>
-<text x="549.33" y="587.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Butterflies (utility box)</text>
-<text x="543.33" y="604.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">25</text>
-<text x="549.33" y="604.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Blue Turns</text>
-<text x="543.33" y="621.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">26</text>
-<text x="549.33" y="621.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Camp Kesem mural</text>
-<text x="543.33" y="638.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">27</text>
-<text x="549.33" y="638.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Windows</text>
+<text x="245.33" y="502.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">10</text>
+<text x="251.33" y="502.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Rainbow Shed</text>
+<text x="245.33" y="519.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">11</text>
+<text x="251.33" y="519.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Phoenix</text>
+<text x="245.33" y="536.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">12</text>
+<text x="251.33" y="536.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Fluid Rhythm</text>
+<text x="245.33" y="553.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">13</text>
+<text x="251.33" y="553.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Picnic in the Park (utility box)</text>
+<text x="245.33" y="570.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">14</text>
+<text x="251.33" y="570.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Compassion Is…</text>
+<text x="245.33" y="587.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">15</text>
+<text x="251.33" y="587.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Flowers to Miss L</text>
+<text x="245.33" y="604.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">16</text>
+<text x="251.33" y="604.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Tuscan Village</text>
+<text x="245.33" y="621.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">17</text>
+<text x="251.33" y="621.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Flying through the Flatlands</text>
+<text x="245.33" y="638.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">18</text>
+<text x="251.33" y="638.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">The Joggers</text>
+<text x="460.67" y="502.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">19</text>
+<text x="466.67" y="502.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Paint Chip Walkers</text>
+<text x="460.67" y="519.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">20</text>
+<text x="466.67" y="519.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Clepsydra</text>
+<text x="460.67" y="536.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">21</text>
+<text x="466.67" y="536.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">City Lights</text>
+<text x="460.67" y="553.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">22</text>
+<text x="466.67" y="553.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Trout Surf</text>
+<text x="460.67" y="570.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">23</text>
+<text x="466.67" y="570.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Watermelon Tree</text>
+<text x="460.67" y="587.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">24</text>
+<text x="466.67" y="587.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Butterflies (utility box)</text>
+<text x="460.67" y="604.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">25</text>
+<text x="466.67" y="604.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Blue Turns</text>
+<text x="460.67" y="621.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">26</text>
+<text x="466.67" y="621.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Camp Kesem mural</text>
+<text x="460.67" y="638.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">27</text>
+<text x="466.67" y="638.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Windows</text>
 </svg>
