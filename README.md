@@ -15,6 +15,7 @@ Media is organized by subject, one folder per subject:
 | `unit1_notes/` | figures for the Unit 1 notes |
 | `lab1/` | page figures for the Lab 1 writeup (exact matching) |
 | `lab2/` | page figures for the Lab 2 and Lab 2 Extra writeups (approximate matching) |
+| `lab3/` | page figures for the Lab 3 and Lab 3 Extra writeups (indexing and database search) |
 | `unit2_notes/` | figures for the Unit 2 Handout (approximate matching and sequence alignment) |
 
 ## unit1_notes/
@@ -106,3 +107,27 @@ the original paper figures are not.
 | `fig_band_example` | Lab 2 Extra Fig. 5 | Example line chart of percent of cells filled and percent of reads resolved against k. |
 | `fig_riordan_nbf_alignment` | Lab 2 Extra Fig. 6 | schematic of three conserved segments of CFTR's nucleotide-binding domains aligned with the same segments of 18 other proteins, F508 starred; after Riordan et al. 1989, Fig. 6 |
 | `fig_cube` | Lab 2 Extra Fig. 7 | A cube with arrows from seven corners to the eighth. |
+
+## lab3/
+
+Page figures for the Lab 3 and Lab 3 Extra writeups (Unit 3, indexing and
+database search). Each is provided as an SVG (the same file the Canvas page
+uses) and a PNG (1760 px wide, 128 colours, for Google Docs). File stems match
+the lab's own image names. All are original drawings computed from the lab's
+data with the reference solution; the figures reproduced from Clayton-Smith et
+al. (2011) are not published here.
+
+| figure | lab | # | what it shows |
+|---|---|---|---|
+| `fig_kat6b_gene` | Lab 3 | 2 | KAT6B in the lab's data: 18 exons across 207 kb of GRCh37 and the 14 published variants, with exon 18 enlarged |
+| `fig_suffix_tree` | Lab 3 | 6 | the suffix tree of ATAAATG$, leaves numbered from 1 |
+| `fig_naive_steps` | Lab 3 | 7 | the first four insertions of the naive construction for ATAAATG$ |
+| `fig_pcr` | Lab 3 | 8 | in-silico PCR of amplicon 15 (the exon of individual 3's mutation) with the paper's primers |
+| `fig_repeats` | Lab 3 | 9 | repeats in the KAT6B region: the 58 bp longest repeat and the 28 bp Alu core seen 10 or more times, with the 44 primers |
+| `fig_generalized` | Lab 3 | 10 | the generalized suffix tree of ATAG#TAGA$, nodes coloured red, blue and purple |
+| `fig_unique_string` | Lab 3 | 13 | individual 4's exon 17–18 sequence against the reference: the shortest string found only in the patient, TAGGAG |
+| `fig_complexity` | Lab 3 | 14 | linguistic complexity in 100 bp windows along exon 17 to exon 18, with the dip at c.4069 |
+| `fig_dotplot` | Lab 3 | 15 | human against mouse KAT6B coding sequence, exact matches of 20 bp or more from k = 12 hits |
+| `fig_pigeonhole` | Lab 3 Extra | 2 | a read from individual 4 cut into three seeds for d = 2 |
+| `fig_pileup` | Lab 3 Extra | 3 | read depth and disagreeing reads around the published sites of individuals 4 and 3 |
+
