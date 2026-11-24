@@ -16,6 +16,7 @@ Media is organized by subject, one folder per subject:
 | `lab1/` | page figures for the Lab 1 writeup (exact matching) |
 | `lab2/` | page figures for the Lab 2 and Lab 2 Extra writeups (approximate matching) |
 | `lab3/` | page figures for the Lab 3 and Lab 3 Extra writeups (indexing and database search) |
+| `lab4/` | page figures for the Lab 4 writeup (genome assembly) |
 | `unit2_notes/` | figures for the Unit 2 Handout (approximate matching and sequence alignment) |
 
 ## unit1_notes/
@@ -131,3 +132,19 @@ al. (2011) are not published here.
 | `fig_pigeonhole` | Lab 3 Extra | 2 | a read from individual 4 cut into three seeds for d = 2 |
 | `fig_pileup` | Lab 3 Extra | 3 | read depth and disagreeing reads around the published sites of individuals 4 and 3 |
 
+## lab4/
+
+Page figures for the Lab 4 writeup (Unit 4, genome assembly). Each is provided
+as an SVG (the same file the Canvas page uses) and a PNG (1760 px wide, 128
+colours, for Google Docs). File stems match the lab's own image names. All are
+original drawings made from the lab's data with the reference solution; the
+figures reproduced from Wu et al. (2020) are not published here.
+
+| figure | lab | # | what it shows |
+|---|---|---|---|
+| `fig_genome` | Lab 4 | 2 | the genes of SARS-CoV-2 (NC_045512.2), the nine copies of the ACGAAC motif and the 33-base poly-A tail |
+| `fig_reads` | Lab 4 | 3 | the simulated 150 bp reads over the start of the spike gene, with read depth below |
+| `fig_overlap` | Lab 4 | 4 | four reads, each overlapping the next by 7 letters, merged into one string |
+| `fig_overlap_graph` | Lab 4 | 5 | the overlap graph of the 7-mer reads of TAATGCCATGGGATGTTAC, with the overlaps the greedy layout accepts in red |
+| `fig_debruijn` | Lab 4 | 6 | the de Bruijn graph of TAATGCCATGGGATGTT for k = 3 |
+| `fig_repeat_tangle` | Lab 4 | 7 | a genome with two copies of a repeat R, and how the graph glues them into one path |
