@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="318" viewBox="0 0 760 318" role="img" aria-labelledby="figure-title figure-desc">
+<title id="figure-title">Driver mutations on the trunk and on the branches in 100 lung cancers</title>
+<desc id="figure-desc">Schematic of Jamal-Hanjani et al., N Engl J Med 376:2109 (2017), Fig. 4, reduced to the driver genes mutated in five or more tumors of one kind. Two panels of horizontal bars, adenocarcinoma on the left and squamous-cell carcinoma on the right. Each bar is one gene; its blue part is the share of tumors in which the mutation is on the trunk of the tumor's tree (clonal) and its red part the share in which it is on a branch (subclonal). The numbers after each bar are tumors with the mutation on a branch over all tumors with a mutation in the gene. Adenocarcinoma: RBM10 0 of 5; KEAP1 1 of 9; KRAS 3 of 26; TP53 4 of 29; EGFR 2 of 13; FAT1 1 of 5; STK11 2 of 7; RB1 2 of 5; MGA 5 of 9; NF1 4 of 7; PIK3CA 3 of 5. Squamous-cell carcinoma: TP53 2 of 27; NOTCH1 1 of 5; RASA1 2 of 5; NFE2L2 3 of 7; CDKN2A 4 of 8; FAT1 4 of 8; PIK3CA 5 of 7. Genes are in the paper's order, earliest at the top. The copy-number events, the mutational-signature pie charts, the timing against genome doubling and the genes mutated in fewer than five tumors are left out.</desc>
+<rect x="0" y="0" width="760" height="318" fill="#FFFFFF"/>
+<g id="adenocarcinoma">
+<text x="90" y="30" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49" font-weight="bold">Adenocarcinoma</text>
+<text x="288" y="54" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D">branch / all</text>
+<text x="82" y="74.5" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="end" font-style="italic">RBM10</text>
+<rect x="90" y="62" width="190" height="15" fill="#2f6fb3"/>
+<text x="288" y="74.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">0/5</text>
+<text x="82" y="94.5" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="end" font-style="italic">KEAP1</text>
+<rect x="90" y="82" width="168.29" height="15" fill="#2f6fb3"/>
+<rect x="259.49" y="82" width="20.51" height="15" fill="#c8372d"/>
+<text x="288" y="94.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">1/9</text>
+<text x="82" y="114.5" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="end" font-style="italic">KRAS</text>
+<rect x="90" y="102" width="167.48" height="15" fill="#2f6fb3"/>
+<rect x="258.68" y="102" width="21.32" height="15" fill="#c8372d"/>
+<text x="288" y="114.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">3/26</text>
+<text x="82" y="134.5" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="end" font-style="italic">TP53</text>
+<rect x="90" y="122" width="163.19" height="15" fill="#2f6fb3"/>
+<rect x="254.39" y="122" width="25.61" height="15" fill="#c8372d"/>
+<text x="288" y="134.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">4/29</text>
+<text x="82" y="154.5" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="end" font-style="italic">EGFR</text>
+<rect x="90" y="142" width="160.17" height="15" fill="#2f6fb3"/>
+<rect x="251.37" y="142" width="28.63" height="15" fill="#c8372d"/>
+<text x="288" y="154.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">2/13</text>
+<text x="82" y="174.5" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="end" font-style="italic">FAT1</text>
+<rect x="90" y="162" width="151.4" height="15" fill="#2f6fb3"/>
+<rect x="242.6" y="162" width="37.4" height="15" fill="#c8372d"/>
+<text x="288" y="174.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">1/5</text>
+<text x="82" y="194.5" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="end" font-style="italic">STK11</text>
+<rect x="90" y="182" width="135.11" height="15" fill="#2f6fb3"/>
+<rect x="226.31" y="182" width="53.69" height="15" fill="#c8372d"/>
+<text x="288" y="194.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">2/7</text>
+<text x="82" y="214.5" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="end" font-style="italic">RB1</text>
+<rect x="90" y="202" width="113.4" height="15" fill="#2f6fb3"/>
+<rect x="204.6" y="202" width="75.4" height="15" fill="#c8372d"/>
+<text x="288" y="214.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">2/5</text>
+<text x="82" y="234.5" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="end" font-style="italic">MGA</text>
+<rect x="90" y="222" width="83.84" height="15" fill="#2f6fb3"/>
+<rect x="175.04" y="222" width="104.96" height="15" fill="#c8372d"/>
+<text x="288" y="234.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">5/9</text>
+<text x="82" y="254.5" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="end" font-style="italic">NF1</text>
+<rect x="90" y="242" width="80.83" height="15" fill="#2f6fb3"/>
+<rect x="172.03" y="242" width="107.97" height="15" fill="#c8372d"/>
+<text x="288" y="254.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">4/7</text>
+<text x="82" y="274.5" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="end" font-style="italic">PIK3CA</text>
+<rect x="90" y="262" width="75.4" height="15" fill="#2f6fb3"/>
+<rect x="166.6" y="262" width="113.4" height="15" fill="#c8372d"/>
+<text x="288" y="274.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">3/5</text>
+</g>
+<g id="squamous">
+<text x="470" y="30" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49" font-weight="bold">Squamous-cell carcinoma</text>
+<text x="668" y="54" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D">branch / all</text>
+<text x="462" y="74.5" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="end" font-style="italic">TP53</text>
+<rect x="470" y="62" width="175.33" height="15" fill="#2f6fb3"/>
+<rect x="646.53" y="62" width="13.47" height="15" fill="#c8372d"/>
+<text x="668" y="74.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">2/27</text>
+<text x="462" y="94.5" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="end" font-style="italic">NOTCH1</text>
+<rect x="470" y="82" width="151.4" height="15" fill="#2f6fb3"/>
+<rect x="622.6" y="82" width="37.4" height="15" fill="#c8372d"/>
+<text x="668" y="94.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">1/5</text>
+<text x="462" y="114.5" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="end" font-style="italic">RASA1</text>
+<rect x="470" y="102" width="113.4" height="15" fill="#2f6fb3"/>
+<rect x="584.6" y="102" width="75.4" height="15" fill="#c8372d"/>
+<text x="668" y="114.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">2/5</text>
+<text x="462" y="134.5" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="end" font-style="italic">NFE2L2</text>
+<rect x="470" y="122" width="107.97" height="15" fill="#2f6fb3"/>
+<rect x="579.17" y="122" width="80.83" height="15" fill="#c8372d"/>
+<text x="668" y="134.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">3/7</text>
+<text x="462" y="154.5" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="end" font-style="italic">CDKN2A</text>
+<rect x="470" y="142" width="94.4" height="15" fill="#2f6fb3"/>
+<rect x="565.6" y="142" width="94.4" height="15" fill="#c8372d"/>
+<text x="668" y="154.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">4/8</text>
+<text x="462" y="174.5" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="end" font-style="italic">FAT1</text>
+<rect x="470" y="162" width="94.4" height="15" fill="#2f6fb3"/>
+<rect x="565.6" y="162" width="94.4" height="15" fill="#c8372d"/>
+<text x="668" y="174.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">4/8</text>
+<text x="462" y="194.5" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="end" font-style="italic">PIK3CA</text>
+<rect x="470" y="182" width="53.69" height="15" fill="#2f6fb3"/>
+<rect x="524.89" y="182" width="135.11" height="15" fill="#c8372d"/>
+<text x="668" y="194.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">5/7</text>
+</g>
+<g id="key">
+<rect x="90" y="296" width="12" height="12" fill="#2f6fb3"/>
+<text x="108" y="306.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">on the trunk (clonal): in every cell of the tumor</text>
+<rect x="470" y="296" width="12" height="12" fill="#c8372d"/>
+<text x="488" y="306.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">on a branch (subclonal)</text>
+<line x1="16" y1="66" x2="16" y2="266" stroke="#60727D" stroke-width="1.6"/>
+<path d="M 12.64 266 L 19.36 266 L 16 274 Z" fill="#60727D"/>
+<text x="31" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#60727D" text-anchor="middle" transform="rotate(-90 31 172)">earlier → later</text>
+</g>
+</svg>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="539.45875pt" height="203.862344pt" viewBox="0 0 539.45875 203.862344" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-25T23:29:47.432408</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 203.862344 
+L 539.45875 203.862344 
+L 539.45875 0 
+L 0 0 
+L 0 203.862344 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 100.061036 99.628799 
+C 101.689317 99.628799 103.251127 98.936366 104.402495 97.704002 
+C 105.553863 96.471637 106.200786 94.799957 106.200786 93.05713 
+C 106.200786 91.314304 105.553863 89.642624 104.402495 88.410259 
+C 103.251127 87.177894 101.689317 86.485462 100.061036 86.485462 
+C 98.432756 86.485462 96.870946 87.177894 95.719578 88.410259 
+C 94.56821 89.642624 93.921287 91.314304 93.921287 93.05713 
+C 93.921287 94.799957 94.56821 96.471637 95.719578 97.704002 
+C 96.870946 98.936366 98.432756 99.628799 100.061036 99.628799 
+z
+" clip-path="url(#p67f89ee4be)" style="fill: #ffffff; stroke: #c53030; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 72.773262 93.05713 
+L 127.348811 93.05713 
+" clip-path="url(#p67f89ee4be)" style="fill: none; stroke: #2f6fb3; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 127.348811 93.05713 
+L 168.280472 60.198789 
+" clip-path="url(#p67f89ee4be)" style="fill: none; stroke: #e0b000; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 127.348811 93.05713 
+L 168.280472 125.915472 
+" clip-path="url(#p67f89ee4be)" style="fill: none; stroke: #5aa832; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 168.280472 60.198789 
+L 209.212134 41.944155 
+" clip-path="url(#p67f89ee4be)" style="fill: none; stroke: #e0b000; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 168.280472 60.198789 
+L 209.212134 78.453423 
+" clip-path="url(#p67f89ee4be)" style="fill: none; stroke: #e0b000; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 168.280472 125.915472 
+L 209.212134 107.660838 
+" clip-path="url(#p67f89ee4be)" style="fill: none; stroke: #5aa832; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 168.280472 125.915472 
+L 209.212134 144.170106 
+" clip-path="url(#p67f89ee4be)" style="fill: none; stroke: #5aa832; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2f6fb3" x="100.061036" y="85.025091" transform="rotate(-0 100.061036 85.025091)">trunk</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #c53030" x="217.739563" y="44.427592" transform="rotate(-0 217.739563 44.427592)">x</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #c53030" x="217.739563" y="80.936861" transform="rotate(-0 217.739563 80.936861)">x</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #c53030" x="217.739563" y="110.144275" transform="rotate(-0 217.739563 110.144275)">x</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #c53030" x="217.739563" y="146.653543" transform="rotate(-0 217.739563 146.653543)">x</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1c1c1c" x="158.047557" y="14.038594" transform="rotate(-0 158.047557 14.038594)">drug aimed at a trunk mutation</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_3">
+    <path d="M 385.218278 83.199628 
+C 386.846558 83.199628 388.408368 82.507195 389.559736 81.274831 
+C 390.711104 80.042466 391.358027 78.370786 391.358027 76.62796 
+C 391.358027 74.885133 390.711104 73.213453 389.559736 71.981088 
+C 388.408368 70.748724 386.846558 70.056291 385.218278 70.056291 
+C 383.589997 70.056291 382.028188 70.748724 380.87682 71.981088 
+C 379.725451 73.213453 379.078529 74.885133 379.078529 76.62796 
+C 379.078529 78.370786 379.725451 80.042466 380.87682 81.274831 
+C 382.028188 82.507195 383.589997 83.199628 385.218278 83.199628 
+z
+" clip-path="url(#pa4bd018f3c)" style="fill: #ffffff; stroke: #c53030; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 310.176899 93.05713 
+L 364.752447 93.05713 
+" clip-path="url(#pa4bd018f3c)" style="fill: none; stroke: #2f6fb3; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 364.752447 93.05713 
+L 405.684109 60.198789 
+" clip-path="url(#pa4bd018f3c)" style="fill: none; stroke: #e0b000; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 364.752447 93.05713 
+L 405.684109 125.915472 
+" clip-path="url(#pa4bd018f3c)" style="fill: none; stroke: #5aa832; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 405.684109 60.198789 
+L 446.61577 41.944155 
+" clip-path="url(#pa4bd018f3c)" style="fill: none; stroke: #e0b000; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 405.684109 60.198789 
+L 446.61577 78.453423 
+" clip-path="url(#pa4bd018f3c)" style="fill: none; stroke: #e0b000; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 405.684109 125.915472 
+L 446.61577 107.660838 
+" clip-path="url(#pa4bd018f3c)" style="fill: none; stroke: #5aa832; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 405.684109 125.915472 
+L 446.61577 144.170106 
+" clip-path="url(#pa4bd018f3c)" style="fill: none; stroke: #5aa832; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2f6fb3" x="337.464673" y="85.025091" transform="rotate(-0 337.464673 85.025091)">trunk</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #c53030" x="455.143199" y="44.427592" transform="rotate(-0 455.143199 44.427592)">x</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #c53030" x="455.143199" y="80.936861" transform="rotate(-0 455.143199 80.936861)">x</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1c1c1c" x="455.143199" y="109.868338" transform="rotate(-0 455.143199 109.868338)">survives</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1c1c1c" x="455.143199" y="146.377606" transform="rotate(-0 455.143199 146.377606)">survives</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1c1c1c" x="395.451193" y="14.038594" transform="rotate(-0 395.451193 14.038594)">drug aimed at a branch mutation</text>
+   </g>
+  </g>
+  <g id="text_13">
+   <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #6b6b6b" x="269.729375" y="194.998594" transform="rotate(-0 269.729375 194.998594)">A trunk mutation is in every cancer cell.  A branch mutation is in only some of them, and a single biopsy may see only one branch.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p67f89ee4be">
+   <rect x="59.129375" y="20.038594" width="197.836364" height="149.688"/>
+  </clipPath>
+  <clipPath id="pa4bd018f3c">
+   <rect x="296.533011" y="20.038594" width="197.836364" height="149.688"/>
+  </clipPath>
+ </defs>
+</svg>

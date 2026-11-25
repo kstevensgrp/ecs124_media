@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="456.924459pt" height="163.0512pt" viewBox="0 0 456.924459 163.0512" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-25T23:29:47.867940</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 163.0512 
+L 456.924459 163.0512 
+L 456.924459 0 
+L 0 0 
+L 0 163.0512 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 45.704578 36.93024 
+C 47.01867 36.93024 48.279117 36.408146 49.208321 35.478942 
+C 50.137524 34.549739 50.659618 33.289292 50.659618 31.9752 
+C 50.659618 30.661108 50.137524 29.400661 49.208321 28.471458 
+C 48.279117 27.542254 47.01867 27.02016 45.704578 27.02016 
+C 44.390486 27.02016 43.130039 27.542254 42.200836 28.471458 
+C 41.271632 29.400661 40.749538 30.661108 40.749538 31.9752 
+C 40.749538 33.289292 41.271632 34.549739 42.200836 35.478942 
+C 43.130039 36.408146 44.390486 36.93024 45.704578 36.93024 
+z
+" clip-path="url(#pde246f2e23)" style="fill: #2b6cb0; stroke: #1c1c1c; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 158.569378 36.93024 
+C 159.88347 36.93024 161.143917 36.408146 162.073121 35.478942 
+C 163.002324 34.549739 163.524418 33.289292 163.524418 31.9752 
+C 163.524418 30.661108 163.002324 29.400661 162.073121 28.471458 
+C 161.143917 27.542254 159.88347 27.02016 158.569378 27.02016 
+C 157.255286 27.02016 155.994839 27.542254 155.065636 28.471458 
+C 154.136432 29.400661 153.614338 30.661108 153.614338 31.9752 
+C 153.614338 33.289292 154.136432 34.549739 155.065636 35.478942 
+C 155.994839 36.408146 157.255286 36.93024 158.569378 36.93024 
+z
+" clip-path="url(#pde246f2e23)" style="fill: #2b6cb0; stroke: #1c1c1c; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 45.704578 127.77264 
+C 47.01867 127.77264 48.279117 127.250546 49.208321 126.321342 
+C 50.137524 125.392139 50.659618 124.131692 50.659618 122.8176 
+C 50.659618 121.503508 50.137524 120.243061 49.208321 119.313858 
+C 48.279117 118.384654 47.01867 117.86256 45.704578 117.86256 
+C 44.390486 117.86256 43.130039 118.384654 42.200836 119.313858 
+C 41.271632 120.243061 40.749538 121.503508 40.749538 122.8176 
+C 40.749538 124.131692 41.271632 125.392139 42.200836 126.321342 
+C 43.130039 127.250546 44.390486 127.77264 45.704578 127.77264 
+z
+" clip-path="url(#pde246f2e23)" style="fill: #ffffff; stroke: #1c1c1c; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 279.692578 127.77264 
+C 281.00667 127.77264 282.267117 127.250546 283.196321 126.321342 
+C 284.125524 125.392139 284.647618 124.131692 284.647618 122.8176 
+C 284.647618 121.503508 284.125524 120.243061 283.196321 119.313858 
+C 282.267117 118.384654 281.00667 117.86256 279.692578 117.86256 
+C 278.378486 117.86256 277.118039 118.384654 276.188836 119.313858 
+C 275.259632 120.243061 274.737538 121.503508 274.737538 122.8176 
+C 274.737538 124.131692 275.259632 125.392139 276.188836 126.321342 
+C 277.118039 127.250546 278.378486 127.77264 279.692578 127.77264 
+z
+" clip-path="url(#pde246f2e23)" style="fill: #ffffff; stroke: #1c1c1c; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 45.704578 31.9752 
+L 86.996578 78.7728 
+" clip-path="url(#pde246f2e23)" style="fill: none; stroke: #1c1c1c; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 45.704578 122.8176 
+L 86.996578 78.7728 
+" clip-path="url(#pde246f2e23)" style="fill: none; stroke: #1c1c1c; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 86.996578 78.7728 
+L 131.041378 78.7728 
+" clip-path="url(#pde246f2e23)" style="fill: none; stroke: #1c1c1c; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 131.041378 78.7728 
+L 158.569378 31.9752 
+" clip-path="url(#pde246f2e23)" style="fill: none; stroke: #1c1c1c; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 131.041378 78.7728 
+L 279.692578 122.8176 
+" clip-path="url(#pde246f2e23)" style="fill: none; stroke: #1c1c1c; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b6b6b" x="70.479778" y="51.2448" transform="rotate(-0 70.479778 51.2448)">1</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b6b6b" x="70.479778" y="96.666" transform="rotate(-0 70.479778 96.666)">6</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b6b6b" x="113.148178" y="74.6436" transform="rotate(-0 113.148178 74.6436)">1</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b6b6b" x="148.934578" y="51.2448" transform="rotate(-0 148.934578 51.2448)">1</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b6b6b" x="209.496178" y="96.666" transform="rotate(-0 209.496178 96.666)">8</text>
+   </g>
+   <g id="text_6">
+    <text style="font-style: italic; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1c1c1c" x="45.704578" y="22.3404" transform="rotate(-0 45.704578 22.3404)">i</text>
+   </g>
+   <g id="text_7">
+    <text style="font-style: italic; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1c1c1c" x="158.569378" y="22.3404" transform="rotate(-0 158.569378 22.3404)">j</text>
+   </g>
+   <g id="text_8">
+    <text style="font-style: italic; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1c1c1c" x="45.704578" y="113.1828" transform="rotate(-0 45.704578 113.1828)">k</text>
+   </g>
+   <g id="text_9">
+    <text style="font-style: italic; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1c1c1c" x="279.692578" y="113.1828" transform="rotate(-0 279.692578 113.1828)">l</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2b6cb0" x="312.726178" y="31.9752" transform="rotate(-0 312.726178 31.9752)">D(i, j) = 3   the closest pair</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1c1c1c" x="312.726178" y="56.7504" transform="rotate(-0 312.726178 56.7504)">D(i, k) = 7   but i and k</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1c1c1c" x="312.726178" y="73.2672" transform="rotate(-0 312.726178 73.2672)">                  are the neighbours</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b6b6b" x="312.726178" y="100.7952" transform="rotate(-0 312.726178 100.7952)">NJ's matrix D* corrects for</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b6b6b" x="312.726178" y="114.5592" transform="rotate(-0 312.726178 114.5592)">each leaf's total distance</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #6b6b6b" x="224.636578" y="150.3456" transform="rotate(-0 224.636578 150.3456)">Joining the closest pair, as UPGMA does, would join i with j.  Neighbor joining picks the smallest D*[i][j] instead.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pde246f2e23">
+   <rect x="18.176578" y="7.2" width="412.92" height="148.6512"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -17,6 +17,7 @@ Media is organized by subject, one folder per subject:
 | `lab2/` | page figures for the Lab 2 and Lab 2 Extra writeups (approximate matching) |
 | `lab3/` | page figures for the Lab 3 and Lab 3 Extra writeups (indexing and database search) |
 | `lab4/` | page figures for the Lab 4 writeup (genome assembly) |
+| `lab5/` | page figures for the Lab 5 writeup (evolutionary trees) |
 | `unit2_notes/` | figures for the Unit 2 Handout (approximate matching and sequence alignment) |
 
 ## unit1_notes/
@@ -168,3 +169,36 @@ article (CC BY 4.0); the paper's own figures are not published here.
 | `fig_debruijn` | Lab 4 | 6 | the de Bruijn graph of TAATGCCATGGGATGTT for k = 3 |
 | `fig_repeat_tangle` | Lab 4 | 7 | a genome with two copies of a repeat R, and how the graph glues them into one path |
 | `fig_wu_edfig3_coverage` | Lab 4 | 8 | schematic of read depth along the 29,903 bases of WHCV in 100-base steps, measured off the paper's figure, with its genome coverage (29,901 of 29,903 bases); after Extended Data Fig. 3 |
+
+## lab5/
+
+Page figures for the Lab 5 writeup (Unit 5, evolutionary trees: perfect
+phylogeny and distance trees on a kidney tumor). Each is provided as an SVG
+(the same file the Canvas page uses) and a PNG (1760 px wide, 128 colours, for
+Google Docs). File stems match the lab's own image names. The `fig_<subject>`
+figures are original drawings made for the lab. The `fig_<author>_<subject>`
+figures are simplified schematic redrawings of figures in Gerlinger et al.,
+*N Engl J Med* 366:883 (2012), Jamal-Hanjani et al., *N Engl J Med* 376:2109
+(2017), Gawad, Koh and Quake, *PNAS* 111:17947 (2014) and Navin et al.,
+*Nature* 472:90 (2011); the papers' own figures are not published here.
+Figure 8 of the lab (`fig_tumor_tree`, the answer to Part A) is not here.
+
+| figure | lab | # | what it shows |
+|---|---|---|---|
+| `fig_gerlinger_fig2a_sites` | Lab 5 | 1 | schematic of where patient 1's samples were taken: the outline of the primary kidney tumor with regions R1 to R9 and their grades, and a torso with the perinephric metastasis (M1) and the chest-wall metastasis (M2a, M2b); after Gerlinger Fig. 2A |
+| `fig_clonal_evolution` | Lab 5 | 2 | clonal evolution: a branching diagram of cells, coloured by lineage, feeding into a tumor |
+| `fig_gerlinger_fig2b_heatmap` | Lab 5 | 3 | schematic of the 133 mutations by 12 samples of patient 1, dark where a mutation is present, with the four classes (ubiquitous, shared primary, shared metastasis, private) as colour bars and the driver genes labelled; drawn from the lab's table of Gerlinger Fig. 2B |
+| `fig_matrix_tree` | Lab 5 | 4 | a 6 by 3 character table beside its perfect phylogeny, each character on one edge |
+| `fig_three_gamete` | Lab 5 | 5 | two characters as sets of taxa: nested, disjoint and overlapping |
+| `fig_sort_build` | Lab 5 | 6 | sorting three characters and building the tree one taxon at a time |
+| `fig_gerlinger_fig2c_tree` | Lab 5 | 7 | schematic of the authors' tree of the tumor regions, branch lengths in mutations (measured off the paper's figure), with the branches where *VHL*, *SETD2*, *KDM5C* and *MTOR* were hit; after Gerlinger Fig. 2C |
+| `fig_trunk_branch` | Lab 5 | 9 | why the trunk matters for treatment: a drug against a trunk mutation reaches every tip, one against a branch mutation only that branch |
+| `fig_mixture` | Lab 5 | 10 | a region holding two clones reports the union of their mutations, and that row makes the table inconsistent |
+| `fig_tracerx_fig1b_sampling` | Lab 5 | 11 | schematic of multiregion sequencing in three steps: four sampled regions of one tumor, the mutations found in each, and the tree with a trunk (clonal) and branches (subclonal); after Jamal-Hanjani Fig. 1B |
+| `fig_gawad_fig2_clones` | Lab 5 | 12 | schematic of single-cell sequencing for one leukemia: a heat map of cells by mutations grouped into three clones, with missed mutations, and the tree of the clones; the cells are illustrative; after Gawad Fig. 2 |
+| `fig_tracerx_fig4_timing` | Lab 5 | 13 | schematic of how often each common driver gene is mutated on the trunk (clonal) and on a branch (subclonal) in adenocarcinoma and squamous-cell carcinoma of the lung, counts read from the paper's figure; after Jamal-Hanjani Fig. 4 |
+| `fig_hamming_path` | Lab 5 | 14 | the tree path from R9 to M1 with its edge lengths added up |
+| `fig_clock` | Lab 5 | 15 | an ultrametric tree, every tip at the same depth, beside a tree with tips at different depths |
+| `fig_neighbors` | Lab 5 | 16 | a four-leaf tree in which the closest pair of leaves are not neighbors |
+| `fig_navin_fig2b_nj` | Lab 5 | 17 | schematic of the neighbor-joining tree of 100 single cells from one breast tumor: normal cells and three clones, each leaf at its measured distance, branching inside the groups simplified; after Navin Fig. 2b |
+| `fig_navin_fig3c_nj` | Lab 5 | 18 | schematic of the neighbor-joining tree of cells from a primary breast tumor (circles) and its liver metastasis (squares): the aneuploid cells of both sites on one branch; after Navin Fig. 3c |

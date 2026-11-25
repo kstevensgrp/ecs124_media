@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="392" viewBox="0 0 560 392" role="img" aria-labelledby="figure-title figure-desc">
+<title id="figure-title">The authors' tree of the tumor regions of patient 1</title>
+<desc id="figure-desc">Schematic of Gerlinger et al., N Engl J Med 366:883 (2012), Fig. 2C, redrawn with the branch lengths measured on the published figure, where length is the number of mutations (a scale bar marks 10 mutations). A long blue trunk of ubiquitous mutations runs from normal tissue to a fork. A yellow branch of shared primary mutations runs up to the primary-tumor regions: R4b leaves it first, then R9, the pretreatment biopsy PreP and R5, then R8, R1, R2 and R3 at its tip. A green branch of shared metastasis mutations runs down to the metastases: R4a leaves it first, then M2b, the pretreatment biopsy PreM, M1 and M2a at its tip. Short red branches are private mutations. Arrows mark where driver genes were hit: VHL on the trunk; SETD2 (frameshift), then KDM5C (missense and frameshift) and MTOR (missense) on the yellow branch; SETD2 (missense) and KDM5C (splice site) on the green branch; SETD2 (splice site), with a question mark, on the short branch to R4a.</desc>
+<rect x="0" y="0" width="560" height="392" fill="#FFFFFF"/>
+<g id="branches">
+<line x1="125" y1="210" x2="371" y2="210" stroke="#2f6fb3" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="371" y1="210" x2="423.2" y2="157.8" stroke="#e0b000" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="423.2" y1="157.8" x2="437" y2="75.6" stroke="#e0b000" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="437" y1="75.6" x2="443.6" y2="70.2" stroke="#e0b000" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="443.6" y1="70.2" x2="441.2" y2="59.1" stroke="#e0b000" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="441.2" y1="59.1" x2="449.6" y2="48.3" stroke="#e0b000" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="371" y1="210" x2="387.2" y2="241.8" stroke="#5aa832" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="387.2" y1="241.8" x2="475.4" y2="346.2" stroke="#5aa832" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="475.4" y1="346.2" x2="499.82" y2="348.6" stroke="#5aa832" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="423.2" y1="157.8" x2="450.8" y2="153.6" stroke="#c8372d" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="437" y1="75.6" x2="384.2" y2="65.1" stroke="#c8372d" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="437" y1="75.6" x2="464.3" y2="93.3" stroke="#c8372d" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="443.6" y1="70.2" x2="451.4" y2="71.4" stroke="#c8372d" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="449.6" y1="48.3" x2="461.3" y2="43.5" stroke="#c8372d" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="449.6" y1="48.3" x2="455" y2="54.6" stroke="#c8372d" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="387.2" y1="241.8" x2="414.8" y2="241.8" stroke="#c8372d" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="475.4" y1="346.2" x2="473.6" y2="366.6" stroke="#c8372d" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="499.82" y1="348.6" x2="500.6" y2="341.4" stroke="#c8372d" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="499.82" y1="348.6" x2="507.8" y2="358.62" stroke="#c8372d" stroke-width="2.6" stroke-linecap="round"/>
+</g>
+<g id="leaf-labels">
+<text x="120.8" y="213" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="end">Normal tissue</text>
+<text x="380" y="67.8" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">R9</text>
+<text x="468.2" y="101.4" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">PreP</text>
+<text x="455.6" y="77.4" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">R5</text>
+<text x="437" y="62.4" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">R8</text>
+<text x="446" y="45.6" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">R1</text>
+<text x="465.2" y="43.8" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">R2</text>
+<text x="459.2" y="60.6" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">R3</text>
+<text x="455.6" y="157.8" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">R4b</text>
+<text x="419.6" y="246" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">R4a</text>
+<text x="471.2" y="352.2" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">M2b</text>
+<text x="473" y="381" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle">PreM</text>
+<text x="503" y="336" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle">M1</text>
+<text x="512" y="368.4" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">M2a</text>
+</g>
+<g id="driver-genes">
+<text x="221.6" y="285.6" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49"><tspan font-style="italic">VHL</tspan></text>
+<line x1="239" y1="265.2" x2="239" y2="220.2" stroke="#243B49" stroke-width="1.1"/>
+<path d="M 241.52 220.2 L 236.48 220.2 L 239 214.2 Z" fill="#243B49"/>
+<text x="363.2" y="175.8" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end"><tspan font-style="italic">SETD2</tspan> (frameshift)</text>
+<line x1="366.8" y1="172.2" x2="385.54" y2="182.51" stroke="#243B49" stroke-width="1.1"/>
+<path d="M 384.33 184.72 L 386.76 180.3 L 390.8 185.4 Z" fill="#243B49"/>
+<text x="168.8" y="94.8" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49"><tspan font-style="italic">KDM5C</tspan> (missense and frameshift)</text>
+<text x="168.8" y="110.3" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49"><tspan font-style="italic">MTOR</tspan> (missense)</text>
+<line x1="344" y1="103.8" x2="419.78" y2="122.74" stroke="#243B49" stroke-width="1.1"/>
+<path d="M 419.17 125.19 L 420.39 120.3 L 425.6 124.2 Z" fill="#243B49"/>
+<text x="411.2" y="197.4" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49"><tspan font-style="italic">SETD2</tspan> (splice site)</text>
+<line x1="423.2" y1="202.2" x2="407.99" y2="231.09" stroke="#243B49" stroke-width="1.1"/>
+<path d="M 405.76 229.92 L 410.22 232.26 L 405.2 236.4 Z" fill="#243B49"/>
+<text x="239" y="316.2" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49"><tspan font-style="italic">SETD2</tspan> (missense)</text>
+<text x="239" y="331.7" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49"><tspan font-style="italic">KDM5C</tspan> (splice site)</text>
+<line x1="353" y1="298.2" x2="407.86" y2="281.36" stroke="#243B49" stroke-width="1.1"/>
+<path d="M 408.6 283.77 L 407.12 278.95 L 413.6 279.6 Z" fill="#243B49"/>
+<text x="423.8" y="223.8" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">?</text>
+</g>
+<g id="key">
+<rect x="16" y="16" width="12" height="12" fill="#2f6fb3"/>
+<text x="35" y="27" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49">Ubiquitous</text>
+<rect x="16" y="37" width="12" height="12" fill="#e0b000"/>
+<text x="35" y="48" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49">Shared primary</text>
+<rect x="16" y="58" width="12" height="12" fill="#5aa832"/>
+<text x="35" y="69" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49">Shared metastasis</text>
+<rect x="16" y="79" width="12" height="12" fill="#c8372d"/>
+<text x="35" y="90" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49">Private</text>
+<path d="M 16 365 L 16 370 L 76 370 L 76 365" fill="none" stroke="#243B49" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="84" y="372" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">10 mutations</text>
+</g>
+</svg>

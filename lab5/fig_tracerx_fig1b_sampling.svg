@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" viewBox="0 0 760 300" role="img" aria-labelledby="figure-title figure-desc">
+<title id="figure-title">Multiregion sequencing: regions, their mutations, and the tree</title>
+<desc id="figure-desc">Schematic of Jamal-Hanjani et al., N Engl J Med 376:2109 (2017), Fig. 1B, in three steps joined by arrows. Step 1, multiregion sampling: the outline of one tumor with four sampled regions, R1 to R4. Step 2, mutations found in each region: four circles, one for each region, each with the same nine places for nine mutations; a filled square means the mutation was found in that region. Three mutations, in blue, are in all four regions. The other six, in red, are in some regions only: one is shared by R1, R2 and R3, one each is private to R1, R2 and R3, and two are private to R4. Step 3, tree of the regions: a blue trunk carrying the three mutations found in every region (clonal mutations) rises from the root; R4 branches off first, with its two private mutations; R1, R2 and R3 share a branch with one mutation and then separate, each with one private mutation. The red branches carry the subclonal mutations. The example is made up to show the idea; the lung, the chromosomes with copy-number changes, the clone diagrams and the genome-doubling mark of the original are left out.</desc>
+<rect x="0" y="0" width="760" height="300" fill="#FFFFFF"/>
+<g id="headings">
+<text x="112" y="26" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#243B49" text-anchor="middle" font-weight="bold">1. Multiregion sampling</text>
+<text x="352" y="26" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#243B49" text-anchor="middle" font-weight="bold">2. Mutations found in each region</text>
+<text x="604" y="26" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#243B49" text-anchor="middle" font-weight="bold">3. Tree of the regions</text>
+</g>
+<g id="tumor">
+<path d="M 48 150 C 51.67 132 51.33 110 62 96 C 72.67 82 94.33 69 112 66 C 129.67 63 152.67 68.67 168 78 C 183.33 87.33 197.33 105.33 204 122 C 210.67 138.67 211 159.67 208 178 C 205 196.33 198.67 218.67 186 232 C 173.33 245.33 150 256 132 258 C 114 260 93.33 253 78 244 C 62.67 235 45 219.67 40 204 C 35 188.33 44.33 168 48 150 Z" fill="#F2F5F6" stroke="#243B49" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="112" cy="112" r="17" fill="#FFFFFF" stroke="#BA562C" stroke-width="2"/>
+<text x="112" y="116.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle">R1</text>
+<circle cx="164" cy="160" r="17" fill="#FFFFFF" stroke="#BA562C" stroke-width="2"/>
+<text x="164" y="164.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle">R2</text>
+<circle cx="112" cy="210" r="17" fill="#FFFFFF" stroke="#BA562C" stroke-width="2"/>
+<text x="112" y="214.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle">R3</text>
+<circle cx="76" cy="158" r="17" fill="#FFFFFF" stroke="#BA562C" stroke-width="2"/>
+<text x="76" y="162.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle">R4</text>
+</g>
+<g id="regions">
+<circle cx="300" cy="98" r="36" fill="#FFFFFF" stroke="#243B49" stroke-width="1.5"/>
+<text x="300" y="56" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle">R1</text>
+<rect x="279" y="77" width="8" height="8" fill="#2f6fb3"/>
+<rect x="296" y="77" width="8" height="8" fill="#2f6fb3"/>
+<rect x="313" y="77" width="8" height="8" fill="#2f6fb3"/>
+<rect x="279" y="94" width="8" height="8" fill="#c8372d"/>
+<rect x="296" y="94" width="8" height="8" fill="#c8372d"/>
+<circle cx="317" cy="98" r="1.6" fill="#B7C4CC"/>
+<circle cx="283" cy="115" r="1.6" fill="#B7C4CC"/>
+<circle cx="300" cy="115" r="1.6" fill="#B7C4CC"/>
+<circle cx="317" cy="115" r="1.6" fill="#B7C4CC"/>
+<circle cx="404" cy="98" r="36" fill="#FFFFFF" stroke="#243B49" stroke-width="1.5"/>
+<text x="404" y="56" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle">R2</text>
+<rect x="383" y="77" width="8" height="8" fill="#2f6fb3"/>
+<rect x="400" y="77" width="8" height="8" fill="#2f6fb3"/>
+<rect x="417" y="77" width="8" height="8" fill="#2f6fb3"/>
+<rect x="383" y="94" width="8" height="8" fill="#c8372d"/>
+<circle cx="404" cy="98" r="1.6" fill="#B7C4CC"/>
+<rect x="417" y="94" width="8" height="8" fill="#c8372d"/>
+<circle cx="387" cy="115" r="1.6" fill="#B7C4CC"/>
+<circle cx="404" cy="115" r="1.6" fill="#B7C4CC"/>
+<circle cx="421" cy="115" r="1.6" fill="#B7C4CC"/>
+<circle cx="300" cy="204" r="36" fill="#FFFFFF" stroke="#243B49" stroke-width="1.5"/>
+<text x="300" y="162" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle">R3</text>
+<rect x="279" y="183" width="8" height="8" fill="#2f6fb3"/>
+<rect x="296" y="183" width="8" height="8" fill="#2f6fb3"/>
+<rect x="313" y="183" width="8" height="8" fill="#2f6fb3"/>
+<rect x="279" y="200" width="8" height="8" fill="#c8372d"/>
+<circle cx="300" cy="204" r="1.6" fill="#B7C4CC"/>
+<circle cx="317" cy="204" r="1.6" fill="#B7C4CC"/>
+<rect x="279" y="217" width="8" height="8" fill="#c8372d"/>
+<circle cx="300" cy="221" r="1.6" fill="#B7C4CC"/>
+<circle cx="317" cy="221" r="1.6" fill="#B7C4CC"/>
+<circle cx="404" cy="204" r="36" fill="#FFFFFF" stroke="#243B49" stroke-width="1.5"/>
+<text x="404" y="162" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle">R4</text>
+<rect x="383" y="183" width="8" height="8" fill="#2f6fb3"/>
+<rect x="400" y="183" width="8" height="8" fill="#2f6fb3"/>
+<rect x="417" y="183" width="8" height="8" fill="#2f6fb3"/>
+<circle cx="387" cy="204" r="1.6" fill="#B7C4CC"/>
+<circle cx="404" cy="204" r="1.6" fill="#B7C4CC"/>
+<circle cx="421" cy="204" r="1.6" fill="#B7C4CC"/>
+<circle cx="387" cy="221" r="1.6" fill="#B7C4CC"/>
+<rect x="400" y="217" width="8" height="8" fill="#c8372d"/>
+<rect x="417" y="217" width="8" height="8" fill="#c8372d"/>
+<rect x="262" y="262" width="9" height="9" fill="#2f6fb3"/>
+<text x="276" y="271" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#243B49">in every region</text>
+<rect x="368" y="262" width="9" height="9" fill="#c8372d"/>
+<text x="382" y="271" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#243B49">in some regions</text>
+</g>
+<g id="steps">
+<line x1="220" y1="152" x2="240" y2="152" stroke="#60727D" stroke-width="2"/>
+<path d="M 240 155.36 L 240 148.64 L 248 152 Z" fill="#60727D"/>
+<line x1="454" y1="152" x2="474" y2="152" stroke="#60727D" stroke-width="2"/>
+<path d="M 474 155.36 L 474 148.64 L 482 152 Z" fill="#60727D"/>
+</g>
+<g id="tree">
+<line x1="552" y1="262" x2="552" y2="168" stroke="#2f6fb3" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="552" y1="168" x2="524" y2="122" stroke="#c8372d" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="524" y1="122" x2="494" y2="70" stroke="#c8372d" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="524" y1="122" x2="530" y2="62" stroke="#c8372d" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="524" y1="122" x2="566" y2="70" stroke="#c8372d" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="552" y1="168" x2="610" y2="92" stroke="#c8372d" stroke-width="2.6" stroke-linecap="round"/>
+<rect x="547" y="233.5" width="10" height="10" fill="#2f6fb3" stroke="#FFFFFF" stroke-width="1.6"/>
+<rect x="547" y="210" width="10" height="10" fill="#2f6fb3" stroke="#FFFFFF" stroke-width="1.6"/>
+<rect x="547" y="186.5" width="10" height="10" fill="#2f6fb3" stroke="#FFFFFF" stroke-width="1.6"/>
+<rect x="533" y="140" width="10" height="10" fill="#c8372d" stroke="#FFFFFF" stroke-width="1.6"/>
+<rect x="502.5" y="88.4" width="10" height="10" fill="#c8372d" stroke="#FFFFFF" stroke-width="1.6"/>
+<rect x="522.3" y="84" width="10" height="10" fill="#c8372d" stroke="#FFFFFF" stroke-width="1.6"/>
+<rect x="542.1" y="88.4" width="10" height="10" fill="#c8372d" stroke="#FFFFFF" stroke-width="1.6"/>
+<rect x="567.88" y="135.64" width="10" height="10" fill="#c8372d" stroke="#FFFFFF" stroke-width="1.6"/>
+<rect x="586.44" y="111.32" width="10" height="10" fill="#c8372d" stroke="#FFFFFF" stroke-width="1.6"/>
+<circle cx="552" cy="262" r="5" fill="#FFFFFF" stroke="#243B49" stroke-width="1.5"/>
+<circle cx="494" cy="70" r="5" fill="#243B49"/>
+<text x="494" y="59" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle">R1</text>
+<circle cx="530" cy="62" r="5" fill="#243B49"/>
+<text x="530" y="51" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle">R2</text>
+<circle cx="566" cy="70" r="5" fill="#243B49"/>
+<text x="566" y="59" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle">R3</text>
+<circle cx="610" cy="92" r="5" fill="#243B49"/>
+<text x="610" y="81" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle">R4</text>
+<path d="M 625 56 L 630 56 L 630 164 L 625 164" fill="none" stroke="#243B49" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="638" y="100" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#243B49" font-weight="bold">Branches:</text>
+<text x="638" y="115" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#243B49">subclonal mutations,</text>
+<text x="638" y="130" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#243B49">in some regions</text>
+<path d="M 625 172 L 630 172 L 630 262 L 625 262" fill="none" stroke="#243B49" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="638" y="207" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#243B49" font-weight="bold">Trunk:</text>
+<text x="638" y="222" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#243B49">clonal mutations,</text>
+<text x="638" y="237" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#243B49">in every region</text>
+</g>
+</svg>
