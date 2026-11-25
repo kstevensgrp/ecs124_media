@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="232" viewBox="0 0 760 232" role="img" aria-labelledby="figure-title figure-desc">
+<title id="figure-title">Kat6b-deficient mice beside control littermates</title>
+<desc id="figure-desc">Schematic of Clayton-Smith et al. 2011, Fig. 2A and 2B, drawn as outlines in place of the photographs. Panel A: the heads of a Qkf gt/gt mouse and a control littermate facing each other; the mutant's eye is smaller and its opening shorter and narrower. Panel B: the two whole animals facing each other; the mutant is about two thirds the length of the control. Only body size and eye size are meant to be read from the drawing; every other detail of the animals is generic.</desc>
+<rect x="0" y="0" width="760" height="232" fill="#FFFFFF"/>
+<defs><clipPath id="panel-a-clip"><rect x="20" y="20" width="310" height="166"/></clipPath></defs>
+<g id="panel-a">
+<g clip-path="url(#panel-a-clip)">
+<g id="head-mutant" transform="translate(-187.5 198) scale(1.35 1.35)">
+<path d="M 14 -20 C -12 -8 -44 -26 -78 -10" fill="none" stroke="#243B49" stroke-width="1.63" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="52" cy="-4" rx="19" ry="5" fill="#FFFFFF" stroke="#243B49" stroke-width="1.63"/>
+<ellipse cx="200" cy="-4" rx="12" ry="4.5" fill="#FFFFFF" stroke="#243B49" stroke-width="1.63"/>
+<path d="M 250 -27 C 245 -40 229 -52 209 -60 C 196 -66 182 -70 167 -73 C 128 -86 70 -88 36 -66 C 16 -53 8 -30 17 -12 C 22 -4 40 -2 60 -2 L 188 -2 C 204 -2 215 -7 223 -13 C 233 -17 245 -19 250 -27 Z" fill="#F2F5F6" stroke="#243B49" stroke-width="1.63" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="193" cy="-73" rx="12" ry="17" transform="rotate(-18 193 -73)" fill="#FFFFFF" stroke="#243B49" stroke-width="1.63"/>
+<ellipse cx="221" cy="-43" rx="3.6" ry="2.5" fill="#243B49"/>
+<line x1="243" y1="-26" x2="263" y2="-35" stroke="#60727D" stroke-width="0.73"/>
+<line x1="243" y1="-26" x2="265" y2="-26" stroke="#60727D" stroke-width="0.73"/>
+<line x1="243" y1="-26" x2="262" y2="-18" stroke="#60727D" stroke-width="0.73"/>
+</g>
+<g id="head-control" transform="translate(537.5 198) scale(-1.35 1.35)">
+<path d="M 14 -20 C -12 -8 -44 -26 -78 -10" fill="none" stroke="#243B49" stroke-width="1.63" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="52" cy="-4" rx="19" ry="5" fill="#FFFFFF" stroke="#243B49" stroke-width="1.63"/>
+<ellipse cx="200" cy="-4" rx="12" ry="4.5" fill="#FFFFFF" stroke="#243B49" stroke-width="1.63"/>
+<path d="M 250 -27 C 245 -40 229 -52 209 -60 C 196 -66 182 -70 167 -73 C 128 -86 70 -88 36 -66 C 16 -53 8 -30 17 -12 C 22 -4 40 -2 60 -2 L 188 -2 C 204 -2 215 -7 223 -13 C 233 -17 245 -19 250 -27 Z" fill="#F2F5F6" stroke="#243B49" stroke-width="1.63" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="193" cy="-73" rx="12" ry="17" transform="rotate(-18 193 -73)" fill="#FFFFFF" stroke="#243B49" stroke-width="1.63"/>
+<ellipse cx="221" cy="-43" rx="5" ry="5" fill="#243B49"/>
+<line x1="243" y1="-26" x2="263" y2="-35" stroke="#60727D" stroke-width="0.73"/>
+<line x1="243" y1="-26" x2="265" y2="-26" stroke="#60727D" stroke-width="0.73"/>
+<line x1="243" y1="-26" x2="262" y2="-18" stroke="#60727D" stroke-width="0.73"/>
+</g>
+</g>
+<rect x="20" y="20" width="310" height="166" fill="none" stroke="#D8E0E4" stroke-width="1.5"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#243B49" font-weight="bold">A</text>
+</g>
+<g id="panel-b">
+<g id="body-mutant" transform="translate(395 160) scale(0.42 0.42)">
+<path d="M 14 -20 C -12 -8 -44 -26 -78 -10" fill="none" stroke="#243B49" stroke-width="5.24" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="52" cy="-4" rx="19" ry="5" fill="#FFFFFF" stroke="#243B49" stroke-width="5.24"/>
+<ellipse cx="200" cy="-4" rx="12" ry="4.5" fill="#FFFFFF" stroke="#243B49" stroke-width="5.24"/>
+<path d="M 250 -27 C 245 -40 229 -52 209 -60 C 196 -66 182 -70 167 -73 C 128 -86 70 -88 36 -66 C 16 -53 8 -30 17 -12 C 22 -4 40 -2 60 -2 L 188 -2 C 204 -2 215 -7 223 -13 C 233 -17 245 -19 250 -27 Z" fill="#F2F5F6" stroke="#243B49" stroke-width="5.24" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="193" cy="-73" rx="12" ry="17" transform="rotate(-18 193 -73)" fill="#FFFFFF" stroke="#243B49" stroke-width="5.24"/>
+<ellipse cx="221" cy="-43" rx="3.6" ry="2.5" fill="#243B49"/>
+<line x1="243" y1="-26" x2="263" y2="-35" stroke="#60727D" stroke-width="2.36"/>
+<line x1="243" y1="-26" x2="265" y2="-26" stroke="#60727D" stroke-width="2.36"/>
+<line x1="243" y1="-26" x2="262" y2="-18" stroke="#60727D" stroke-width="2.36"/>
+</g>
+<g id="body-control" transform="translate(676 160) scale(-0.64 0.64)">
+<path d="M 14 -20 C -12 -8 -44 -26 -78 -10" fill="none" stroke="#243B49" stroke-width="3.44" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="52" cy="-4" rx="19" ry="5" fill="#FFFFFF" stroke="#243B49" stroke-width="3.44"/>
+<ellipse cx="200" cy="-4" rx="12" ry="4.5" fill="#FFFFFF" stroke="#243B49" stroke-width="3.44"/>
+<path d="M 250 -27 C 245 -40 229 -52 209 -60 C 196 -66 182 -70 167 -73 C 128 -86 70 -88 36 -66 C 16 -53 8 -30 17 -12 C 22 -4 40 -2 60 -2 L 188 -2 C 204 -2 215 -7 223 -13 C 233 -17 245 -19 250 -27 Z" fill="#F2F5F6" stroke="#243B49" stroke-width="3.44" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="193" cy="-73" rx="12" ry="17" transform="rotate(-18 193 -73)" fill="#FFFFFF" stroke="#243B49" stroke-width="3.44"/>
+<ellipse cx="221" cy="-43" rx="5" ry="5" fill="#243B49"/>
+<line x1="243" y1="-26" x2="263" y2="-35" stroke="#60727D" stroke-width="1.55"/>
+<line x1="243" y1="-26" x2="265" y2="-26" stroke="#60727D" stroke-width="1.55"/>
+<line x1="243" y1="-26" x2="262" y2="-18" stroke="#60727D" stroke-width="1.55"/>
+</g>
+<rect x="352" y="20" width="388" height="166" fill="none" stroke="#D8E0E4" stroke-width="1.5"/>
+<text x="362" y="44" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#243B49" font-weight="bold">B</text>
+</g>
+<g id="labels">
+<text x="92" y="212" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#243B49" text-anchor="middle" font-style="italic">Qkf<tspan baseline-shift="super" font-size="10.5">gt/gt</tspan></text>
+<text x="262" y="212" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#243B49" text-anchor="middle">Control</text>
+<text x="448" y="212" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#243B49" text-anchor="middle" font-style="italic">Qkf<tspan baseline-shift="super" font-size="10.5">gt/gt</tspan></text>
+<text x="612" y="212" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#243B49" text-anchor="middle">Control</text>
+</g>
+</svg>

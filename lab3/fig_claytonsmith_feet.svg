@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="296" viewBox="0 0 440 296" role="img" aria-labelledby="figure-title figure-desc">
+<title id="figure-title">Hind feet of a Kat6b-deficient mouse and a control</title>
+<desc id="figure-desc">Schematic of Clayton-Smith et al. 2011, Fig. 2F, drawn as outlines in place of the photographs. Two hind feet seen from below with digits I to V labelled, the first digits toward the middle of the figure. The Qkf gt/gt foot on the left is longer and more slender than the control foot on the right, and its first digit, labelled in orange, is much longer. Proportions are approximate.</desc>
+<rect x="0" y="0" width="440" height="296" fill="#FFFFFF"/>
+<g id="foot-mutant">
+<line x1="100" y1="132" x2="70.92" y2="88.89" stroke="#243B49" stroke-width="14" stroke-linecap="round"/>
+<line x1="105.5" y1="116" x2="92.14" y2="47.29" stroke="#243B49" stroke-width="14" stroke-linecap="round"/>
+<line x1="122" y1="112" x2="122" y2="36" stroke="#243B49" stroke-width="14" stroke-linecap="round"/>
+<line x1="138.5" y1="116" x2="151.48" y2="49.25" stroke="#243B49" stroke-width="14" stroke-linecap="round"/>
+<line x1="144" y1="140" x2="178.67" y2="88.6" stroke="#243B49" stroke-width="14" stroke-linecap="round"/>
+<path d="M 107 240 C 105 182.4 97 160.64 97 129.92 C 97 109.44 147 109.44 147 129.92 C 147 160.64 139 182.4 137 240 C 129.5 247 114.5 247 107 240 Z" fill="#F2F5F6" stroke="#243B49" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="100" y1="132" x2="70.92" y2="88.89" stroke="#F2F5F6" stroke-width="10" stroke-linecap="round"/>
+<line x1="105.5" y1="116" x2="92.14" y2="47.29" stroke="#F2F5F6" stroke-width="10" stroke-linecap="round"/>
+<line x1="122" y1="112" x2="122" y2="36" stroke="#F2F5F6" stroke-width="10" stroke-linecap="round"/>
+<line x1="138.5" y1="116" x2="151.48" y2="49.25" stroke="#F2F5F6" stroke-width="10" stroke-linecap="round"/>
+<line x1="144" y1="140" x2="178.67" y2="88.6" stroke="#F2F5F6" stroke-width="10" stroke-linecap="round"/>
+<text x="61.42" y="79.8" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49" text-anchor="middle" font-weight="bold">V</text>
+<text x="88.9" y="35.6" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49" text-anchor="middle" font-weight="bold">IV</text>
+<text x="122" y="24" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49" text-anchor="middle" font-weight="bold">III</text>
+<text x="154.72" y="37.56" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49" text-anchor="middle" font-weight="bold">II</text>
+<text x="188.18" y="79.51" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#BA562C" text-anchor="middle" font-weight="bold">I</text>
+</g>
+<g id="foot-control">
+<line x1="345.28" y1="154" x2="369.88" y2="117.52" stroke="#243B49" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="338.46" y1="140" x2="349.53" y2="83.07" stroke="#243B49" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="318" y1="136" x2="318" y2="74" stroke="#243B49" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="297.54" y1="140" x2="286.85" y2="85.03" stroke="#243B49" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="290.1" y1="166" x2="272.74" y2="145.32" stroke="#243B49" stroke-width="16.5" stroke-linecap="round"/>
+<path d="M 299.4 240 C 297.4 193.2 287 175.52 287 150.56 C 287 133.92 349 133.92 349 150.56 C 349 175.52 338.6 193.2 336.6 240 C 327.3 247 308.7 247 299.4 240 Z" fill="#F2F5F6" stroke="#243B49" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="345.28" y1="154" x2="369.88" y2="117.52" stroke="#F2F5F6" stroke-width="12.5" stroke-linecap="round"/>
+<line x1="338.46" y1="140" x2="349.53" y2="83.07" stroke="#F2F5F6" stroke-width="12.5" stroke-linecap="round"/>
+<line x1="318" y1="136" x2="318" y2="74" stroke="#F2F5F6" stroke-width="12.5" stroke-linecap="round"/>
+<line x1="297.54" y1="140" x2="286.85" y2="85.03" stroke="#F2F5F6" stroke-width="12.5" stroke-linecap="round"/>
+<line x1="290.1" y1="166" x2="272.74" y2="145.32" stroke="#F2F5F6" stroke-width="12.5" stroke-linecap="round"/>
+<text x="379.39" y="108.43" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49" text-anchor="middle" font-weight="bold">V</text>
+<text x="352.77" y="71.38" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49" text-anchor="middle" font-weight="bold">IV</text>
+<text x="318" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49" text-anchor="middle" font-weight="bold">III</text>
+<text x="283.61" y="73.34" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49" text-anchor="middle" font-weight="bold">II</text>
+<text x="261.82" y="137.29" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#BA562C" text-anchor="middle" font-weight="bold">I</text>
+</g>
+<g id="labels">
+<text x="122" y="280" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#243B49" text-anchor="middle" font-style="italic">Qkf<tspan baseline-shift="super" font-size="10.5">gt/gt</tspan></text>
+<text x="318" y="280" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#243B49" text-anchor="middle">Control</text>
+</g>
+</svg>

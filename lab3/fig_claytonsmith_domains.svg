@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="318" viewBox="0 0 760 318" role="img" aria-labelledby="figure-title figure-desc">
+<title id="figure-title">Truncating KAT6B mutations on the 2,073-residue protein</title>
+<desc id="figure-desc">Schematic of Clayton-Smith et al. 2011, Fig. 1C. A bar for the 2,073-residue KAT6B protein with a residue scale. The MYST domain (the paper's MOZ_SAS family box) is dark; the H15 domain and the two PHD zinc fingers are white boxes. Domain boundaries are measured from the paper's figure and are approximate. Three callouts carry the paper's labels, each placed by its coding position: c.527dup at residue 176, c.3018del at residue 1006, and a list of nine mutations bracketed over residues 1357 to 1912, all after the MYST domain. The label c.5367_5368del is kept as the figure prints it and drawn in orange because Table 2 gives that change as c.5370_5373dup. The paper's bar marking the region that interacts with RUNX2 is omitted.</desc>
+<rect x="0" y="0" width="760" height="318" fill="#FFFFFF"/>
+<g id="protein">
+<rect x="44" y="196" width="672" height="30" fill="#B7C4CC"/>
+<rect x="73.18" y="196" width="24.31" height="30" fill="#FFFFFF" stroke="#243B49" stroke-width="1"/>
+<rect x="113.7" y="196" width="19.45" height="30" fill="#FFFFFF" stroke="#243B49" stroke-width="1"/>
+<rect x="138.01" y="196" width="16.21" height="30" fill="#FFFFFF" stroke="#243B49" stroke-width="1"/>
+<rect x="282.26" y="196" width="68.08" height="30" fill="#243B49"/>
+<rect x="44" y="196" width="672" height="30" fill="none" stroke="#243B49" stroke-width="1.2"/>
+</g>
+<g id="domain-labels">
+<text x="85.17" y="246" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#60727D" text-anchor="middle">H15</text>
+<text x="134.12" y="246" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#60727D">PHD zinc fingers</text>
+<line x1="113.7" y1="231" x2="154.22" y2="231" stroke="#60727D" stroke-width="1"/>
+<text x="316.3" y="246" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49" text-anchor="middle" font-weight="bold">MYST domain</text>
+</g>
+<g id="residue-scale">
+<line x1="44" y1="270" x2="716" y2="270" stroke="#60727D" stroke-width="1"/>
+<line x1="44" y1="270" x2="44" y2="276" stroke="#60727D" stroke-width="1"/>
+<text x="44" y="291" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#60727D" text-anchor="middle">0</text>
+<line x1="206.08" y1="270" x2="206.08" y2="276" stroke="#60727D" stroke-width="1"/>
+<text x="206.08" y="291" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#60727D" text-anchor="middle">500</text>
+<line x1="368.17" y1="270" x2="368.17" y2="276" stroke="#60727D" stroke-width="1"/>
+<text x="368.17" y="291" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#60727D" text-anchor="middle">1,000</text>
+<line x1="530.25" y1="270" x2="530.25" y2="276" stroke="#60727D" stroke-width="1"/>
+<text x="530.25" y="291" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#60727D" text-anchor="middle">1,500</text>
+<line x1="692.34" y1="270" x2="692.34" y2="276" stroke="#60727D" stroke-width="1"/>
+<text x="692.34" y="291" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#60727D" text-anchor="middle">2,000</text>
+<line x1="716" y1="270" x2="716" y2="276" stroke="#60727D" stroke-width="1"/>
+<text x="716" y="307" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#60727D" text-anchor="end">2,073 residues</text>
+</g>
+<g id="callouts">
+<rect x="53.05" y="118" width="96" height="28" fill="#F2F5F6" rx="4"/>
+<text x="101.05" y="137" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49" text-anchor="middle">c.527dup</text>
+<line x1="101.05" y1="146" x2="101.05" y2="187" stroke="#243B49" stroke-width="1.4"/>
+<path d="M 96.25 186 L 105.85 186 L 101.05 193 Z" fill="#243B49"/>
+<rect x="322.11" y="118" width="96" height="28" fill="#F2F5F6" rx="4"/>
+<text x="370.11" y="137" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49" text-anchor="middle">c.3018del</text>
+<line x1="370.11" y1="146" x2="370.11" y2="187" stroke="#243B49" stroke-width="1.4"/>
+<path d="M 365.31 186 L 374.91 186 L 370.11 193 Z" fill="#243B49"/>
+<rect x="422" y="16" width="300" height="100" fill="#F2F5F6" rx="4"/>
+<text x="440" y="39" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49">c.4069G&gt;T</text>
+<text x="440" y="56.5" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49">c.4405dup</text>
+<text x="440" y="74" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49">c.4205_4206del</text>
+<text x="440" y="91.5" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49">c.4911_4921del</text>
+<text x="440" y="109" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49">c.5030del</text>
+<text x="590" y="39" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49">c.5201_5210dup</text>
+<text x="590" y="56.5" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#BA562C" font-weight="bold">c.5367_5368del</text>
+<text x="590" y="74" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49">c.5389C&gt;T</text>
+<text x="590" y="91.5" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49">c.5734A&gt;T</text>
+<path d="M 483.9 192 L 483.9 184 L 663.81 184 L 663.81 192" fill="none" stroke="#243B49" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="573.85" y1="116" x2="573.85" y2="184" stroke="#243B49" stroke-width="1.4"/>
+</g>
+</svg>

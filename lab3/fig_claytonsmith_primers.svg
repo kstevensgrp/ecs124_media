@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="518" viewBox="0 0 720 518" role="img" aria-labelledby="figure-title figure-desc">
+<title id="figure-title">The 22 primer pairs used to sequence KAT6B</title>
+<desc id="figure-desc">Schematic of Clayton-Smith et al. 2011, supplemental Table S2, set from the lab's file primers_tableS2.tsv. Twenty-two rows, one per amplicon, named by exon (3_1, 3_2, 4, 5 and 6, 7, 8_1, 8_2, 9 to 17, 18_1 to 18_5, 18), each with the forward primer, the reverse primer, both written 5' to 3', and the published product size in base pairs.</desc>
+<rect x="0" y="0" width="720" height="518" fill="#FFFFFF"/>
+<g id="table">
+<line x1="20" y1="16" x2="700" y2="16" stroke="#243B49" stroke-width="1.6"/>
+<text x="34" y="50" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" font-weight="bold">Exon</text>
+<text x="124" y="34.3" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" font-weight="bold">Forward primer</text>
+<text x="124" y="50" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" font-weight="bold">5' to 3'</text>
+<text x="366" y="34.3" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" font-weight="bold">Reverse primer</text>
+<text x="366" y="50" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" font-weight="bold">5' to 3'</text>
+<text x="684" y="34.3" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end" font-weight="bold">Product</text>
+<text x="684" y="50" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end" font-weight="bold">(bp)</text>
+<line x1="20" y1="60" x2="700" y2="60" stroke="#243B49" stroke-width="1.1"/>
+<text x="34" y="74.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">3_1</text>
+<text x="124" y="74.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">TGCTTAATACAGTCTGGAATACTCTG</text>
+<text x="366" y="74.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">TCGGCTCCTCAAGTCCTTC</text>
+<text x="684" y="74.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">493</text>
+<rect x="20" y="80" width="680" height="20" fill="#F2F5F6"/>
+<text x="34" y="94.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">3_2</text>
+<text x="124" y="94.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">TTTCCTAAGTCAGCCAAGGG</text>
+<text x="366" y="94.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">CCACATAAAACTTAAGTGAAACCG</text>
+<text x="684" y="94.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">437</text>
+<text x="34" y="114.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">4</text>
+<text x="124" y="114.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">CTGCACTACAACCTGGCG</text>
+<text x="366" y="114.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">CCACACTGAATTACCAATGCTG</text>
+<text x="684" y="114.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">595</text>
+<rect x="20" y="120" width="680" height="20" fill="#F2F5F6"/>
+<text x="34" y="134.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">5 and 6</text>
+<text x="124" y="134.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">CATTGGCTAGCCTCATCAGC</text>
+<text x="366" y="134.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">GAACCTGTATACCTCTGAGCTGTC</text>
+<text x="684" y="134.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">634</text>
+<text x="34" y="154.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">7</text>
+<text x="124" y="154.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">TTGAGCAGCTTATTACAGCTACAAC</text>
+<text x="366" y="154.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">GGAATCTGAGAGAATAACAATCACC</text>
+<text x="684" y="154.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">301</text>
+<rect x="20" y="160" width="680" height="20" fill="#F2F5F6"/>
+<text x="34" y="174.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">8_1</text>
+<text x="124" y="174.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">GAGAAACATCTAGGTGGTGGC</text>
+<text x="366" y="174.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">GGCACACTGCACTGGCTGG</text>
+<text x="684" y="174.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">668</text>
+<text x="34" y="194.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">8_2</text>
+<text x="124" y="194.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">CCACACAAAAGCTAAAACCTCC</text>
+<text x="366" y="194.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">ACCTATGTGACAAATAGGAATTGA</text>
+<text x="684" y="194.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">638</text>
+<rect x="20" y="200" width="680" height="20" fill="#F2F5F6"/>
+<text x="34" y="214.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">9</text>
+<text x="124" y="214.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">TCCCTATTTGCCCAGTATGC</text>
+<text x="366" y="214.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">TCACAAAGGATGTTGAAAGGG</text>
+<text x="684" y="214.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">337</text>
+<text x="34" y="234.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">10</text>
+<text x="124" y="234.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">TTGATAGTCACTGGTGAAAGAACC</text>
+<text x="366" y="234.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">TCCCTAATTCCTGCTTTAGAATC</text>
+<text x="684" y="234.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">283</text>
+<rect x="20" y="240" width="680" height="20" fill="#F2F5F6"/>
+<text x="34" y="254.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">11</text>
+<text x="124" y="254.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">AAATTGAACAATATTTAATCTTCCCC</text>
+<text x="366" y="254.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">TTTGTACCTTCTAAACACAAATCAGC</text>
+<text x="684" y="254.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">309</text>
+<text x="34" y="274.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">12</text>
+<text x="124" y="274.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">GTTTAGGATTTGGAAATAAAATGAT</text>
+<text x="366" y="274.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">AGCCCTGTTCAAAGAATTGG</text>
+<text x="684" y="274.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">351</text>
+<rect x="20" y="280" width="680" height="20" fill="#F2F5F6"/>
+<text x="34" y="294.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">13</text>
+<text x="124" y="294.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">TACAAGGACAGTGGCAGGTG</text>
+<text x="366" y="294.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">CTCAATTTCCTAGAGTACAATCACTG</text>
+<text x="684" y="294.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">378</text>
+<text x="34" y="314.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">14</text>
+<text x="124" y="314.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">GCGAATGCACTTCTCTGTTG</text>
+<text x="366" y="314.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">TGAATGCACCTATCTCCAGG</text>
+<text x="684" y="314.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">433</text>
+<rect x="20" y="320" width="680" height="20" fill="#F2F5F6"/>
+<text x="34" y="334.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">15</text>
+<text x="124" y="334.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">CATTAGTGCTAGCATATGTCCG</text>
+<text x="366" y="334.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">GACAACGATCTTAATGACTTTCTTAGC</text>
+<text x="684" y="334.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">330</text>
+<text x="34" y="354.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">16</text>
+<text x="124" y="354.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">GAGACACTTTGCCATTGATCC</text>
+<text x="366" y="354.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">AATAGACAGAATGTCTGCAATGAC</text>
+<text x="684" y="354.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">509</text>
+<rect x="20" y="360" width="680" height="20" fill="#F2F5F6"/>
+<text x="34" y="374.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">17</text>
+<text x="124" y="374.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">CATGTCTACTGCATATCGACTCAAC</text>
+<text x="366" y="374.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">CAGAGGCCTGCTCTTTGG</text>
+<text x="684" y="374.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">442</text>
+<text x="34" y="394.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">18_1</text>
+<text x="124" y="394.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">GGAATGAATTCAAGTTGCCC</text>
+<text x="366" y="394.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">GTGATCATCCAAACGTGCAG</text>
+<text x="684" y="394.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">637</text>
+<rect x="20" y="400" width="680" height="20" fill="#F2F5F6"/>
+<text x="34" y="414.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">18_2</text>
+<text x="124" y="414.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">GATGATCTCATCAAACCTGAGG</text>
+<text x="366" y="414.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">TCTGCACGGGTGTAGTTCTG</text>
+<text x="684" y="414.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">694</text>
+<text x="34" y="434.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">18_3</text>
+<text x="124" y="434.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">CCGTTCAGTCTTTGACCCAG</text>
+<text x="366" y="434.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">AGCCTTGAGGAGACTTGACG</text>
+<text x="684" y="434.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">630</text>
+<rect x="20" y="440" width="680" height="20" fill="#F2F5F6"/>
+<text x="34" y="454.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">18_4</text>
+<text x="124" y="454.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">CCTCCAGCAGTCTGACACAG</text>
+<text x="366" y="454.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">GCTGGCAATCTGGGTTTG</text>
+<text x="684" y="454.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">629</text>
+<text x="34" y="474.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">18_5</text>
+<text x="124" y="474.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">CTCCAATGAATCTGCCGC</text>
+<text x="366" y="474.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">AATTGCTGGTTTTGAAATCG</text>
+<text x="684" y="474.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">656</text>
+<rect x="20" y="480" width="680" height="20" fill="#F2F5F6"/>
+<text x="34" y="494.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49">18</text>
+<text x="124" y="494.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">TGACGAGCAGGTAACAGTGG</text>
+<text x="366" y="494.62" font-family="Courier New, monospace" font-size="12.9" fill="#243B49">GTTGTGGGATGGCTCTTCAT</text>
+<text x="684" y="494.62" font-family="Arial, Helvetica, sans-serif" font-size="13.2" fill="#243B49" text-anchor="end">415</text>
+<line x1="20" y1="500" x2="700" y2="500" stroke="#243B49" stroke-width="1.6"/>
+</g>
+</svg>

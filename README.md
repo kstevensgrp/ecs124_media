@@ -120,21 +120,31 @@ the original paper figures are not.
 Page figures for the Lab 3 and Lab 3 Extra writeups (Unit 3, indexing and
 database search). Each is provided as an SVG (the same file the Canvas page
 uses) and a PNG (1760 px wide, 128 colours, for Google Docs). File stems match
-the lab's own image names. All are original drawings computed from the lab's
-data with the reference solution; the figures reproduced from Clayton-Smith et
-al. (2011) are not published here.
+the lab's own image names. The `fig_<subject>` figures are original drawings
+computed from the lab's data with the reference solution. The
+`fig_claytonsmith_<subject>` figures are schematic redrawings of figures and
+tables in Clayton-Smith et al., *Am J Hum Genet* 89:675 (2011), set from the
+lab's data files; the original paper figures are not published here.
 
 | figure | lab | # | what it shows |
 |---|---|---|---|
+| `fig_claytonsmith_sanger` | Lab 3, Lab 3 Extra | 1, 4 | schematic of the Sanger traces of mother, individual 4 and father around KAT6B c.4069: one G peak in the parents, a G and a T in the child; after Fig. 1B |
 | `fig_kat6b_gene` | Lab 3 | 2 | KAT6B in the lab's data: 18 exons across 207 kb of GRCh37 and the 14 published variants, with exon 18 enlarged |
-| `fig_suffix_tree` | Lab 3 | 6 | the suffix tree of ATAAATG$, leaves numbered from 1 |
+| `fig_claytonsmith_domains` | Lab 3 | 3 | schematic of the 2,073-residue protein with the MYST domain and the paper's mutation labels in three places; after Fig. 1C |
+| `fig_claytonsmith_variants` | Lab 3 | 4 | the variants of individuals 1 to 14 (coding change, protein change, exon, parents, comment), individuals 15 to 19 in one row; after Table 2 |
+| `fig_claytonsmith_primers` | Lab 3 | 5 | the 22 primer pairs, 5' to 3', with the published product sizes; after supplemental Table S2 |
+| `fig_suffix_tree` | Lab 3 | 6 | the suffix tree of ATAAATG$, leaves numbered from 0 |
 | `fig_naive_steps` | Lab 3 | 7 | the first four insertions of the naive construction for ATAAATG$ |
 | `fig_pcr` | Lab 3 | 8 | in-silico PCR of amplicon 15 (the exon of individual 3's mutation) with the paper's primers |
 | `fig_repeats` | Lab 3 | 9 | repeats in the KAT6B region: the 58 bp longest repeat and the 28 bp Alu core seen 10 or more times, with the 44 primers |
 | `fig_generalized` | Lab 3 | 10 | the generalized suffix tree of ATAG#TAGA$, nodes coloured red, blue and purple |
+| `fig_claytonsmith_mice` | Lab 3 | 11 | outline drawings of a Qkf gt/gt mouse and a control littermate, heads (A) and whole animals (B); after Fig. 2A-B |
+| `fig_claytonsmith_feet` | Lab 3 | 12 | outline drawings of the hind feet of a Qkf gt/gt mouse and a control, digits I to V labelled; after Fig. 2F |
 | `fig_unique_string` | Lab 3 | 13 | individual 4's exon 17–18 sequence against the reference: the shortest string found only in the patient, TAGGAG |
 | `fig_complexity` | Lab 3 | 14 | linguistic complexity in 100 bp windows along exon 17 to exon 18, with the dip at c.4069 |
 | `fig_dotplot` | Lab 3 | 15 | human against mouse KAT6B coding sequence, exact matches of 20 bp or more from k = 12 hits |
+| `fig_claytonsmith_isoforms` | Lab 3 | 16 | the coding exons of three KAT6B isoforms to scale (2,073, 1,890 and 1,781 residues), exon 8 in red with the skipped part dashed; after Fig. 1D |
+| `fig_claytonsmith_filtering` | Lab 3 Extra | 1 | variant counts for persons 1 to 4 at each filtering step, the three counts in KAT6B circled; after Table 1 |
 | `fig_pigeonhole` | Lab 3 Extra | 2 | a read from individual 4 cut into three seeds for d = 2 |
 | `fig_pileup` | Lab 3 Extra | 3 | read depth and disagreeing reads around the published sites of individuals 4 and 3 |
 
