@@ -168,7 +168,8 @@ article (CC BY 4.0); the paper's own figures are not published here.
 | `fig_overlap_graph` | Lab 4 | 5 | the overlap graph of the 7-mer reads of TAATGCCATGGGATGTTAC, with the overlaps the greedy layout accepts in red |
 | `fig_debruijn` | Lab 4 | 6 | the de Bruijn graph of TAATGCCATGGGATGTT for k = 3 |
 | `fig_repeat_tangle` | Lab 4 | 7 | a genome with two copies of a repeat R, and how the graph glues them into one path |
-| `fig_wu_edfig3_coverage` | Lab 4 | 8 | schematic of read depth along the 29,903 bases of WHCV in 100-base steps, measured off the paper's figure, with its genome coverage (29,901 of 29,903 bases); after Extended Data Fig. 3 |
+| `fig_kmer_experiment` | Lab 4 | 8 | the answer to Part C: contigs against k, and how many bases the Eulerian path is short of the reference, from the course's solution |
+| `fig_wu_edfig3_coverage` | Lab 4 | 9 | schematic of read depth along the 29,903 bases of WHCV in 100-base steps, measured off the paper's figure, with its genome coverage (29,901 of 29,903 bases); after Extended Data Fig. 3 |
 
 ## lab5/
 
