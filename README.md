@@ -129,7 +129,7 @@ lab's data files; the original paper figures are not published here.
 | figure | lab | # | what it shows |
 |---|---|---|---|
 | `fig_claytonsmith_sanger` | Lab 3, Lab 3 Extra | 1, 4 | schematic of the Sanger traces of mother, individual 4 and father around KAT6B c.4069: one G peak in the parents, a G and a T in the child; after Fig. 1B |
-| `fig_kat6b_gene` | Lab 3 | 2 | KAT6B in the lab's data: 18 exons across 207 kb of GRCh37 and the 14 published variants, with exon 18 enlarged |
+| `fig_kat6b_gene` | Lab 3 | 2 | KAT6B in the lab's data: 18 exons across 207 kb of hg19 and the 14 published variants, with exon 18 enlarged |
 | `fig_claytonsmith_domains` | Lab 3 | 3 | schematic of the 2,073-residue protein with the MYST domain and the paper's mutation labels in three places; after Fig. 1C |
 | `fig_claytonsmith_variants` | Lab 3 | 4 | the variants of individuals 1 to 14 (coding change, protein change, exon, parents, comment), individuals 15 to 19 in one row; after Table 2 |
 | `fig_claytonsmith_primers` | Lab 3 | 5 | the 22 primer pairs, 5' to 3', with the published product sizes; after supplemental Table S2 |
