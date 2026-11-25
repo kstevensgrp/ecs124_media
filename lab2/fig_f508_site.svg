@@ -108,7 +108,7 @@ L 398.950875 68.4612
 " clip-path="url(#p5287be3d8b)" style="fill: none; stroke: #6b6b6b; stroke-width: 0.8; stroke-linecap: square"/>
    </g>
    <g id="text_1">
-    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1c1c1c" x="269.46" y="15.6084" transform="rotate(-0 269.46 15.6084)">CFTR exon 11   chr7:117,559,464-117,559,655 (192 bp, GRCh38)</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1c1c1c" x="269.46" y="15.6084" transform="rotate(-0 269.46 15.6084)">CFTR exon 11   chr7:117,559,464-117,559,655 (192 bp, hg38)</text>
    </g>
    <g id="text_2">
     <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b6b6b" x="23.59125" y="22.8156" transform="rotate(-0 23.59125 22.8156)">intron</text>
