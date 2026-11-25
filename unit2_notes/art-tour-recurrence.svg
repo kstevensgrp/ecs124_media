@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="318" viewBox="0 0 760 318">
+<rect x="0" y="0" width="760" height="318" fill="#ffffff"/>
+<text x="8.00" y="26.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#000000" text-anchor="start" font-weight="bold" xml:space="preserve">(a)</text>
+<text x="28.43" y="26.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">Two ways into corner (i, j)</text>
+<line x1="72.00" y1="80.00" x2="238.00" y2="80.00" stroke="#bbbbbb" stroke-width="1.20"/>
+<line x1="72.00" y1="80.00" x2="72.00" y2="190.00" stroke="#bbbbbb" stroke-width="1.20"/>
+<circle cx="72.0" cy="80.0" r="5" fill="#ffffff" stroke="#bbbbbb" stroke-width="1.2"/>
+<line x1="292.00" y1="98.00" x2="292.00" y2="184.00" stroke="#555555" stroke-width="1.40"/>
+<polygon points="292.0,189.0 285.5,177.9 298.5,177.9" fill="#555555"/>
+<line x1="126.00" y1="208.00" x2="232.00" y2="208.00" stroke="#555555" stroke-width="1.40"/>
+<polygon points="237.0,208.0 225.9,201.5 225.9,214.5" fill="#555555"/>
+<rect x="238.00" y="62.00" width="108.00" height="36.00" fill="#ffffff" stroke="#000000" stroke-width="1.30" rx="6.0"/>
+<text x="292.00" y="84.70" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">best[i − 1][j]</text>
+<rect x="18.00" y="190.00" width="108.00" height="36.00" fill="#ffffff" stroke="#000000" stroke-width="1.30" rx="6.0"/>
+<text x="72.00" y="212.70" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">best[i][j − 1]</text>
+<rect x="238.00" y="190.00" width="108.00" height="36.00" fill="#d6d6d6" stroke="#000000" stroke-width="2.00" rx="6.0"/>
+<text x="292.00" y="212.70" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">best[i][j]</text>
+<text x="292.00" y="54.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.50" fill="#555555" text-anchor="middle" font-weight="normal" font-style="italic" xml:space="preserve">corner (i − 1, j)</text>
+<text x="72.00" y="243.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.50" fill="#555555" text-anchor="middle" font-weight="normal" font-style="italic" xml:space="preserve">corner (i, j − 1)</text>
+<text x="292.00" y="243.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.50" fill="#555555" text-anchor="middle" font-weight="normal" font-style="italic" xml:space="preserve">corner (i, j)</text>
+<text x="278.00" y="142.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">south[i][j]</text>
+<text x="182.00" y="198.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">east[i][j]</text>
+<text x="8.00" y="280.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#000000" xml:space="preserve"><tspan>best[i][j] = max[ best[i − 1][j] + south[i][j],</tspan></text>
+<text x="8.00" y="301.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#000000" xml:space="preserve"><tspan fill-opacity="0">best[i][j] = max[ </tspan><tspan>best[i][j − 1] + east[i][j] ]</tspan></text>
+<text x="388.00" y="26.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#000000" text-anchor="start" font-weight="bold" xml:space="preserve">(b)</text>
+<text x="409.14" y="26.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#000000" text-anchor="start" font-weight="normal" xml:space="preserve">The corner of 3rd and D, node (2, 3)</text>
+<line x1="452.00" y1="80.00" x2="618.00" y2="80.00" stroke="#bbbbbb" stroke-width="1.20"/>
+<line x1="452.00" y1="80.00" x2="452.00" y2="190.00" stroke="#bbbbbb" stroke-width="1.20"/>
+<circle cx="452.0" cy="80.0" r="5" fill="#ffffff" stroke="#bbbbbb" stroke-width="1.2"/>
+<line x1="672.00" y1="98.00" x2="672.00" y2="184.00" stroke="#555555" stroke-width="1.40"/>
+<polygon points="672.0,189.0 665.5,177.9 678.5,177.9" fill="#555555"/>
+<line x1="506.00" y1="208.00" x2="612.00" y2="208.00" stroke="#000000" stroke-width="2.80"/>
+<polygon points="617.0,208.0 606.0,201.5 606.0,214.5" fill="#000000"/>
+<rect x="618.00" y="62.00" width="108.00" height="36.00" fill="#ffffff" stroke="#000000" stroke-width="1.30" rx="6.0"/>
+<text x="672.00" y="84.70" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">best[1][3] = 2</text>
+<rect x="398.00" y="190.00" width="108.00" height="36.00" fill="#ffffff" stroke="#000000" stroke-width="1.30" rx="6.0"/>
+<text x="452.00" y="212.70" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="normal" xml:space="preserve">best[2][2] = 9</text>
+<rect x="618.00" y="190.00" width="108.00" height="36.00" fill="#d6d6d6" stroke="#000000" stroke-width="2.00" rx="6.0"/>
+<text x="672.00" y="212.70" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">best[2][3] = 12</text>
+<text x="672.00" y="54.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.50" fill="#555555" text-anchor="middle" font-weight="normal" font-style="italic" xml:space="preserve">4th and D, (1, 3)</text>
+<text x="452.00" y="243.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.50" fill="#555555" text-anchor="middle" font-weight="normal" font-style="italic" xml:space="preserve">3rd and C, (2, 2)</text>
+<text x="672.00" y="243.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.50" fill="#555555" text-anchor="middle" font-weight="normal" font-style="italic" xml:space="preserve">3rd and D, (2, 3)</text>
+<text x="658.00" y="142.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="end" font-weight="bold" xml:space="preserve">south[2][3] = 1</text>
+<text x="658.00" y="158.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#555555" text-anchor="end" font-weight="normal" xml:space="preserve">D Street: 1 piece</text>
+<text x="562.00" y="198.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.50" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">east[2][3] = 3</text>
+<text x="562.00" y="226.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.00" fill="#555555" text-anchor="middle" font-weight="normal" xml:space="preserve">3rd Street: 3 pieces</text>
+<text x="388.00" y="280.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#000000" xml:space="preserve"><tspan>best[2][3] = max[ 2 + 1, </tspan><tspan font-weight="bold">9 + 3</tspan><tspan> ]</tspan></text>
+<text x="388.00" y="301.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#000000" xml:space="preserve"><tspan fill-opacity="0">best[2][3] </tspan><tspan>= max[ 3, </tspan><tspan font-weight="bold">12</tspan><tspan> ] = 12</tspan></text>
+<line x1="380.00" y1="14.00" x2="380.00" y2="304.00" stroke="#dddddd" stroke-width="1.00"/>
+</svg>
