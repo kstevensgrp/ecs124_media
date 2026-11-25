@@ -114,7 +114,7 @@ L 0 3.5
      </g>
     </g>
     <g id="text_7">
-     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1c1c1c" x="278.302813" y="188.980906" transform="rotate(-0 278.302813 188.980906)">chr7 position where the fitted substring ends (GRCh38)</text>
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1c1c1c" x="278.302813" y="188.980906" transform="rotate(-0 278.302813 188.980906)">chr7 position where the fitted substring ends (hg38)</text>
     </g>
    </g>
    <g id="matplotlib.axis_2">
