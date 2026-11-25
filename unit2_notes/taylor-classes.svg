@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="526" viewBox="0 0 760 526">
+<rect x="0" y="0" width="760" height="526" fill="#ffffff"/>
+<g transform="translate(0,-40)">
+<ellipse cx="280.0" cy="240.0" rx="240.0" ry="190.0" transform="rotate(0.0 280.0 240.0)" fill="#ececec" stroke="#444444" stroke-width="1.60"/>
+<ellipse cx="480.0" cy="240.0" rx="240.0" ry="190.0" transform="rotate(0.0 480.0 240.0)" fill="none" stroke="#444444" stroke-width="1.60"/>
+<ellipse cx="380.0" cy="432.0" rx="300.0" ry="125.0" transform="rotate(0.0 380.0 432.0)" fill="none" stroke="#444444" stroke-width="1.60" stroke-dasharray="8 5"/>
+<ellipse cx="171.4" cy="329.5" rx="75.0" ry="59.3" transform="rotate(21.1 171.4 329.5)" fill="none" stroke="#000000" stroke-width="1.40"/>
+<ellipse cx="340.0" cy="152.0" rx="142.9" ry="32.9" transform="rotate(3.0 340.0 152.0)" fill="none" stroke="#000000" stroke-width="1.40"/>
+<ellipse cx="523.9" cy="241.0" rx="176.2" ry="58.6" transform="rotate(60.6 523.9 241.0)" fill="none" stroke="#000000" stroke-width="1.40"/>
+<ellipse cx="348.8" cy="405.6" rx="168.6" ry="24.4" transform="rotate(1.0 348.8 405.6)" fill="none" stroke="#000000" stroke-width="1.40"/>
+<ellipse cx="428.0" cy="500.0" rx="26.0" ry="26.0" transform="rotate(0.0 428.0 500.0)" fill="none" stroke="#000000" stroke-width="1.40"/>
+<ellipse cx="507.4" cy="202.5" rx="100.0" ry="47.7" transform="rotate(45.1 507.4 202.5)" fill="none" stroke="#000000" stroke-width="1.10" stroke-dasharray="4 3"/>
+<ellipse cx="584.0" cy="337.0" rx="58.5" ry="32.1" transform="rotate(73.3 584.0 337.0)" fill="none" stroke="#000000" stroke-width="1.10" stroke-dasharray="4 3"/>
+<text x="116.00" y="236.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">hydrophobic</text>
+<text x="600.00" y="116.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">polar</text>
+<text x="216.00" y="488.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">small</text>
+<text x="208.00" y="356.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" font-style="italic" xml:space="preserve">aliphatic</text>
+<line x1="196.64" y1="145.67" x2="197.32" y2="145.67" stroke="#777777" stroke-width="0.90"/>
+<text x="168.00" y="152.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" font-style="italic" xml:space="preserve">aromatic</text>
+<line x1="555.13" y1="174.00" x2="555.13" y2="184.29" stroke="#777777" stroke-width="0.90"/>
+<text x="580.00" y="168.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" font-style="italic" xml:space="preserve">positive</text>
+<line x1="611.72" y1="402.00" x2="610.31" y2="386.50" stroke="#777777" stroke-width="0.90"/>
+<text x="640.00" y="416.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" font-style="italic" xml:space="preserve">negative</text>
+<line x1="457.00" y1="500.00" x2="454.00" y2="500.00" stroke="#777777" stroke-width="0.90"/>
+<text x="480.00" y="504.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" font-style="italic" xml:space="preserve">proline</text>
+<line x1="636.70" y1="306.00" x2="616.04" y2="307.96" stroke="#777777" stroke-width="0.90"/>
+<text x="664.00" y="300.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" font-style="italic" xml:space="preserve">charged</text>
+<line x1="330.76" y1="438.00" x2="330.76" y2="429.56" stroke="#777777" stroke-width="0.90"/>
+<text x="328.00" y="452.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.00" fill="#555555" text-anchor="middle" font-weight="normal" font-style="italic" xml:space="preserve">tiny</text>
+<text x="118.00" y="323.95" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">I</text>
+<text x="196.00" y="305.95" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">L</text>
+<text x="186.00" y="377.95" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">V</text>
+<text x="210.00" y="227.95" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">M</text>
+<text x="232.00" y="151.95" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">F</text>
+<text x="322.00" y="151.95" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">Y</text>
+<text x="388.00" y="153.95" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">W</text>
+<text x="448.00" y="163.95" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">H</text>
+<text x="262.00" y="357.95" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">C</text>
+<text x="238.00" y="409.95" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">A</text>
+<text x="300.00" y="413.95" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">G</text>
+<text x="380.00" y="351.95" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">T</text>
+<text x="494.00" y="191.95" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">K</text>
+<text x="556.00" y="227.95" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">R</text>
+<text x="574.00" y="307.95" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">E</text>
+<text x="594.00" y="377.95" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">D</text>
+<text x="650.00" y="227.95" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">Q</text>
+<text x="538.00" y="405.95" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">N</text>
+<text x="462.00" y="413.95" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">S</text>
+<text x="428.00" y="505.95" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17.00" fill="#000000" text-anchor="middle" font-weight="bold" xml:space="preserve">P</text>
+</g>
+</svg>
