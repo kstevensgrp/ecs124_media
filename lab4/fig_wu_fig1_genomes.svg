@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="292" viewBox="0 0 760 292" role="img" aria-labelledby="figure-title figure-desc">
+<title id="figure-title">Gene maps of WHCV and two related coronavirus genomes</title>
+<desc id="figure-desc">Schematic of Wu et al. 2020, Fig. 1 (Nature 579:265, CC BY 4.0), simplified. Three genomes drawn to one scale, one above another, each a thin line with four boxes: WHCV, 29,903 bp, at the top; the bat coronavirus SL-CoVZC45, 29,802 bp; and SARS-CoV Tor2, 29,751 bp. The layout is the same in all three. The replicase gene, drawn dark in two parts labelled 1a and 1b, runs from near the start to about position 21,500 (in WHCV positions 266 to 21,555, 21,290 of 29,903 bases). The spike gene S, in orange, follows it. One grey box stands for all the remaining genes, E, M, N and smaller ones (in WHCV 9 genes, ORF3a to ORF10), which the paper draws one by one. WHCV's positions are those of the lab's sarscov2_genes.tsv; the other two genomes' are from GenBank MG772933.1 and AY274119.3. A position axis runs along the bottom.</desc>
+<rect x="0" y="0" width="760" height="292" fill="#FFFFFF"/>
+<g id="genome-whcv">
+<text x="122" y="81" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#243B49" text-anchor="end" font-weight="bold">WHCV</text>
+<text x="676" y="81" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#243B49" font-weight="bold">29,903 bp</text>
+<line x1="136" y1="76" x2="664" y2="76" stroke="#60727D" stroke-width="1.6"/>
+<rect x="140.68" y="62" width="233.13" height="28" fill="#243B49"/>
+<rect x="373.79" y="62" width="142.81" height="28" fill="#243B49"/>
+<rect x="516.72" y="62" width="67.49" height="28" fill="#BA562C"/>
+<rect x="584.35" y="62" width="75.61" height="28" fill="#B7C4CC"/>
+<line x1="373.79" y1="61.5" x2="373.79" y2="90.5" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="516.72" y1="61.5" x2="516.72" y2="90.5" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="584.35" y1="61.5" x2="584.35" y2="90.5" stroke="#FFFFFF" stroke-width="1.4"/>
+<text x="257.24" y="81.5" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="middle" font-style="italic">1a</text>
+<text x="445.19" y="81.5" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="middle" font-style="italic">1b</text>
+<text x="550.46" y="81.5" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="italic">S</text>
+</g>
+<g id="genome-bat-sl-covzc45">
+<text x="122" y="141" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#243B49" text-anchor="end">Bat SL-CoVZC45</text>
+<text x="676" y="141" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#243B49">29,802 bp</text>
+<line x1="136" y1="136" x2="662.22" y2="136" stroke="#60727D" stroke-width="1.6"/>
+<rect x="140.66" y="122" width="232.91" height="28" fill="#243B49"/>
+<rect x="373.56" y="122" width="142.81" height="28" fill="#243B49"/>
+<rect x="516.48" y="122" width="66.06" height="28" fill="#BA562C"/>
+<rect x="582.67" y="122" width="73.12" height="28" fill="#B7C4CC"/>
+<line x1="373.56" y1="121.5" x2="373.56" y2="150.5" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="516.48" y1="121.5" x2="516.48" y2="150.5" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="582.67" y1="121.5" x2="582.67" y2="150.5" stroke="#FFFFFF" stroke-width="1.4"/>
+<text x="257.12" y="141.5" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="middle" font-style="italic">1a</text>
+<text x="444.96" y="141.5" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="middle" font-style="italic">1b</text>
+<text x="549.5" y="141.5" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="italic">S</text>
+</g>
+<g id="genome-sars-cov-tor2">
+<text x="122" y="201" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#243B49" text-anchor="end">SARS-CoV Tor2</text>
+<text x="676" y="201" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#243B49">29,751 bp</text>
+<line x1="136" y1="196" x2="661.32" y2="196" stroke="#60727D" stroke-width="1.6"/>
+<rect x="140.66" y="182" width="231.8" height="28" fill="#243B49"/>
+<rect x="372.45" y="182" width="142.92" height="28" fill="#243B49"/>
+<rect x="515.47" y="182" width="66.53" height="28" fill="#BA562C"/>
+<rect x="582.14" y="182" width="72.76" height="28" fill="#B7C4CC"/>
+<line x1="372.45" y1="181.5" x2="372.45" y2="210.5" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="515.47" y1="181.5" x2="515.47" y2="210.5" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="582.14" y1="181.5" x2="582.14" y2="210.5" stroke="#FFFFFF" stroke-width="1.4"/>
+<text x="256.56" y="201.5" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="middle" font-style="italic">1a</text>
+<text x="443.9" y="201.5" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="middle" font-style="italic">1b</text>
+<text x="548.73" y="201.5" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="italic">S</text>
+</g>
+<g id="other-genes-label">
+<line x1="622.15" y1="58" x2="622.15" y2="48" stroke="#60727D" stroke-width="1.1"/>
+<text x="659.96" y="41" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#60727D" text-anchor="end">E, M, N and smaller genes</text>
+</g>
+<g id="position-axis">
+<line x1="136" y1="236" x2="664" y2="236" stroke="#60727D" stroke-width="1"/>
+<line x1="136" y1="236" x2="136" y2="242" stroke="#60727D" stroke-width="1"/>
+<text x="136" y="257" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#60727D" text-anchor="middle">1</text>
+<line x1="224.27" y1="236" x2="224.27" y2="242" stroke="#60727D" stroke-width="1"/>
+<text x="224.27" y="257" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#60727D" text-anchor="middle">5,000</text>
+<line x1="312.55" y1="236" x2="312.55" y2="242" stroke="#60727D" stroke-width="1"/>
+<text x="312.55" y="257" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#60727D" text-anchor="middle">10,000</text>
+<line x1="400.84" y1="236" x2="400.84" y2="242" stroke="#60727D" stroke-width="1"/>
+<text x="400.84" y="257" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#60727D" text-anchor="middle">15,000</text>
+<line x1="489.12" y1="236" x2="489.12" y2="242" stroke="#60727D" stroke-width="1"/>
+<text x="489.12" y="257" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#60727D" text-anchor="middle">20,000</text>
+<line x1="577.41" y1="236" x2="577.41" y2="242" stroke="#60727D" stroke-width="1"/>
+<text x="577.41" y="257" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#60727D" text-anchor="middle">25,000</text>
+<text x="400" y="280" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#60727D" text-anchor="middle">Position</text>
+</g>
+</svg>

@@ -152,15 +152,19 @@ lab's data files; the original paper figures are not published here.
 
 Page figures for the Lab 4 writeup (Unit 4, genome assembly). Each is provided
 as an SVG (the same file the Canvas page uses) and a PNG (1760 px wide, 128
-colours, for Google Docs). File stems match the lab's own image names. All are
-original drawings made from the lab's data with the reference solution; the
-figures reproduced from Wu et al. (2020) are not published here.
+colours, for Google Docs). File stems match the lab's own image names. The
+`fig_<subject>` figures are original drawings made from the lab's data with the
+reference solution. The `fig_wu_<subject>` figures are simplified schematic
+redrawings of figures in Wu et al., *Nature* 579:265 (2020), an open-access
+article (CC BY 4.0); the paper's own figures are not published here.
 
 | figure | lab | # | what it shows |
 |---|---|---|---|
+| `fig_wu_fig1_genomes` | Lab 4 | 1 | schematic of three coronavirus genomes to one scale (WHCV, bat SL-CoVZC45, SARS-CoV Tor2): the replicase gene 1a/1b, the spike gene S, and one box for the remaining genes; after Fig. 1 |
 | `fig_genome` | Lab 4 | 2 | the genes of SARS-CoV-2 (NC_045512.2), the nine copies of the ACGAAC motif and the 33-base poly-A tail |
 | `fig_reads` | Lab 4 | 3 | the simulated 150 bp reads over the start of the spike gene, with read depth below |
 | `fig_overlap` | Lab 4 | 4 | four reads, each overlapping the next by 7 letters, merged into one string |
 | `fig_overlap_graph` | Lab 4 | 5 | the overlap graph of the 7-mer reads of TAATGCCATGGGATGTTAC, with the overlaps the greedy layout accepts in red |
 | `fig_debruijn` | Lab 4 | 6 | the de Bruijn graph of TAATGCCATGGGATGTT for k = 3 |
 | `fig_repeat_tangle` | Lab 4 | 7 | a genome with two copies of a repeat R, and how the graph glues them into one path |
+| `fig_wu_edfig3_coverage` | Lab 4 | 8 | schematic of read depth along the 29,903 bases of WHCV in 100-base steps, measured off the paper's figure, with its genome coverage (29,901 of 29,903 bases); after Extended Data Fig. 3 |
