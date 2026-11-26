@@ -19,6 +19,7 @@ Media is organized by subject, one folder per subject:
 | `lab4/` | page figures for the Lab 4 writeup (genome assembly) |
 | `lab5/` | page figures for the Lab 5 writeup (evolutionary trees) |
 | `unit2_notes/` | figures for the Unit 2 Handout (approximate matching and sequence alignment) |
+| `unit3_notes/` | figures for the Unit 3 Handout (indexing and database search) |
 
 ## unit1_notes/
 
@@ -66,6 +67,15 @@ source) and a PNG (1760 px wide, greyscale, for Google Docs).
 | `art-tour-recurrence` | Appendix A Figure A4: the art-tour recurrence best[i][j] = max[best[i − 1][j] + south[i][j], best[i][j − 1] + east[i][j]]: (a) the two ways into corner (i, j), from the north along the edge south[i][j] and from the west along the edge east[i][j]; (b) the values at the corner of 3rd and D, node (2, 3), of Figure A3: best[1][3] = 2 and south[2][3] = 1 (D Street), best[2][2] = 9 and east[2][3] = 3 (3rd Street), so best[2][3] = max[3, 12] = 12, with the winning edge drawn heavy |
 | `blosum62-taylor` | Appendix A Figure A5: the BLOSUM62 scores with rows and columns in the order of a complete-linkage clustering of the matrix (distance 3 − s(x, y)), the tree on top, positive scores shaded, and the clusters boxed and labelled with the best-matching class of Taylor (1986) as tabulated by Livingstone & Barton (1993): tiny (A G S), proline, positive (K R; Taylor also has H), negative (D E), aromatic (F W Y; −H), aliphatic (I L V + M), charged (D E H K R + N Q), hydrophobic (C F I L M T V W Y; Taylor also has A G H K). Computed from the published matrix (Biopython); no figure from either paper is reproduced |
 | `taylor-classes` | Unit 2 Notes section 4: Taylor's (1986) classes of amino acids as a Venn diagram, redrawn in our own layout from the table of Livingstone & Barton (1993): hydrophobic (shaded), polar, small (dashed), with aliphatic, aromatic, charged (positive and negative dotted inside it), tiny and proline; every letter lies inside exactly the sets it belongs to (checked by the generator) |
+
+## unit3_notes/
+
+Figures for the Unit 3 Handout. Each figure is provided as an SVG (the vector
+source) and a PNG (1760 px wide, greyscale, for Google Docs).
+
+| figure | what it shows |
+|---|---|
+| `suffix-tree-xabxac` | Figure 1: the suffix tree of T = xabxac (Gusfield Fig. 5.1 redrawn, leaves numbered from 0): from the root, a to internal node u (then bxac to leaf 1, c to leaf 4), bxac to leaf 2, c to leaf 5, xa to internal node w (then bxac to leaf 0, c to leaf 3); each edge's letters are spaced one level apart, so a node's height is its string-depth |
 
 ## lab1/
 

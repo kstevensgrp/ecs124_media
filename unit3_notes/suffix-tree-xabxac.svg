@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="392" viewBox="0 0 760 392">
+<title>Suffix tree of xabxac</title>
+<desc>The suffix tree of xabxac, after Gusfield Figure 5.1, with leaves numbered from 0. From the root: a to internal node u (then bxac to leaf 1, c to leaf 4), bxac to leaf 2, c to leaf 5, and xa to internal node w (then bxac to leaf 0, c to leaf 3). Each edge is drawn as long as its label, so a node's height is its string-depth.</desc>
+<rect width="760" height="392" fill="#ffffff"/>
+<line x1="380.00" y1="46.00" x2="148.00" y2="96.00" stroke="#000000" stroke-width="1.6"/>
+<line x1="380.00" y1="46.00" x2="322.00" y2="246.00" stroke="#000000" stroke-width="1.6"/>
+<line x1="380.00" y1="46.00" x2="438.00" y2="96.00" stroke="#000000" stroke-width="1.6"/>
+<line x1="380.00" y1="46.00" x2="612.00" y2="146.00" stroke="#000000" stroke-width="1.6"/>
+<line x1="148.00" y1="96.00" x2="90.00" y2="296.00" stroke="#000000" stroke-width="1.6"/>
+<line x1="148.00" y1="96.00" x2="206.00" y2="146.00" stroke="#000000" stroke-width="1.6"/>
+<line x1="612.00" y1="146.00" x2="554.00" y2="346.00" stroke="#000000" stroke-width="1.6"/>
+<line x1="612.00" y1="146.00" x2="670.00" y2="196.00" stroke="#000000" stroke-width="1.6"/>
+<text x="261.26" y="63.79" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17" fill="#000000" text-anchor="middle" font-weight="normal" font-style="normal">a</text>
+<text x="360.26" y="72.88" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17" fill="#000000" text-anchor="middle" font-weight="normal" font-style="normal">b</text>
+<text x="345.76" y="122.88" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17" fill="#000000" text-anchor="middle" font-weight="normal" font-style="normal">x</text>
+<text x="331.26" y="172.88" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17" fill="#000000" text-anchor="middle" font-weight="normal" font-style="normal">a</text>
+<text x="316.76" y="222.88" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17" fill="#000000" text-anchor="middle" font-weight="normal" font-style="normal">c</text>
+<text x="400.51" y="86.35" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17" fill="#000000" text-anchor="middle" font-weight="normal" font-style="normal">c</text>
+<text x="443.15" y="64.56" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17" fill="#000000" text-anchor="middle" font-weight="normal" font-style="normal">x</text>
+<text x="559.15" y="114.56" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17" fill="#000000" text-anchor="middle" font-weight="normal" font-style="normal">a</text>
+<text x="128.26" y="122.88" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17" fill="#000000" text-anchor="middle" font-weight="normal" font-style="normal">b</text>
+<text x="113.76" y="172.88" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17" fill="#000000" text-anchor="middle" font-weight="normal" font-style="normal">x</text>
+<text x="99.26" y="222.88" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17" fill="#000000" text-anchor="middle" font-weight="normal" font-style="normal">a</text>
+<text x="84.76" y="272.88" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17" fill="#000000" text-anchor="middle" font-weight="normal" font-style="normal">c</text>
+<text x="168.51" y="136.35" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17" fill="#000000" text-anchor="middle" font-weight="normal" font-style="normal">c</text>
+<text x="592.26" y="172.88" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17" fill="#000000" text-anchor="middle" font-weight="normal" font-style="normal">b</text>
+<text x="577.76" y="222.88" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17" fill="#000000" text-anchor="middle" font-weight="normal" font-style="normal">x</text>
+<text x="563.26" y="272.88" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17" fill="#000000" text-anchor="middle" font-weight="normal" font-style="normal">a</text>
+<text x="548.76" y="322.88" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17" fill="#000000" text-anchor="middle" font-weight="normal" font-style="normal">c</text>
+<text x="649.49" y="166.65" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="17" fill="#000000" text-anchor="middle" font-weight="normal" font-style="normal">c</text>
+<circle cx="380.00" cy="46.00" r="6" fill="#000000"/>
+<circle cx="148.00" cy="96.00" r="6" fill="#000000"/>
+<text x="132.00" y="101.50" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#000000" text-anchor="end" font-weight="normal" font-style="normal">u</text>
+<circle cx="90.00" cy="296.00" r="6" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<text x="90.00" y="324.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#000000" text-anchor="middle" font-weight="bold" font-style="normal">1</text>
+<circle cx="206.00" cy="146.00" r="6" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<text x="206.00" y="174.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#000000" text-anchor="middle" font-weight="bold" font-style="normal">4</text>
+<circle cx="322.00" cy="246.00" r="6" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<text x="322.00" y="274.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#000000" text-anchor="middle" font-weight="bold" font-style="normal">2</text>
+<circle cx="438.00" cy="96.00" r="6" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<text x="438.00" y="124.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#000000" text-anchor="middle" font-weight="bold" font-style="normal">5</text>
+<circle cx="612.00" cy="146.00" r="6" fill="#000000"/>
+<text x="628.00" y="151.50" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal">w</text>
+<circle cx="554.00" cy="346.00" r="6" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<text x="554.00" y="374.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#000000" text-anchor="middle" font-weight="bold" font-style="normal">0</text>
+<circle cx="670.00" cy="196.00" r="6" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<text x="670.00" y="224.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#000000" text-anchor="middle" font-weight="bold" font-style="normal">3</text>
+<text x="380.00" y="30.00" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#555555" text-anchor="middle" font-weight="normal" font-style="normal">root</text>
+</svg>
