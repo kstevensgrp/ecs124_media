@@ -76,6 +76,7 @@ source) and a PNG (1760 px wide, greyscale, for Google Docs).
 | figure | what it shows |
 |---|---|
 | `suffix-tree-xabxac` | Figure 1: the suffix tree of T = xabxac (Gusfield Fig. 5.1 redrawn, leaves numbered from 0): from the root, a to internal node u (then bxac to leaf 1, c to leaf 4), bxac to leaf 2, c to leaf 5, xa to internal node w (then bxac to leaf 0, c to leaf 3); each edge's letters are spaced one level apart, so a node's height is its string-depth |
+| `three-occurrences-aw` | Figure 2: a fragment of the suffix tree of T = awyawxawxz$ (Gusfield Fig. 5.2 redrawn, leaves numbered from 0): the root, its edge aw to the node where P = aw ends (marked by an arrow), and the subtree below it in full — y awxawxz$ to leaf 0, and x to a node with awxz$ to leaf 3 and z$ to leaf 6; the root's other edges (w, x, y, z, $) are cut short in grey. Same drawing rules as `suffix-tree-xabxac` |
 
 ## lab1/
 
