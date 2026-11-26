@@ -45,6 +45,9 @@ source, for slides and print) and a PNG (for Google Docs, which cannot embed SVG
 | `bm-badchar-tpabxab` | Boyer–Moore right-to-left scan and bad character shift for P = tpabxab at index 2 of T = xpbctbxabpqxctbpq (Gusfield's §2.2.1 example, 0-based) |
 | `bm-bad-character` | schematic of the bad character rule in three cases: x absent from P, two copies of x left of the mismatch, and copies on both sides (rightmost inside t, shift 1) |
 | `bm-good-suffix` | schematic of the good suffix rule: x, y, z, t and t′ (Gusfield Fig. 2.1 redrawn) |
+| `ex-zboxes-gatgatgagatg` | Unit 1 Exercises, Exercise 1 (blank worksheet): P = GATGATGAGATG with its indices, room to draw the Z-boxes, and an empty Z[i] row (Z[0] = 12 given) |
+| `ex-naive-trace-aacaag` | Unit 1 Exercises, Exercise 2 (blank worksheet): every alignment of the naive method for P = AACAAG and T = GAACAAACAAACAAGC, no comparisons marked, a box per row for the count |
+| `ex-kmp-trace-aacaag` | Unit 1 Exercises, Exercise 2 (blank worksheet): every alignment KMP-MATCH examines for the same P and T, rows labelled c − k, no comparisons marked |
 
 ## unit2_notes/
 
