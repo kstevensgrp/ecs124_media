@@ -154,12 +154,13 @@ lab's data files; the original paper figures are not published here.
 | `fig_pcr` | Lab 3 | 8 | in-silico PCR of amplicon 15 (the exon of individual 3's mutation) with the paper's primers |
 | `fig_repeats` | Lab 3 | 9 | repeats in the KAT6B region: the 58 bp longest repeat and the 28 bp Alu core seen 10 or more times, with the 44 primers |
 | `fig_generalized` | Lab 3 | 10 | the generalized suffix tree of ATAG#TAGA$, nodes coloured red, blue and purple |
-| `fig_claytonsmith_mice` | Lab 3 | 11 | outline drawings of a Qkf gt/gt mouse and a control littermate, heads (A) and whole animals (B); after Fig. 2A-B |
-| `fig_claytonsmith_feet` | Lab 3 | 12 | outline drawings of the hind feet of a Qkf gt/gt mouse and a control, digits I to V labelled; after Fig. 2F |
-| `fig_unique_string` | Lab 3 | 13 | individual 4's exon 17–18 sequence against the reference: the shortest string found only in the patient, TAGGAG |
-| `fig_complexity` | Lab 3 | 14 | linguistic complexity in 100 bp windows along exon 17 to exon 18, with the dip at c.4069 |
-| `fig_dotplot` | Lab 3 | 15 | human against mouse KAT6B coding sequence, exact matches of 20 bp or more from k = 12 hits |
-| `fig_claytonsmith_isoforms` | Lab 3 | 16 | the coding exons of three KAT6B isoforms to scale (2,073, 1,890 and 1,781 residues), exon 8 in red with the skipped part dashed; after Fig. 1D |
+| `fig_claytonsmith_mice_feet` | Lab 3 | 11 | the two drawings below in one row of three boxed panels: heads (A), whole animals (B) and hind feet (C); after Fig. 2A-B and 2F |
+| `fig_claytonsmith_mice` | Lab 3 (until 2026-11-26) | — | outline drawings of a Qkf gt/gt mouse and a control littermate, heads (A) and whole animals (B); after Fig. 2A-B |
+| `fig_claytonsmith_feet` | Lab 3 (until 2026-11-26) | — | outline drawings of the hind feet of a Qkf gt/gt mouse and a control, digits I to V labelled; after Fig. 2F |
+| `fig_unique_string` | Lab 3 | 12 | individual 4's exon 17–18 sequence against the reference: the shortest string found only in the patient, TAGGAG |
+| `fig_complexity` | Lab 3 | 13 | linguistic complexity in 100 bp windows along exon 17 to exon 18, with the dip at c.4069 |
+| `fig_dotplot` | Lab 3 | 14 | human against mouse KAT6B coding sequence, exact matches of 20 bp or more from k = 12 hits |
+| `fig_claytonsmith_isoforms` | Lab 3 | 15 | the coding exons of three KAT6B isoforms to scale (2,073, 1,890 and 1,781 residues), exon 8 in red with the skipped part dashed; after Fig. 1D |
 | `fig_claytonsmith_filtering` | Lab 3 Extra | 1 | variant counts for persons 1 to 4 at each filtering step, the three counts in KAT6B circled; after Table 1 |
 | `fig_pigeonhole` | Lab 3 Extra | 2 | a read from individual 4 cut into three seeds for d = 2 |
 | `fig_pileup` | Lab 3 Extra | 3 | read depth and disagreeing reads around the published sites of individuals 4 and 3 |
