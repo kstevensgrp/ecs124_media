@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="864" height="300" viewBox="0 0 864 300" role="img" aria-labelledby="figure-title figure-desc">
+<title id="figure-title">The five diabetes clusters, by five of the clustering variables</title>
+<desc id="figure-desc">Schematic of Ahlqvist et al., Lancet Diabetes Endocrinol 6:361 (2018), Fig. 2. Five panels of box plots, one per variable (HbA1c, body-mass index, age at diagnosis, HOMA2-B and HOMA2-IR), each with one box for each of the five clusters SAID, SIDD, SIRD, MOD and MARD. Boxes run from the first to the third quartile with a line at the median, and whiskers are the paper's; all were measured off the paper's figure. SIDD has the highest HbA1c and low HOMA2-B. SIRD has the highest HOMA2-B and HOMA2-IR. MOD has the highest body-mass index and the youngest patients. MARD and SIRD have the oldest. The paper's outlying points are omitted.</desc>
+<rect x="0" y="0" width="864" height="300" fill="#FFFFFF"/>
+<text x="20" y="22" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" font-weight="bold">HbA<tspan dy="3" font-size="9.5">1c</tspan><tspan dy="-3" dx="4">(mmol/mol)</tspan></text>
+<text x="20" y="39" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D">blood sugar over months</text>
+<line x1="50" y1="54" x2="50" y2="236" stroke="#243B49" stroke-width="1.2"/>
+<line x1="46" y1="202.62" x2="50" y2="202.62" stroke="#243B49" stroke-width="1.2"/>
+<text x="43" y="206.62" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">50</text>
+<line x1="46" y1="147" x2="50" y2="147" stroke="#243B49" stroke-width="1.2"/>
+<text x="43" y="151" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">100</text>
+<line x1="46" y1="91.38" x2="50" y2="91.38" stroke="#243B49" stroke-width="1.2"/>
+<text x="43" y="95.38" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">150</text>
+<line x1="50" y1="236" x2="178" y2="236" stroke="#243B49" stroke-width="1.2"/>
+<line x1="68" y1="220.43" x2="68" y2="64.67" stroke="#243B49" stroke-width="1.1"/>
+<rect x="60" y="142.55" width="16" height="57.85" fill="#7B86C2" stroke="#243B49" stroke-width="1.1"/>
+<line x1="60" y1="172.59" x2="76" y2="172.59" stroke="#243B49" stroke-width="1.8"/>
+<text x="72" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 72 246)">SAID</text>
+<line x1="92" y1="197.06" x2="92" y2="86.92" stroke="#243B49" stroke-width="1.1"/>
+<rect x="84" y="131.43" width="16" height="28.93" fill="#4FAFD6" stroke="#243B49" stroke-width="1.1"/>
+<line x1="84" y1="147" x2="100" y2="147" stroke="#243B49" stroke-width="1.8"/>
+<text x="96" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 96 246)">SIDD</text>
+<line x1="116" y1="223.76" x2="116" y2="175.93" stroke="#243B49" stroke-width="1.1"/>
+<rect x="108" y="194.84" width="16" height="13.35" fill="#5E9F78" stroke="#243B49" stroke-width="1.1"/>
+<line x1="108" y1="202.62" x2="124" y2="202.62" stroke="#243B49" stroke-width="1.8"/>
+<text x="120" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 120 246)">SIRD</text>
+<line x1="140" y1="228.21" x2="140" y2="151.45" stroke="#243B49" stroke-width="1.1"/>
+<rect x="132" y="184.82" width="16" height="22.25" fill="#E08A63" stroke="#243B49" stroke-width="1.1"/>
+<line x1="132" y1="199.29" x2="148" y2="199.29" stroke="#243B49" stroke-width="1.8"/>
+<text x="144" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 144 246)">MOD</text>
+<line x1="164" y1="225.99" x2="164" y2="181.49" stroke="#243B49" stroke-width="1.1"/>
+<rect x="156" y="198.18" width="16" height="11.12" fill="#A97CB6" stroke="#243B49" stroke-width="1.1"/>
+<line x1="156" y1="204.85" x2="172" y2="204.85" stroke="#243B49" stroke-width="1.8"/>
+<text x="168" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 168 246)">MARD</text>
+<text x="186.8" y="22" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" font-weight="bold">BMI (kg/m²)</text>
+<text x="186.8" y="39" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D">body-mass index</text>
+<line x1="216.8" y1="54" x2="216.8" y2="236" stroke="#243B49" stroke-width="1.2"/>
+<line x1="212.8" y1="236" x2="216.8" y2="236" stroke="#243B49" stroke-width="1.2"/>
+<text x="209.8" y="240" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">10</text>
+<line x1="212.8" y1="201.77" x2="216.8" y2="201.77" stroke="#243B49" stroke-width="1.2"/>
+<text x="209.8" y="205.77" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">20</text>
+<line x1="212.8" y1="167.54" x2="216.8" y2="167.54" stroke="#243B49" stroke-width="1.2"/>
+<text x="209.8" y="171.54" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">30</text>
+<line x1="212.8" y1="133.31" x2="216.8" y2="133.31" stroke="#243B49" stroke-width="1.2"/>
+<text x="209.8" y="137.31" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">40</text>
+<line x1="212.8" y1="99.08" x2="216.8" y2="99.08" stroke="#243B49" stroke-width="1.2"/>
+<text x="209.8" y="103.08" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">50</text>
+<line x1="212.8" y1="64.85" x2="216.8" y2="64.85" stroke="#243B49" stroke-width="1.2"/>
+<text x="209.8" y="68.85" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">60</text>
+<line x1="216.8" y1="236" x2="344.8" y2="236" stroke="#243B49" stroke-width="1.2"/>
+<line x1="234.8" y1="224.02" x2="234.8" y2="125.43" stroke="#243B49" stroke-width="1.1"/>
+<rect x="226.8" y="165.48" width="16" height="25.67" fill="#7B86C2" stroke="#243B49" stroke-width="1.1"/>
+<line x1="226.8" y1="180.2" x2="242.8" y2="180.2" stroke="#243B49" stroke-width="1.8"/>
+<text x="238.8" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 238.8 246)">SAID</text>
+<line x1="258.8" y1="213.07" x2="258.8" y2="129.2" stroke="#243B49" stroke-width="1.1"/>
+<rect x="250.8" y="161.72" width="16" height="21.22" fill="#4FAFD6" stroke="#243B49" stroke-width="1.1"/>
+<line x1="250.8" y1="173.36" x2="266.8" y2="173.36" stroke="#243B49" stroke-width="1.8"/>
+<text x="262.8" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 262.8 246)">SIDD</text>
+<line x1="282.8" y1="196.29" x2="282.8" y2="115.17" stroke="#243B49" stroke-width="1.1"/>
+<rect x="274.8" y="145.29" width="16" height="20.54" fill="#5E9F78" stroke="#243B49" stroke-width="1.1"/>
+<line x1="274.8" y1="156.58" x2="290.8" y2="156.58" stroke="#243B49" stroke-width="1.8"/>
+<text x="286.8" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 286.8 246)">SIRD</text>
+<line x1="306.8" y1="194.92" x2="306.8" y2="103.87" stroke="#243B49" stroke-width="1.1"/>
+<rect x="298.8" y="138.1" width="16" height="22.59" fill="#E08A63" stroke="#243B49" stroke-width="1.1"/>
+<line x1="298.8" y1="149.74" x2="314.8" y2="149.74" stroke="#243B49" stroke-width="1.8"/>
+<text x="310.8" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 310.8 246)">MOD</text>
+<line x1="330.8" y1="206.22" x2="330.8" y2="144.26" stroke="#243B49" stroke-width="1.1"/>
+<rect x="322.8" y="167.2" width="16" height="15.06" fill="#A97CB6" stroke="#243B49" stroke-width="1.1"/>
+<line x1="322.8" y1="175.07" x2="338.8" y2="175.07" stroke="#243B49" stroke-width="1.8"/>
+<text x="334.8" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 334.8 246)">MARD</text>
+<text x="353.6" y="22" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" font-weight="bold">Age (years)</text>
+<text x="353.6" y="39" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D">at diagnosis</text>
+<line x1="383.6" y1="54" x2="383.6" y2="236" stroke="#243B49" stroke-width="1.2"/>
+<line x1="379.6" y1="204.59" x2="383.6" y2="204.59" stroke="#243B49" stroke-width="1.2"/>
+<text x="376.6" y="208.59" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">25</text>
+<line x1="379.6" y1="152.24" x2="383.6" y2="152.24" stroke="#243B49" stroke-width="1.2"/>
+<text x="376.6" y="156.24" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">50</text>
+<line x1="379.6" y1="99.88" x2="383.6" y2="99.88" stroke="#243B49" stroke-width="1.2"/>
+<text x="376.6" y="103.88" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">75</text>
+<line x1="383.6" y1="236" x2="511.6" y2="236" stroke="#243B49" stroke-width="1.2"/>
+<line x1="401.6" y1="221.34" x2="401.6" y2="72.66" stroke="#243B49" stroke-width="1.1"/>
+<rect x="393.6" y="120.82" width="16" height="60.73" fill="#7B86C2" stroke="#243B49" stroke-width="1.1"/>
+<line x1="393.6" y1="145.95" x2="409.6" y2="145.95" stroke="#243B49" stroke-width="1.8"/>
+<text x="405.6" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 405.6 246)">SAID</text>
+<line x1="425.6" y1="198.31" x2="425.6" y2="74.75" stroke="#243B49" stroke-width="1.1"/>
+<rect x="417.6" y="120.82" width="16" height="31.41" fill="#4FAFD6" stroke="#243B49" stroke-width="1.1"/>
+<line x1="417.6" y1="137.58" x2="433.6" y2="137.58" stroke="#243B49" stroke-width="1.8"/>
+<text x="429.6" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 429.6 246)">SIDD</text>
+<line x1="449.6" y1="168.99" x2="449.6" y2="70.56" stroke="#243B49" stroke-width="1.1"/>
+<rect x="441.6" y="106.16" width="16" height="25.13" fill="#5E9F78" stroke="#243B49" stroke-width="1.1"/>
+<line x1="441.6" y1="118.73" x2="457.6" y2="118.73" stroke="#243B49" stroke-width="1.8"/>
+<text x="453.6" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 453.6 246)">SIRD</text>
+<line x1="473.6" y1="206.68" x2="473.6" y2="101.98" stroke="#243B49" stroke-width="1.1"/>
+<rect x="465.6" y="139.67" width="16" height="27.22" fill="#E08A63" stroke="#243B49" stroke-width="1.1"/>
+<line x1="465.6" y1="154.33" x2="481.6" y2="154.33" stroke="#243B49" stroke-width="1.8"/>
+<text x="477.6" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 477.6 246)">MOD</text>
+<line x1="497.6" y1="166.89" x2="497.6" y2="66.38" stroke="#243B49" stroke-width="1.1"/>
+<rect x="489.6" y="104.07" width="16" height="25.13" fill="#A97CB6" stroke="#243B49" stroke-width="1.1"/>
+<line x1="489.6" y1="116.64" x2="505.6" y2="116.64" stroke="#243B49" stroke-width="1.8"/>
+<text x="501.6" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 501.6 246)">MARD</text>
+<text x="520.4" y="22" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" font-weight="bold">HOMA2-B (%)</text>
+<text x="520.4" y="39" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D">insulin secretion</text>
+<line x1="550.4" y1="54" x2="550.4" y2="236" stroke="#243B49" stroke-width="1.2"/>
+<line x1="546.4" y1="236" x2="550.4" y2="236" stroke="#243B49" stroke-width="1.2"/>
+<text x="543.4" y="240" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">0</text>
+<line x1="546.4" y1="167.54" x2="550.4" y2="167.54" stroke="#243B49" stroke-width="1.2"/>
+<text x="543.4" y="171.54" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">100</text>
+<line x1="546.4" y1="99.08" x2="550.4" y2="99.08" stroke="#243B49" stroke-width="1.2"/>
+<text x="543.4" y="103.08" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">200</text>
+<line x1="550.4" y1="236" x2="678.4" y2="236" stroke="#243B49" stroke-width="1.2"/>
+<line x1="568.4" y1="233.95" x2="568.4" y2="117.56" stroke="#243B49" stroke-width="1.1"/>
+<rect x="560.4" y="179.18" width="16" height="42.45" fill="#7B86C2" stroke="#243B49" stroke-width="1.1"/>
+<line x1="560.4" y1="204.51" x2="576.4" y2="204.51" stroke="#243B49" stroke-width="1.8"/>
+<text x="572.4" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 572.4 246)">SAID</text>
+<line x1="592.4" y1="232.58" x2="592.4" y2="156.58" stroke="#243B49" stroke-width="1.1"/>
+<rect x="584.4" y="193.55" width="16" height="23.96" fill="#4FAFD6" stroke="#243B49" stroke-width="1.1"/>
+<line x1="584.4" y1="207.93" x2="600.4" y2="207.93" stroke="#243B49" stroke-width="1.8"/>
+<text x="596.4" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 596.4 246)">SIDD</text>
+<line x1="616.4" y1="203.82" x2="616.4" y2="64.85" stroke="#243B49" stroke-width="1.1"/>
+<rect x="608.4" y="117.56" width="16" height="34.23" fill="#5E9F78" stroke="#243B49" stroke-width="1.1"/>
+<line x1="608.4" y1="136.73" x2="624.4" y2="136.73" stroke="#243B49" stroke-width="1.8"/>
+<text x="620.4" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 620.4 246)">SIRD</text>
+<line x1="640.4" y1="222.31" x2="640.4" y2="116.19" stroke="#243B49" stroke-width="1.1"/>
+<rect x="632.4" y="157.95" width="16" height="28.07" fill="#E08A63" stroke="#243B49" stroke-width="1.1"/>
+<line x1="632.4" y1="171.65" x2="648.4" y2="171.65" stroke="#243B49" stroke-width="1.8"/>
+<text x="644.4" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 644.4 246)">MOD</text>
+<line x1="664.4" y1="223.68" x2="664.4" y2="131.25" stroke="#243B49" stroke-width="1.1"/>
+<rect x="656.4" y="166.17" width="16" height="23.28" fill="#A97CB6" stroke="#243B49" stroke-width="1.1"/>
+<line x1="656.4" y1="177.81" x2="672.4" y2="177.81" stroke="#243B49" stroke-width="1.8"/>
+<text x="668.4" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 668.4 246)">MARD</text>
+<text x="687.2" y="22" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" font-weight="bold">HOMA2-IR</text>
+<text x="687.2" y="39" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D">insulin resistance</text>
+<line x1="717.2" y1="54" x2="717.2" y2="236" stroke="#243B49" stroke-width="1.2"/>
+<line x1="713.2" y1="236" x2="717.2" y2="236" stroke="#243B49" stroke-width="1.2"/>
+<text x="710.2" y="240" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">0</text>
+<line x1="713.2" y1="147" x2="717.2" y2="147" stroke="#243B49" stroke-width="1.2"/>
+<text x="710.2" y="151" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">5</text>
+<line x1="713.2" y1="58" x2="717.2" y2="58" stroke="#243B49" stroke-width="1.2"/>
+<text x="710.2" y="62" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">10</text>
+<line x1="717.2" y1="236" x2="845.2" y2="236" stroke="#243B49" stroke-width="1.2"/>
+<line x1="735.2" y1="232.44" x2="735.2" y2="141.66" stroke="#243B49" stroke-width="1.1"/>
+<rect x="727.2" y="186.16" width="16" height="30.26" fill="#7B86C2" stroke="#243B49" stroke-width="1.1"/>
+<line x1="727.2" y1="203.96" x2="743.2" y2="203.96" stroke="#243B49" stroke-width="1.8"/>
+<text x="739.2" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 739.2 246)">SAID</text>
+<line x1="759.2" y1="232.44" x2="759.2" y2="123.86" stroke="#243B49" stroke-width="1.1"/>
+<rect x="751.2" y="168.36" width="16" height="30.26" fill="#4FAFD6" stroke="#243B49" stroke-width="1.1"/>
+<line x1="751.2" y1="186.16" x2="767.2" y2="186.16" stroke="#243B49" stroke-width="1.8"/>
+<text x="763.2" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 763.2 246)">SIDD</text>
+<line x1="783.2" y1="203.96" x2="783.2" y2="72.24" stroke="#243B49" stroke-width="1.1"/>
+<rect x="775.2" y="127.42" width="16" height="37.38" fill="#5E9F78" stroke="#243B49" stroke-width="1.1"/>
+<line x1="775.2" y1="150.56" x2="791.2" y2="150.56" stroke="#243B49" stroke-width="1.8"/>
+<text x="787.2" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 787.2 246)">SIRD</text>
+<line x1="807.2" y1="221.76" x2="807.2" y2="127.42" stroke="#243B49" stroke-width="1.1"/>
+<rect x="799.2" y="166.58" width="16" height="23.14" fill="#E08A63" stroke="#243B49" stroke-width="1.1"/>
+<line x1="799.2" y1="179.04" x2="815.2" y2="179.04" stroke="#243B49" stroke-width="1.8"/>
+<text x="811.2" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 811.2 246)">MOD</text>
+<line x1="831.2" y1="227.1" x2="831.2" y2="155.9" stroke="#243B49" stroke-width="1.1"/>
+<rect x="823.2" y="182.6" width="16" height="17.8" fill="#A97CB6" stroke="#243B49" stroke-width="1.1"/>
+<line x1="823.2" y1="193.28" x2="839.2" y2="193.28" stroke="#243B49" stroke-width="1.8"/>
+<text x="835.2" y="246" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#243B49" text-anchor="end" transform="rotate(-50 835.2 246)">MARD</text>
+</svg>

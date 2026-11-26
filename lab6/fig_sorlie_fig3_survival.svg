@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="318" viewBox="0 0 760 318" role="img" aria-labelledby="figure-title figure-desc">
+<title id="figure-title">Survival of 49 patients by the subtype of their tumor</title>
+<desc id="figure-desc">Schematic of Sorlie et al., PNAS 98:10869 (2001), Fig. 3, panels A and B. Two panels of step-shaped survival curves over 96 months, one color per subtype: A, overall survival; B, relapse-free survival. In both, luminal A stays highest (about 0.9 in A), luminal B+C and normal breast-like are in the middle, and the basal-like and ERBB2+ curves fall fastest and end lowest. Each panel is marked P &lt; 0.01. The steps were read off the paper's figure and are approximate; the marks for censored patients and the paper's panels C and D are omitted.</desc>
+<rect x="0" y="0" width="760" height="318" fill="#FFFFFF"/>
+<text x="18" y="24" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#243B49" font-weight="bold">A</text>
+<text x="36" y="24" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49" font-weight="bold">Overall survival</text>
+<line x1="54" y1="240" x2="58" y2="240" stroke="#243B49" stroke-width="1.2"/>
+<text x="50" y="244" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="end">0</text>
+<line x1="54" y1="200.8" x2="58" y2="200.8" stroke="#243B49" stroke-width="1.2"/>
+<text x="50" y="204.8" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="end">0.2</text>
+<line x1="54" y1="161.6" x2="58" y2="161.6" stroke="#243B49" stroke-width="1.2"/>
+<text x="50" y="165.6" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="end">0.4</text>
+<line x1="54" y1="122.4" x2="58" y2="122.4" stroke="#243B49" stroke-width="1.2"/>
+<text x="50" y="126.4" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="end">0.6</text>
+<line x1="54" y1="83.2" x2="58" y2="83.2" stroke="#243B49" stroke-width="1.2"/>
+<text x="50" y="87.2" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="end">0.8</text>
+<line x1="54" y1="44" x2="58" y2="44" stroke="#243B49" stroke-width="1.2"/>
+<text x="50" y="48" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="end">1</text>
+<line x1="58" y1="240" x2="58" y2="244" stroke="#243B49" stroke-width="1.2"/>
+<text x="58" y="258" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="middle">0</text>
+<line x1="131" y1="240" x2="131" y2="244" stroke="#243B49" stroke-width="1.2"/>
+<text x="131" y="258" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="middle">24</text>
+<line x1="204" y1="240" x2="204" y2="244" stroke="#243B49" stroke-width="1.2"/>
+<text x="204" y="258" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="middle">48</text>
+<line x1="277" y1="240" x2="277" y2="244" stroke="#243B49" stroke-width="1.2"/>
+<text x="277" y="258" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="middle">72</text>
+<line x1="350" y1="240" x2="350" y2="244" stroke="#243B49" stroke-width="1.2"/>
+<text x="350" y="258" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="middle">96</text>
+<line x1="58" y1="40" x2="58" y2="240" stroke="#243B49" stroke-width="1.2"/>
+<line x1="58" y1="240" x2="356" y2="240" stroke="#243B49" stroke-width="1.2"/>
+<text x="204" y="276" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#60727D" text-anchor="middle">months</text>
+<text x="18" y="142" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#60727D" text-anchor="middle" transform="rotate(-90 18 142)">probability</text>
+<path d="M 58 44 H 88.42 V 83.2 H 94.5 V 122.4 H 161.42 V 181.2 H 258.75" fill="none" stroke="#C4337E" stroke-width="2.2" stroke-linejoin="miter" stroke-linecap="round"/>
+<path d="M 58 44 H 88.42 V 77.32 H 94.5 V 108.68 H 100.58 V 142 H 124.92 V 175.32 H 182.71 V 240 H 182.71" fill="none" stroke="#C7474E" stroke-width="2.2" stroke-linejoin="miter" stroke-linecap="round"/>
+<path d="M 58 44 H 106.67 V 83.2 H 127.96 V 136.12 H 228.33" fill="none" stroke="#218456" stroke-width="2.2" stroke-linejoin="miter" stroke-linecap="round"/>
+<path d="M 58 44 H 79.29 V 57.72 H 103.62 V 71.44 H 109.71 V 83.2 H 118.83 V 98.88 H 149.25 V 114.56 H 161.42 V 134.16 H 188.79 V 149.84 H 325.67" fill="none" stroke="#4FAFD6" stroke-width="2.2" stroke-linejoin="miter" stroke-linecap="round"/>
+<path d="M 58 44 H 124.92 V 54.78 H 131 V 65.56 H 337.83" fill="none" stroke="#2E3A87" stroke-width="2.2" stroke-linejoin="miter" stroke-linecap="round"/>
+<text x="346" y="106" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="end">P &lt; 0.01</text>
+<text x="390" y="24" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#243B49" font-weight="bold">B</text>
+<text x="408" y="24" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#243B49" font-weight="bold">Relapse-free survival</text>
+<line x1="426" y1="240" x2="430" y2="240" stroke="#243B49" stroke-width="1.2"/>
+<text x="422" y="244" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="end">0</text>
+<line x1="426" y1="200.8" x2="430" y2="200.8" stroke="#243B49" stroke-width="1.2"/>
+<text x="422" y="204.8" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="end">0.2</text>
+<line x1="426" y1="161.6" x2="430" y2="161.6" stroke="#243B49" stroke-width="1.2"/>
+<text x="422" y="165.6" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="end">0.4</text>
+<line x1="426" y1="122.4" x2="430" y2="122.4" stroke="#243B49" stroke-width="1.2"/>
+<text x="422" y="126.4" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="end">0.6</text>
+<line x1="426" y1="83.2" x2="430" y2="83.2" stroke="#243B49" stroke-width="1.2"/>
+<text x="422" y="87.2" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="end">0.8</text>
+<line x1="426" y1="44" x2="430" y2="44" stroke="#243B49" stroke-width="1.2"/>
+<text x="422" y="48" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="end">1</text>
+<line x1="430" y1="240" x2="430" y2="244" stroke="#243B49" stroke-width="1.2"/>
+<text x="430" y="258" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="middle">0</text>
+<line x1="503" y1="240" x2="503" y2="244" stroke="#243B49" stroke-width="1.2"/>
+<text x="503" y="258" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="middle">24</text>
+<line x1="576" y1="240" x2="576" y2="244" stroke="#243B49" stroke-width="1.2"/>
+<text x="576" y="258" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="middle">48</text>
+<line x1="649" y1="240" x2="649" y2="244" stroke="#243B49" stroke-width="1.2"/>
+<text x="649" y="258" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="middle">72</text>
+<line x1="722" y1="240" x2="722" y2="244" stroke="#243B49" stroke-width="1.2"/>
+<text x="722" y="258" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="middle">96</text>
+<line x1="430" y1="40" x2="430" y2="240" stroke="#243B49" stroke-width="1.2"/>
+<line x1="430" y1="240" x2="728" y2="240" stroke="#243B49" stroke-width="1.2"/>
+<text x="576" y="276" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#60727D" text-anchor="middle">months</text>
+<path d="M 430 44 H 430 V 83.2 H 464.98 V 122.4 H 490.83 V 161.6 H 499.96 V 200.8 H 630.75" fill="none" stroke="#C4337E" stroke-width="2.2" stroke-linejoin="miter" stroke-linecap="round"/>
+<path d="M 430 44 H 454.33 V 77.32 H 458.9 V 108.68 H 466.5 V 175.32 H 506.04 V 206.68 H 509.08" fill="none" stroke="#C7474E" stroke-width="2.2" stroke-linejoin="miter" stroke-linecap="round"/>
+<path d="M 430 44 H 454.33 V 83.2 H 460.42 V 122.4 H 603.38" fill="none" stroke="#218456" stroke-width="2.2" stroke-linejoin="miter" stroke-linecap="round"/>
+<path d="M 430 44 H 430 V 83.2 H 442.17 V 94.96 H 451.29 V 108.68 H 458.9 V 122.4 H 460.42 V 147.88 H 499.96 V 161.6 H 548.62 V 177.28 H 673.33" fill="none" stroke="#4FAFD6" stroke-width="2.2" stroke-linejoin="miter" stroke-linecap="round"/>
+<path d="M 430 44 H 496.92 V 54.78 H 499.96 V 65.56 H 606.42 V 91.04 H 709.83" fill="none" stroke="#2E3A87" stroke-width="2.2" stroke-linejoin="miter" stroke-linecap="round"/>
+<text x="718" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="end">P &lt; 0.01</text>
+<line x1="58" y1="298" x2="80" y2="298" stroke="#2E3A87" stroke-width="3"/>
+<text x="86" y="302" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">Luminal A</text>
+<line x1="173" y1="298" x2="195" y2="298" stroke="#4FAFD6" stroke-width="3"/>
+<text x="201" y="302" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">Luminal B+C</text>
+<line x1="302" y1="298" x2="324" y2="298" stroke="#218456" stroke-width="3"/>
+<text x="330" y="302" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">Normal breast-like</text>
+<line x1="480" y1="298" x2="502" y2="298" stroke="#C7474E" stroke-width="3"/>
+<text x="508" y="302" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">Basal-like</text>
+<line x1="602" y1="298" x2="624" y2="298" stroke="#C4337E" stroke-width="3"/>
+<text x="630" y="302" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49">ERBB2+</text>
+</svg>

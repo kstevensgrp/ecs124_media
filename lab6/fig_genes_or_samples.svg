@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 298" width="780" height="298" font-family="Helvetica, Arial, sans-serif" role="img" aria-label="Clustering genes versus clustering samples">
+<title>Clustering genes versus clustering samples</title>
+<rect width="780" height="298" fill="#FFFFFF"/>
+<text x="20.0" y="26.0" font-size="16" fill="#1F2933" text-anchor="start" font-weight="bold" >One table, two clustering questions</text>
+<text x="20.0" y="46.0" font-size="12" fill="#52606D" text-anchor="start" font-weight="normal" >Rows are genes, columns are samples (time points in yeast, tumors in Perou et al.)</text>
+<rect x="250.0" y="110.0" width="24.0" height="16.0" fill="#8b0000" stroke="none" stroke-width="1" rx="0" />
+<rect x="276.0" y="110.0" width="24.0" height="16.0" fill="#af0000" stroke="none" stroke-width="1" rx="0" />
+<rect x="302.0" y="110.0" width="24.0" height="16.0" fill="#600000" stroke="none" stroke-width="1" rx="0" />
+<rect x="328.0" y="110.0" width="24.0" height="16.0" fill="#a50000" stroke="none" stroke-width="1" rx="0" />
+<rect x="354.0" y="110.0" width="24.0" height="16.0" fill="#d60000" stroke="none" stroke-width="1" rx="0" />
+<rect x="380.0" y="110.0" width="24.0" height="16.0" fill="#006500" stroke="none" stroke-width="1" rx="0" />
+<rect x="406.0" y="110.0" width="24.0" height="16.0" fill="#000300" stroke="none" stroke-width="1" rx="0" />
+<rect x="432.0" y="110.0" width="24.0" height="16.0" fill="#00d300" stroke="none" stroke-width="1" rx="0" />
+<rect x="458.0" y="110.0" width="24.0" height="16.0" fill="#008200" stroke="none" stroke-width="1" rx="0" />
+<rect x="484.0" y="110.0" width="24.0" height="16.0" fill="#00c300" stroke="none" stroke-width="1" rx="0" />
+<rect x="250.0" y="128.0" width="24.0" height="16.0" fill="#450000" stroke="none" stroke-width="1" rx="0" />
+<rect x="276.0" y="128.0" width="24.0" height="16.0" fill="#780000" stroke="none" stroke-width="1" rx="0" />
+<rect x="302.0" y="128.0" width="24.0" height="16.0" fill="#9a0000" stroke="none" stroke-width="1" rx="0" />
+<rect x="328.0" y="128.0" width="24.0" height="16.0" fill="#ab0000" stroke="none" stroke-width="1" rx="0" />
+<rect x="354.0" y="128.0" width="24.0" height="16.0" fill="#b30000" stroke="none" stroke-width="1" rx="0" />
+<rect x="380.0" y="128.0" width="24.0" height="16.0" fill="#350000" stroke="none" stroke-width="1" rx="0" />
+<rect x="406.0" y="128.0" width="24.0" height="16.0" fill="#003e00" stroke="none" stroke-width="1" rx="0" />
+<rect x="432.0" y="128.0" width="24.0" height="16.0" fill="#00ff00" stroke="none" stroke-width="1" rx="0" />
+<rect x="458.0" y="128.0" width="24.0" height="16.0" fill="#007600" stroke="none" stroke-width="1" rx="0" />
+<rect x="484.0" y="128.0" width="24.0" height="16.0" fill="#00bc00" stroke="none" stroke-width="1" rx="0" />
+<rect x="250.0" y="146.0" width="24.0" height="16.0" fill="#5c0000" stroke="none" stroke-width="1" rx="0" />
+<rect x="276.0" y="146.0" width="24.0" height="16.0" fill="#f70000" stroke="none" stroke-width="1" rx="0" />
+<rect x="302.0" y="146.0" width="24.0" height="16.0" fill="#750000" stroke="none" stroke-width="1" rx="0" />
+<rect x="328.0" y="146.0" width="24.0" height="16.0" fill="#001d00" stroke="none" stroke-width="1" rx="0" />
+<rect x="354.0" y="146.0" width="24.0" height="16.0" fill="#a20000" stroke="none" stroke-width="1" rx="0" />
+<rect x="380.0" y="146.0" width="24.0" height="16.0" fill="#00a000" stroke="none" stroke-width="1" rx="0" />
+<rect x="406.0" y="146.0" width="24.0" height="16.0" fill="#00eb00" stroke="none" stroke-width="1" rx="0" />
+<rect x="432.0" y="146.0" width="24.0" height="16.0" fill="#00d600" stroke="none" stroke-width="1" rx="0" />
+<rect x="458.0" y="146.0" width="24.0" height="16.0" fill="#00bd00" stroke="none" stroke-width="1" rx="0" />
+<rect x="484.0" y="146.0" width="24.0" height="16.0" fill="#008900" stroke="none" stroke-width="1" rx="0" />
+<rect x="250.0" y="164.0" width="24.0" height="16.0" fill="#630000" stroke="none" stroke-width="1" rx="0" />
+<rect x="276.0" y="164.0" width="24.0" height="16.0" fill="#8e0000" stroke="none" stroke-width="1" rx="0" />
+<rect x="302.0" y="164.0" width="24.0" height="16.0" fill="#ff0000" stroke="none" stroke-width="1" rx="0" />
+<rect x="328.0" y="164.0" width="24.0" height="16.0" fill="#430000" stroke="none" stroke-width="1" rx="0" />
+<rect x="354.0" y="164.0" width="24.0" height="16.0" fill="#430000" stroke="none" stroke-width="1" rx="0" />
+<rect x="380.0" y="164.0" width="24.0" height="16.0" fill="#009d00" stroke="none" stroke-width="1" rx="0" />
+<rect x="406.0" y="164.0" width="24.0" height="16.0" fill="#002a00" stroke="none" stroke-width="1" rx="0" />
+<rect x="432.0" y="164.0" width="24.0" height="16.0" fill="#00c400" stroke="none" stroke-width="1" rx="0" />
+<rect x="458.0" y="164.0" width="24.0" height="16.0" fill="#000e00" stroke="none" stroke-width="1" rx="0" />
+<rect x="484.0" y="164.0" width="24.0" height="16.0" fill="#00f700" stroke="none" stroke-width="1" rx="0" />
+<rect x="250.0" y="182.0" width="24.0" height="16.0" fill="#00df00" stroke="none" stroke-width="1" rx="0" />
+<rect x="276.0" y="182.0" width="24.0" height="16.0" fill="#008c00" stroke="none" stroke-width="1" rx="0" />
+<rect x="302.0" y="182.0" width="24.0" height="16.0" fill="#00d100" stroke="none" stroke-width="1" rx="0" />
+<rect x="328.0" y="182.0" width="24.0" height="16.0" fill="#00bc00" stroke="none" stroke-width="1" rx="0" />
+<rect x="354.0" y="182.0" width="24.0" height="16.0" fill="#006100" stroke="none" stroke-width="1" rx="0" />
+<rect x="380.0" y="182.0" width="24.0" height="16.0" fill="#c50000" stroke="none" stroke-width="1" rx="0" />
+<rect x="406.0" y="182.0" width="24.0" height="16.0" fill="#910000" stroke="none" stroke-width="1" rx="0" />
+<rect x="432.0" y="182.0" width="24.0" height="16.0" fill="#700000" stroke="none" stroke-width="1" rx="0" />
+<rect x="458.0" y="182.0" width="24.0" height="16.0" fill="#fa0000" stroke="none" stroke-width="1" rx="0" />
+<rect x="484.0" y="182.0" width="24.0" height="16.0" fill="#aa0000" stroke="none" stroke-width="1" rx="0" />
+<rect x="250.0" y="200.0" width="24.0" height="16.0" fill="#009b00" stroke="none" stroke-width="1" rx="0" />
+<rect x="276.0" y="200.0" width="24.0" height="16.0" fill="#002000" stroke="none" stroke-width="1" rx="0" />
+<rect x="302.0" y="200.0" width="24.0" height="16.0" fill="#00d400" stroke="none" stroke-width="1" rx="0" />
+<rect x="328.0" y="200.0" width="24.0" height="16.0" fill="#007a00" stroke="none" stroke-width="1" rx="0" />
+<rect x="354.0" y="200.0" width="24.0" height="16.0" fill="#004f00" stroke="none" stroke-width="1" rx="0" />
+<rect x="380.0" y="200.0" width="24.0" height="16.0" fill="#870000" stroke="none" stroke-width="1" rx="0" />
+<rect x="406.0" y="200.0" width="24.0" height="16.0" fill="#570000" stroke="none" stroke-width="1" rx="0" />
+<rect x="432.0" y="200.0" width="24.0" height="16.0" fill="#a50000" stroke="none" stroke-width="1" rx="0" />
+<rect x="458.0" y="200.0" width="24.0" height="16.0" fill="#5a0000" stroke="none" stroke-width="1" rx="0" />
+<rect x="484.0" y="200.0" width="24.0" height="16.0" fill="#550000" stroke="none" stroke-width="1" rx="0" />
+<rect x="250.0" y="218.0" width="24.0" height="16.0" fill="#00de00" stroke="none" stroke-width="1" rx="0" />
+<rect x="276.0" y="218.0" width="24.0" height="16.0" fill="#001900" stroke="none" stroke-width="1" rx="0" />
+<rect x="302.0" y="218.0" width="24.0" height="16.0" fill="#00b600" stroke="none" stroke-width="1" rx="0" />
+<rect x="328.0" y="218.0" width="24.0" height="16.0" fill="#002500" stroke="none" stroke-width="1" rx="0" />
+<rect x="354.0" y="218.0" width="24.0" height="16.0" fill="#006700" stroke="none" stroke-width="1" rx="0" />
+<rect x="380.0" y="218.0" width="24.0" height="16.0" fill="#710000" stroke="none" stroke-width="1" rx="0" />
+<rect x="406.0" y="218.0" width="24.0" height="16.0" fill="#c00000" stroke="none" stroke-width="1" rx="0" />
+<rect x="432.0" y="218.0" width="24.0" height="16.0" fill="#9f0000" stroke="none" stroke-width="1" rx="0" />
+<rect x="458.0" y="218.0" width="24.0" height="16.0" fill="#930000" stroke="none" stroke-width="1" rx="0" />
+<rect x="484.0" y="218.0" width="24.0" height="16.0" fill="#130000" stroke="none" stroke-width="1" rx="0" />
+<rect x="250.0" y="236.0" width="24.0" height="16.0" fill="#008100" stroke="none" stroke-width="1" rx="0" />
+<rect x="276.0" y="236.0" width="24.0" height="16.0" fill="#003c00" stroke="none" stroke-width="1" rx="0" />
+<rect x="302.0" y="236.0" width="24.0" height="16.0" fill="#005e00" stroke="none" stroke-width="1" rx="0" />
+<rect x="328.0" y="236.0" width="24.0" height="16.0" fill="#003300" stroke="none" stroke-width="1" rx="0" />
+<rect x="354.0" y="236.0" width="24.0" height="16.0" fill="#000900" stroke="none" stroke-width="1" rx="0" />
+<rect x="380.0" y="236.0" width="24.0" height="16.0" fill="#aa0000" stroke="none" stroke-width="1" rx="0" />
+<rect x="406.0" y="236.0" width="24.0" height="16.0" fill="#ff0000" stroke="none" stroke-width="1" rx="0" />
+<rect x="432.0" y="236.0" width="24.0" height="16.0" fill="#070000" stroke="none" stroke-width="1" rx="0" />
+<rect x="458.0" y="236.0" width="24.0" height="16.0" fill="#730000" stroke="none" stroke-width="1" rx="0" />
+<rect x="484.0" y="236.0" width="24.0" height="16.0" fill="#004e00" stroke="none" stroke-width="1" rx="0" />
+<line x1="218.0" y1="119.0" x2="238.0" y2="119.0" stroke="#1F2933" stroke-width="1.4" />
+<line x1="218.0" y1="173.0" x2="238.0" y2="173.0" stroke="#1F2933" stroke-width="1.4" />
+<line x1="218.0" y1="119.0" x2="218.0" y2="173.0" stroke="#1F2933" stroke-width="1.4" />
+<line x1="218.0" y1="191.0" x2="238.0" y2="191.0" stroke="#1F2933" stroke-width="1.4" />
+<line x1="218.0" y1="245.0" x2="238.0" y2="245.0" stroke="#1F2933" stroke-width="1.4" />
+<line x1="218.0" y1="191.0" x2="218.0" y2="245.0" stroke="#1F2933" stroke-width="1.4" />
+<line x1="198.0" y1="146.0" x2="218.0" y2="146.0" stroke="#1F2933" stroke-width="1.4" />
+<line x1="198.0" y1="218.0" x2="218.0" y2="218.0" stroke="#1F2933" stroke-width="1.4" />
+<line x1="198.0" y1="146.0" x2="198.0" y2="218.0" stroke="#1F2933" stroke-width="1.4" />
+<line x1="263.0" y1="78.0" x2="263.0" y2="98.0" stroke="#1F2933" stroke-width="1.4" />
+<line x1="367.0" y1="78.0" x2="367.0" y2="98.0" stroke="#1F2933" stroke-width="1.4" />
+<line x1="263.0" y1="78.0" x2="367.0" y2="78.0" stroke="#1F2933" stroke-width="1.4" />
+<line x1="393.0" y1="78.0" x2="393.0" y2="98.0" stroke="#1F2933" stroke-width="1.4" />
+<line x1="497.0" y1="78.0" x2="497.0" y2="98.0" stroke="#1F2933" stroke-width="1.4" />
+<line x1="393.0" y1="78.0" x2="497.0" y2="78.0" stroke="#1F2933" stroke-width="1.4" />
+<line x1="315.0" y1="58.0" x2="315.0" y2="78.0" stroke="#1F2933" stroke-width="1.4" />
+<line x1="445.0" y1="58.0" x2="445.0" y2="78.0" stroke="#1F2933" stroke-width="1.4" />
+<line x1="315.0" y1="58.0" x2="445.0" y2="58.0" stroke="#1F2933" stroke-width="1.4" />
+<text x="188.0" y="164.0" font-size="13" fill="#1F2933" text-anchor="end" font-weight="bold" >cluster the rows:</text>
+<text x="188.0" y="182.0" font-size="12" fill="#1F2933" text-anchor="end" font-weight="normal" >genes that rise and</text>
+<text x="188.0" y="198.0" font-size="12" fill="#1F2933" text-anchor="end" font-weight="normal" >fall together</text>
+<text x="188.0" y="218.0" font-size="11" fill="#52606D" text-anchor="end" font-weight="normal" >this lab; Eisen 1998;</text>
+<text x="188.0" y="232.0" font-size="11" fill="#52606D" text-anchor="end" font-weight="normal" >Iyer 1999</text>
+<text x="534.0" y="70.0" font-size="13" fill="#1F2933" text-anchor="start" font-weight="bold" >cluster the columns:</text>
+<text x="534.0" y="88.0" font-size="12" fill="#1F2933" text-anchor="start" font-weight="normal" >samples with similar</text>
+<text x="534.0" y="104.0" font-size="12" fill="#1F2933" text-anchor="start" font-weight="normal" >molecular portraits</text>
+<text x="534.0" y="124.0" font-size="11" fill="#52606D" text-anchor="start" font-weight="normal" >Perou 2000; Sørlie 2001:</text>
+<text x="534.0" y="138.0" font-size="11" fill="#52606D" text-anchor="start" font-weight="normal" >breast tumors</text>
+<text x="380.0" y="280.0" font-size="12" fill="#1F2933" text-anchor="middle" font-weight="normal" >The same code does both: transpose the table and each sample becomes a point.</text>
+</svg>

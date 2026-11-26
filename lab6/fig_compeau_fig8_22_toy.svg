@@ -1,0 +1,262 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540" role="img" aria-labelledby="figure-title figure-desc">
+<title id="figure-title">The ten TOY genes: table, distances, points and tree</title>
+<desc id="figure-desc">Schematic after Compeau &amp; Pevzner, Chapter 8, Figure 8.22, drawn from the lab's TOY data with the lab's reference code. Top left: a table of ten genes, g1 to g10, measured at three time points. Top right: the 10 by 10 matrix of Euclidean distances between them, to one decimal. Bottom left: the ten genes as points in three dimensions; they fall into three groups, g3 g5 g8, then g1 g6 g7, then g2 g4 g9 g10. Bottom right: the tree that hierarchical clustering with the average distance builds, with leaves in the order g3 g5 g8 g7 g1 g6 g10 g2 g4 g9; the height of each join is the average distance between the two clusters it joins.</desc>
+<rect x="0" y="0" width="760" height="540" fill="#FFFFFF"/>
+<text x="20" y="20" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" font-weight="bold">Expression at three times</text>
+<text x="94" y="38" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#60727D" text-anchor="end">1 hr</text>
+<text x="140" y="38" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#60727D" text-anchor="end">2 hr</text>
+<text x="186" y="38" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#60727D" text-anchor="end">3 hr</text>
+<text x="24" y="58" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">1</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="94" y="58" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">10.0</text>
+<text x="140" y="58" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">8.0</text>
+<text x="186" y="58" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">10.0</text>
+<text x="24" y="77" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">2</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="94" y="77" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">10.0</text>
+<text x="140" y="77" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">0.0</text>
+<text x="186" y="77" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">9.0</text>
+<text x="24" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">3</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="94" y="96" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">4.0</text>
+<text x="140" y="96" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">8.5</text>
+<text x="186" y="96" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">3.0</text>
+<text x="24" y="115" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">4</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="94" y="115" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">9.5</text>
+<text x="140" y="115" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">0.5</text>
+<text x="186" y="115" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">8.5</text>
+<text x="24" y="134" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">5</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="94" y="134" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">4.5</text>
+<text x="140" y="134" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">8.5</text>
+<text x="186" y="134" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">2.5</text>
+<text x="24" y="153" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">6</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="94" y="153" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">10.5</text>
+<text x="140" y="153" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">9.0</text>
+<text x="186" y="153" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">12.0</text>
+<text x="24" y="172" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">7</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="94" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">5.0</text>
+<text x="140" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">8.5</text>
+<text x="186" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">11.0</text>
+<text x="24" y="191" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">8</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="94" y="191" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">3.7</text>
+<text x="140" y="191" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">8.7</text>
+<text x="186" y="191" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">2.0</text>
+<text x="24" y="210" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">9</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="94" y="210" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">9.7</text>
+<text x="140" y="210" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">2.0</text>
+<text x="186" y="210" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">9.0</text>
+<text x="24" y="229" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">10</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="94" y="229" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">10.2</text>
+<text x="140" y="229" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">1.0</text>
+<text x="186" y="229" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">9.2</text>
+<text x="250" y="20" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" font-weight="bold">Euclidean distance between every two genes</text>
+<text x="312" y="38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">1</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="358" y="38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">2</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="404" y="38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">3</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="450" y="38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">4</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="496" y="38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">5</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="542" y="38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">6</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="588" y="38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">7</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="634" y="38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">8</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="680" y="38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">9</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="726" y="38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">10</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="254" y="58" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">1</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="312" y="58" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">0.0</text>
+<text x="358" y="58" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">8.1</text>
+<text x="404" y="58" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">9.2</text>
+<text x="450" y="58" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">7.7</text>
+<text x="496" y="58" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">9.3</text>
+<text x="542" y="58" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">2.3</text>
+<text x="588" y="58" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">5.1</text>
+<text x="634" y="58" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">10.2</text>
+<text x="680" y="58" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">6.1</text>
+<text x="726" y="58" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">7.0</text>
+<text x="254" y="77" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">2</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="312" y="77" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">8.1</text>
+<text x="358" y="77" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">0.0</text>
+<text x="404" y="77" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">12.0</text>
+<text x="450" y="77" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">0.9</text>
+<text x="496" y="77" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">12.0</text>
+<text x="542" y="77" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">9.5</text>
+<text x="588" y="77" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">10.1</text>
+<text x="634" y="77" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">12.8</text>
+<text x="680" y="77" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">2.0</text>
+<text x="726" y="77" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">1.0</text>
+<text x="254" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">3</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="312" y="96" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">9.2</text>
+<text x="358" y="96" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">12.0</text>
+<text x="404" y="96" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">0.0</text>
+<text x="450" y="96" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">11.2</text>
+<text x="496" y="96" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">0.7</text>
+<text x="542" y="96" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">11.1</text>
+<text x="588" y="96" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">8.1</text>
+<text x="634" y="96" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">1.1</text>
+<text x="680" y="96" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">10.5</text>
+<text x="726" y="96" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">11.5</text>
+<text x="254" y="115" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">4</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="312" y="115" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">7.7</text>
+<text x="358" y="115" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">0.9</text>
+<text x="404" y="115" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">11.2</text>
+<text x="450" y="115" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">0.0</text>
+<text x="496" y="115" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">11.2</text>
+<text x="542" y="115" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">9.2</text>
+<text x="588" y="115" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">9.5</text>
+<text x="634" y="115" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">12.0</text>
+<text x="680" y="115" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">1.6</text>
+<text x="726" y="115" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">1.1</text>
+<text x="254" y="134" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">5</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="312" y="134" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">9.3</text>
+<text x="358" y="134" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">12.0</text>
+<text x="404" y="134" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">0.7</text>
+<text x="450" y="134" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">11.2</text>
+<text x="496" y="134" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">0.0</text>
+<text x="542" y="134" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">11.2</text>
+<text x="588" y="134" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">8.5</text>
+<text x="634" y="134" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">1.0</text>
+<text x="680" y="134" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">10.6</text>
+<text x="726" y="134" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">11.6</text>
+<text x="254" y="153" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">6</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="312" y="153" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">2.3</text>
+<text x="358" y="153" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">9.5</text>
+<text x="404" y="153" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">11.1</text>
+<text x="450" y="153" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">9.2</text>
+<text x="496" y="153" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">11.2</text>
+<text x="542" y="153" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">0.0</text>
+<text x="588" y="153" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">5.6</text>
+<text x="634" y="153" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">12.1</text>
+<text x="680" y="153" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">7.7</text>
+<text x="726" y="153" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">8.5</text>
+<text x="254" y="172" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">7</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="312" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">5.1</text>
+<text x="358" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">10.1</text>
+<text x="404" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">8.1</text>
+<text x="450" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">9.5</text>
+<text x="496" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">8.5</text>
+<text x="542" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">5.6</text>
+<text x="588" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">0.0</text>
+<text x="634" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">9.1</text>
+<text x="680" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">8.3</text>
+<text x="726" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">9.3</text>
+<text x="254" y="191" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">8</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="312" y="191" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">10.2</text>
+<text x="358" y="191" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">12.8</text>
+<text x="404" y="191" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">1.1</text>
+<text x="450" y="191" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">12.0</text>
+<text x="496" y="191" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">1.0</text>
+<text x="542" y="191" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">12.1</text>
+<text x="588" y="191" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">9.1</text>
+<text x="634" y="191" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">0.0</text>
+<text x="680" y="191" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">11.4</text>
+<text x="726" y="191" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">12.4</text>
+<text x="254" y="210" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">9</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="312" y="210" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">6.1</text>
+<text x="358" y="210" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">2.0</text>
+<text x="404" y="210" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">10.5</text>
+<text x="450" y="210" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">1.6</text>
+<text x="496" y="210" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">10.6</text>
+<text x="542" y="210" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">7.7</text>
+<text x="588" y="210" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">8.3</text>
+<text x="634" y="210" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">11.4</text>
+<text x="680" y="210" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">0.0</text>
+<text x="726" y="210" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="end">1.1</text>
+<text x="254" y="229" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">10</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="312" y="229" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">7.0</text>
+<text x="358" y="229" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">1.0</text>
+<text x="404" y="229" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">11.5</text>
+<text x="450" y="229" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">1.1</text>
+<text x="496" y="229" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">11.6</text>
+<text x="542" y="229" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">8.5</text>
+<text x="588" y="229" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">9.3</text>
+<text x="634" y="229" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">12.4</text>
+<text x="680" y="229" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">1.1</text>
+<text x="726" y="229" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C4CC" text-anchor="end">0.0</text>
+<text x="20" y="282" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" font-weight="bold">The genes as points</text>
+<line x1="150" y1="452" x2="62.59" y2="512.52" stroke="#60727D" stroke-width="1.2"/>
+<path d="M 60.86 510.03 L 64.31 515 L 58.06 515.65 Z" fill="#60727D"/>
+<text x="50.06" y="530.65" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="middle">1 hr</text>
+<line x1="150" y1="452" x2="314.5" y2="452" stroke="#60727D" stroke-width="1.2"/>
+<path d="M 314.5 455.02 L 314.5 448.98 L 320 452 Z" fill="#60727D"/>
+<text x="338" y="456" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="middle">2 hr</text>
+<line x1="150" y1="452" x2="150" y2="303.11" stroke="#60727D" stroke-width="1.2"/>
+<path d="M 153.03 303.11 L 146.97 303.11 L 150 297.61 Z" fill="#60727D"/>
+<text x="168" y="301.61" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="middle">3 hr</text>
+<circle cx="188.08" cy="384" r="4" fill="#243B49"/>
+<text x="176.08" y="398" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">1</tspan><tspan dy="-3">&#8203;</tspan></text>
+<circle cx="79.28" cy="395.7" r="4" fill="#243B49"/>
+<text x="67.28" y="389.7" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">2</tspan><tspan dy="-3">&#8203;</tspan></text>
+<circle cx="237.31" cy="436.5" r="4" fill="#243B49"/>
+<text x="237.31" y="427.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">3</tspan><tspan dy="-3">&#8203;</tspan></text>
+<circle cx="89.62" cy="399.1" r="4" fill="#243B49"/>
+<text x="91.62" y="416.1" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">4</tspan><tspan dy="-3">&#8203;</tspan></text>
+<circle cx="233.78" cy="444.79" r="4" fill="#243B49"/>
+<text x="216.78" y="449.79" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">5</tspan><tspan dy="-3">&#8203;</tspan></text>
+<circle cx="198.14" cy="363.06" r="4" fill="#243B49"/>
+<text x="186.14" y="357.06" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">6</tspan><tspan dy="-3">&#8203;</tspan></text>
+<circle cx="230.24" cy="347.82" r="4" fill="#243B49"/>
+<text x="230.24" y="338.82" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">7</tspan><tspan dy="-3">&#8203;</tspan></text>
+<circle cx="242.15" cy="446.72" r="4" fill="#243B49"/>
+<text x="260.15" y="452.72" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">8</tspan><tspan dy="-3">&#8203;</tspan></text>
+<circle cx="108.6" cy="394.23" r="4" fill="#243B49"/>
+<text x="120.6" y="388.23" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">9</tspan><tspan dy="-3">&#8203;</tspan></text>
+<circle cx="91.47" cy="394.34" r="4" fill="#243B49"/>
+<text x="93.47" y="385.34" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" text-anchor="middle"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">10</tspan><tspan dy="-3">&#8203;</tspan></text>
+<text x="400" y="282" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" font-weight="bold">The tree hierarchical clustering builds</text>
+<circle cx="420" cy="494" r="3.6" fill="#243B49"/>
+<text x="420" y="513" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="middle"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">3</tspan><tspan dy="-3">&#8203;</tspan></text>
+<circle cx="454" cy="494" r="3.6" fill="#243B49"/>
+<text x="454" y="513" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="middle"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">5</tspan><tspan dy="-3">&#8203;</tspan></text>
+<circle cx="488" cy="494" r="3.6" fill="#243B49"/>
+<text x="488" y="513" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="middle"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">8</tspan><tspan dy="-3">&#8203;</tspan></text>
+<circle cx="522" cy="494" r="3.6" fill="#243B49"/>
+<text x="522" y="513" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="middle"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">7</tspan><tspan dy="-3">&#8203;</tspan></text>
+<circle cx="556" cy="494" r="3.6" fill="#243B49"/>
+<text x="556" y="513" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="middle"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">1</tspan><tspan dy="-3">&#8203;</tspan></text>
+<circle cx="590" cy="494" r="3.6" fill="#243B49"/>
+<text x="590" y="513" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="middle"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">6</tspan><tspan dy="-3">&#8203;</tspan></text>
+<circle cx="624" cy="494" r="3.6" fill="#243B49"/>
+<text x="624" y="513" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="middle"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">10</tspan><tspan dy="-3">&#8203;</tspan></text>
+<circle cx="658" cy="494" r="3.6" fill="#243B49"/>
+<text x="658" y="513" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="middle"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">2</tspan><tspan dy="-3">&#8203;</tspan></text>
+<circle cx="692" cy="494" r="3.6" fill="#243B49"/>
+<text x="692" y="513" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="middle"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">4</tspan><tspan dy="-3">&#8203;</tspan></text>
+<circle cx="726" cy="494" r="3.6" fill="#243B49"/>
+<text x="726" y="513" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B49" text-anchor="middle"><tspan font-style="italic">g</tspan><tspan dy="3" font-size="0.72em">9</tspan><tspan dy="-3">&#8203;</tspan></text>
+<line x1="420" y1="494" x2="420" y2="482.54" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="454" y1="494" x2="454" y2="482.54" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="420" y1="482.54" x2="454" y2="482.54" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="658" y1="494" x2="658" y2="479.96" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="692" y1="494" x2="692" y2="479.96" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="658" y1="479.96" x2="692" y2="479.96" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="488" y1="494" x2="488" y2="477.57" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="437" y1="482.54" x2="437" y2="477.57" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="488" y1="477.57" x2="437" y2="477.57" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="624" y1="494" x2="624" y2="476.59" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="675" y1="479.96" x2="675" y2="476.59" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="624" y1="476.59" x2="675" y2="476.59" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="726" y1="494" x2="726" y2="468.32" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="649.5" y1="476.59" x2="649.5" y2="468.32" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="726" y1="468.32" x2="649.5" y2="468.32" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="556" y1="494" x2="556" y2="456.86" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="590" y1="494" x2="590" y2="456.86" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="556" y1="456.86" x2="590" y2="456.86" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="522" y1="494" x2="522" y2="406.99" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="573" y1="456.86" x2="573" y2="406.99" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="522" y1="406.99" x2="573" y2="406.99" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="687.75" y1="468.32" x2="687.75" y2="357.71" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="547.5" y1="406.99" x2="547.5" y2="357.71" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="687.75" y1="357.71" x2="547.5" y2="357.71" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="462.5" y1="477.57" x2="462.5" y2="318" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="617.62" y1="357.71" x2="617.62" y2="318" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="462.5" y1="318" x2="617.62" y2="318" stroke="#243B49" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="398" y1="494" x2="398" y2="318" stroke="#B7C4CC" stroke-width="1"/>
+<line x1="394" y1="494" x2="398" y2="494" stroke="#B7C4CC" stroke-width="1"/>
+<text x="390" y="498" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">0</text>
+<line x1="394" y1="461.58" x2="398" y2="461.58" stroke="#B7C4CC" stroke-width="1"/>
+<text x="390" y="465.58" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">2</text>
+<line x1="394" y1="429.16" x2="398" y2="429.16" stroke="#B7C4CC" stroke-width="1"/>
+<text x="390" y="433.16" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">4</text>
+<line x1="394" y1="396.74" x2="398" y2="396.74" stroke="#B7C4CC" stroke-width="1"/>
+<text x="390" y="400.74" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">6</text>
+<line x1="394" y1="364.32" x2="398" y2="364.32" stroke="#B7C4CC" stroke-width="1"/>
+<text x="390" y="368.32" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">8</text>
+<line x1="394" y1="331.9" x2="398" y2="331.9" stroke="#B7C4CC" stroke-width="1"/>
+<text x="390" y="335.9" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#60727D" text-anchor="end">10</text>
+<text x="376" y="406" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D" text-anchor="middle" transform="rotate(-90 376 406)">average distance</text>
+</svg>

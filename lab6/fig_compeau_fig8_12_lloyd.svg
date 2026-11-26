@@ -1,0 +1,239 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="536" viewBox="0 0 760 536" role="img" aria-labelledby="figure-title figure-desc">
+<title id="figure-title">The Lloyd algorithm with k = 3</title>
+<desc id="figure-desc">Schematic after Compeau &amp; Pevzner, Chapter 8, Figure 8.12, drawn for the course by running the lab's reference code on 21 points in three clumps. Six panels. 1: the first three points are the starting centers, one in the top left clump and two in the bottom clump. 2: every point joins its nearest center, so one of the bottom centers takes the right clump as well. 3: each center moves to its cluster's center of gravity. 4: points are assigned again and each clump becomes one cluster. 5: the centers move again. 6: the assignment no longer changes, and the algorithm stops.</desc>
+<rect x="0" y="0" width="760" height="536" fill="#FFFFFF"/>
+<text x="14" y="22" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#243B49" font-weight="bold">1</text>
+<text x="30" y="22" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" font-weight="bold">Start</text>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D">the first three points are the centers</text>
+<path d="M 14 46 V 258 H 246" fill="none" stroke="#243B49" stroke-width="1.3" stroke-linejoin="miter" stroke-linecap="round"/>
+<circle cx="90.08" cy="108.8" r="3.3" fill="#243B49"/>
+<circle cx="143.44" cy="219.54" r="3.3" fill="#243B49"/>
+<circle cx="147.12" cy="229.34" r="3.3" fill="#243B49"/>
+<circle cx="76.28" cy="83.32" r="3.3" fill="#243B49"/>
+<circle cx="76.28" cy="105.86" r="3.3" fill="#243B49"/>
+<circle cx="67.08" cy="107.82" r="3.3" fill="#243B49"/>
+<circle cx="87.32" cy="90.18" r="3.3" fill="#243B49"/>
+<circle cx="63.4" cy="97.04" r="3.3" fill="#243B49"/>
+<circle cx="97.44" cy="98.02" r="3.3" fill="#243B49"/>
+<circle cx="183.92" cy="130.36" r="3.3" fill="#243B49"/>
+<circle cx="190.36" cy="144.08" r="3.3" fill="#243B49"/>
+<circle cx="215.2" cy="124.48" r="3.3" fill="#243B49"/>
+<circle cx="203.24" cy="132.32" r="3.3" fill="#243B49"/>
+<circle cx="175.64" cy="116.64" r="3.3" fill="#243B49"/>
+<circle cx="201.4" cy="114.68" r="3.3" fill="#243B49"/>
+<circle cx="200.48" cy="103.9" r="3.3" fill="#243B49"/>
+<circle cx="176.56" cy="212.68" r="3.3" fill="#243B49"/>
+<circle cx="151.72" cy="197" r="3.3" fill="#243B49"/>
+<circle cx="165.52" cy="202.88" r="3.3" fill="#243B49"/>
+<circle cx="154.48" cy="206.8" r="3.3" fill="#243B49"/>
+<circle cx="140.68" cy="207.78" r="3.3" fill="#243B49"/>
+<circle cx="90.08" cy="108.8" r="5.2" fill="#C7474E" stroke="#243B49" stroke-width="1.6"/>
+<line x1="87.48" y1="108.8" x2="92.68" y2="108.8" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="90.08" y1="106.2" x2="90.08" y2="111.4" stroke="#FFFFFF" stroke-width="1.4"/>
+<circle cx="143.44" cy="219.54" r="5.2" fill="#2B6CB0" stroke="#243B49" stroke-width="1.6"/>
+<line x1="140.84" y1="219.54" x2="146.04" y2="219.54" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="143.44" y1="216.94" x2="143.44" y2="222.14" stroke="#FFFFFF" stroke-width="1.4"/>
+<circle cx="147.12" cy="229.34" r="5.2" fill="#218456" stroke="#243B49" stroke-width="1.6"/>
+<line x1="144.52" y1="229.34" x2="149.72" y2="229.34" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="147.12" y1="226.74" x2="147.12" y2="231.94" stroke="#FFFFFF" stroke-width="1.4"/>
+<text x="262" y="22" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#243B49" font-weight="bold">2</text>
+<text x="278" y="22" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" font-weight="bold">Centers to clusters</text>
+<text x="278" y="38" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D">every point joins its nearest center</text>
+<path d="M 262 46 V 258 H 494" fill="none" stroke="#243B49" stroke-width="1.3" stroke-linejoin="miter" stroke-linecap="round"/>
+<ellipse cx="380.4" cy="99.98" rx="100.02" ry="30.22" fill="none" stroke="#C7474E" stroke-width="1.2" stroke-dasharray="5 4"/>
+<ellipse cx="425.94" cy="172.01" rx="60.69" ry="75.22" fill="none" stroke="#2B6CB0" stroke-width="1.2" stroke-dasharray="5 4"/>
+<ellipse cx="409.84" cy="221.01" rx="28.82" ry="19.78" fill="none" stroke="#218456" stroke-width="1.2" stroke-dasharray="5 4"/>
+<circle cx="338.08" cy="108.8" r="3.3" fill="#C7474E"/>
+<circle cx="391.44" cy="219.54" r="3.3" fill="#2B6CB0"/>
+<circle cx="395.12" cy="229.34" r="3.3" fill="#218456"/>
+<circle cx="324.28" cy="83.32" r="3.3" fill="#C7474E"/>
+<circle cx="324.28" cy="105.86" r="3.3" fill="#C7474E"/>
+<circle cx="315.08" cy="107.82" r="3.3" fill="#C7474E"/>
+<circle cx="335.32" cy="90.18" r="3.3" fill="#C7474E"/>
+<circle cx="311.4" cy="97.04" r="3.3" fill="#C7474E"/>
+<circle cx="345.44" cy="98.02" r="3.3" fill="#C7474E"/>
+<circle cx="431.92" cy="130.36" r="3.3" fill="#2B6CB0"/>
+<circle cx="438.36" cy="144.08" r="3.3" fill="#2B6CB0"/>
+<circle cx="463.2" cy="124.48" r="3.3" fill="#2B6CB0"/>
+<circle cx="451.24" cy="132.32" r="3.3" fill="#2B6CB0"/>
+<circle cx="423.64" cy="116.64" r="3.3" fill="#C7474E"/>
+<circle cx="449.4" cy="114.68" r="3.3" fill="#C7474E"/>
+<circle cx="448.48" cy="103.9" r="3.3" fill="#C7474E"/>
+<circle cx="424.56" cy="212.68" r="3.3" fill="#218456"/>
+<circle cx="399.72" cy="197" r="3.3" fill="#2B6CB0"/>
+<circle cx="413.52" cy="202.88" r="3.3" fill="#2B6CB0"/>
+<circle cx="402.48" cy="206.8" r="3.3" fill="#2B6CB0"/>
+<circle cx="388.68" cy="207.78" r="3.3" fill="#2B6CB0"/>
+<circle cx="338.08" cy="108.8" r="5.2" fill="#C7474E" stroke="#243B49" stroke-width="1.6"/>
+<line x1="335.48" y1="108.8" x2="340.68" y2="108.8" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="338.08" y1="106.2" x2="338.08" y2="111.4" stroke="#FFFFFF" stroke-width="1.4"/>
+<circle cx="391.44" cy="219.54" r="5.2" fill="#2B6CB0" stroke="#243B49" stroke-width="1.6"/>
+<line x1="388.84" y1="219.54" x2="394.04" y2="219.54" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="391.44" y1="216.94" x2="391.44" y2="222.14" stroke="#FFFFFF" stroke-width="1.4"/>
+<circle cx="395.12" cy="229.34" r="5.2" fill="#218456" stroke="#243B49" stroke-width="1.6"/>
+<line x1="392.52" y1="229.34" x2="397.72" y2="229.34" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="395.12" y1="226.74" x2="395.12" y2="231.94" stroke="#FFFFFF" stroke-width="1.4"/>
+<text x="510" y="22" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#243B49" font-weight="bold">3</text>
+<text x="526" y="22" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" font-weight="bold">Clusters to centers</text>
+<text x="526" y="38" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D">each center moves to the middle</text>
+<path d="M 510 46 V 258 H 742" fill="none" stroke="#243B49" stroke-width="1.3" stroke-linejoin="miter" stroke-linecap="round"/>
+<circle cx="586.08" cy="108.8" r="3.3" fill="#C7474E"/>
+<circle cx="639.44" cy="219.54" r="3.3" fill="#2B6CB0"/>
+<circle cx="643.12" cy="229.34" r="3.3" fill="#218456"/>
+<circle cx="572.28" cy="83.32" r="3.3" fill="#C7474E"/>
+<circle cx="572.28" cy="105.86" r="3.3" fill="#C7474E"/>
+<circle cx="563.08" cy="107.82" r="3.3" fill="#C7474E"/>
+<circle cx="583.32" cy="90.18" r="3.3" fill="#C7474E"/>
+<circle cx="559.4" cy="97.04" r="3.3" fill="#C7474E"/>
+<circle cx="593.44" cy="98.02" r="3.3" fill="#C7474E"/>
+<circle cx="679.92" cy="130.36" r="3.3" fill="#2B6CB0"/>
+<circle cx="686.36" cy="144.08" r="3.3" fill="#2B6CB0"/>
+<circle cx="711.2" cy="124.48" r="3.3" fill="#2B6CB0"/>
+<circle cx="699.24" cy="132.32" r="3.3" fill="#2B6CB0"/>
+<circle cx="671.64" cy="116.64" r="3.3" fill="#C7474E"/>
+<circle cx="697.4" cy="114.68" r="3.3" fill="#C7474E"/>
+<circle cx="696.48" cy="103.9" r="3.3" fill="#C7474E"/>
+<circle cx="672.56" cy="212.68" r="3.3" fill="#218456"/>
+<circle cx="647.72" cy="197" r="3.3" fill="#2B6CB0"/>
+<circle cx="661.52" cy="202.88" r="3.3" fill="#2B6CB0"/>
+<circle cx="650.48" cy="206.8" r="3.3" fill="#2B6CB0"/>
+<circle cx="636.68" cy="207.78" r="3.3" fill="#2B6CB0"/>
+<circle cx="586.08" cy="108.8" r="5.2" fill="#FFFFFF" stroke="#C7474E" stroke-width="1.6"/>
+<line x1="591.88" y1="107.27" x2="597.45" y2="105.81" stroke="#C7474E" stroke-width="1.4"/>
+<path d="M 598.22 108.73 L 596.68 102.88 L 602.77 104.41 Z" fill="#C7474E"/>
+<circle cx="609.54" cy="102.63" r="5.2" fill="#C7474E" stroke="#243B49" stroke-width="1.6"/>
+<line x1="606.94" y1="102.63" x2="612.14" y2="102.63" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="609.54" y1="100.03" x2="609.54" y2="105.23" stroke="#FFFFFF" stroke-width="1.4"/>
+<circle cx="639.44" cy="219.54" r="5.2" fill="#FFFFFF" stroke="#2B6CB0" stroke-width="1.6"/>
+<line x1="642.63" y1="214.46" x2="661.42" y2="184.5" stroke="#2B6CB0" stroke-width="1.4"/>
+<path d="M 663.98 186.11 L 658.86 182.9 L 664.34 179.85 Z" fill="#2B6CB0"/>
+<circle cx="668.06" cy="173.92" r="5.2" fill="#2B6CB0" stroke="#243B49" stroke-width="1.6"/>
+<line x1="665.46" y1="173.92" x2="670.66" y2="173.92" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="668.06" y1="171.32" x2="668.06" y2="176.52" stroke="#FFFFFF" stroke-width="1.4"/>
+<circle cx="643.12" cy="229.34" r="5.2" fill="#FFFFFF" stroke="#218456" stroke-width="1.6"/>
+<line x1="648.34" y1="226.38" x2="646.96" y2="227.17" stroke="#218456" stroke-width="1.4"/>
+<path d="M 648.45 229.8 L 645.47 224.53 L 651.75 224.46 Z" fill="#218456"/>
+<circle cx="657.84" cy="221.01" r="5.2" fill="#218456" stroke="#243B49" stroke-width="1.6"/>
+<line x1="655.24" y1="221.01" x2="660.44" y2="221.01" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="657.84" y1="218.41" x2="657.84" y2="223.61" stroke="#FFFFFF" stroke-width="1.4"/>
+<text x="14" y="276" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#243B49" font-weight="bold">4</text>
+<text x="30" y="276" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" font-weight="bold">Centers to clusters</text>
+<text x="30" y="292" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D">8 points change cluster</text>
+<path d="M 14 300 V 512 H 246" fill="none" stroke="#243B49" stroke-width="1.3" stroke-linejoin="miter" stroke-linecap="round"/>
+<ellipse cx="80.42" cy="350.06" rx="28.61" ry="23.43" fill="none" stroke="#C7474E" stroke-width="1.2" stroke-dasharray="5 4"/>
+<ellipse cx="195.42" cy="377.99" rx="29.06" ry="29.39" fill="none" stroke="#2B6CB0" stroke-width="1.2" stroke-dasharray="5 4"/>
+<ellipse cx="158.62" cy="467.17" rx="29.31" ry="27.21" fill="none" stroke="#218456" stroke-width="1.2" stroke-dasharray="5 4"/>
+<circle cx="90.08" cy="362.8" r="3.3" fill="#C7474E"/>
+<circle cx="143.44" cy="473.54" r="3.3" fill="#218456"/>
+<circle cx="147.12" cy="483.34" r="3.3" fill="#218456"/>
+<circle cx="76.28" cy="337.32" r="3.3" fill="#C7474E"/>
+<circle cx="76.28" cy="359.86" r="3.3" fill="#C7474E"/>
+<circle cx="67.08" cy="361.82" r="3.3" fill="#C7474E"/>
+<circle cx="87.32" cy="344.18" r="3.3" fill="#C7474E"/>
+<circle cx="63.4" cy="351.04" r="3.3" fill="#C7474E"/>
+<circle cx="97.44" cy="352.02" r="3.3" fill="#C7474E"/>
+<circle cx="183.92" cy="384.36" r="3.3" fill="#2B6CB0"/>
+<circle cx="190.36" cy="398.08" r="3.3" fill="#2B6CB0"/>
+<circle cx="215.2" cy="378.48" r="3.3" fill="#2B6CB0"/>
+<circle cx="203.24" cy="386.32" r="3.3" fill="#2B6CB0"/>
+<circle cx="175.64" cy="370.64" r="3.3" fill="#2B6CB0"/>
+<circle cx="201.4" cy="368.68" r="3.3" fill="#2B6CB0"/>
+<circle cx="200.48" cy="357.9" r="3.3" fill="#2B6CB0"/>
+<circle cx="176.56" cy="466.68" r="3.3" fill="#218456"/>
+<circle cx="151.72" cy="451" r="3.3" fill="#218456"/>
+<circle cx="165.52" cy="456.88" r="3.3" fill="#218456"/>
+<circle cx="154.48" cy="460.8" r="3.3" fill="#218456"/>
+<circle cx="140.68" cy="461.78" r="3.3" fill="#218456"/>
+<circle cx="113.54" cy="356.63" r="5.2" fill="#C7474E" stroke="#243B49" stroke-width="1.6"/>
+<line x1="110.94" y1="356.63" x2="116.14" y2="356.63" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="113.54" y1="354.03" x2="113.54" y2="359.23" stroke="#FFFFFF" stroke-width="1.4"/>
+<circle cx="172.06" cy="427.92" r="5.2" fill="#2B6CB0" stroke="#243B49" stroke-width="1.6"/>
+<line x1="169.46" y1="427.92" x2="174.66" y2="427.92" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="172.06" y1="425.32" x2="172.06" y2="430.52" stroke="#FFFFFF" stroke-width="1.4"/>
+<circle cx="161.84" cy="475.01" r="5.2" fill="#218456" stroke="#243B49" stroke-width="1.6"/>
+<line x1="159.24" y1="475.01" x2="164.44" y2="475.01" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="161.84" y1="472.41" x2="161.84" y2="477.61" stroke="#FFFFFF" stroke-width="1.4"/>
+<text x="262" y="276" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#243B49" font-weight="bold">5</text>
+<text x="278" y="276" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" font-weight="bold">Clusters to centers</text>
+<path d="M 262 300 V 512 H 494" fill="none" stroke="#243B49" stroke-width="1.3" stroke-linejoin="miter" stroke-linecap="round"/>
+<circle cx="338.08" cy="362.8" r="3.3" fill="#C7474E"/>
+<circle cx="391.44" cy="473.54" r="3.3" fill="#218456"/>
+<circle cx="395.12" cy="483.34" r="3.3" fill="#218456"/>
+<circle cx="324.28" cy="337.32" r="3.3" fill="#C7474E"/>
+<circle cx="324.28" cy="359.86" r="3.3" fill="#C7474E"/>
+<circle cx="315.08" cy="361.82" r="3.3" fill="#C7474E"/>
+<circle cx="335.32" cy="344.18" r="3.3" fill="#C7474E"/>
+<circle cx="311.4" cy="351.04" r="3.3" fill="#C7474E"/>
+<circle cx="345.44" cy="352.02" r="3.3" fill="#C7474E"/>
+<circle cx="431.92" cy="384.36" r="3.3" fill="#2B6CB0"/>
+<circle cx="438.36" cy="398.08" r="3.3" fill="#2B6CB0"/>
+<circle cx="463.2" cy="378.48" r="3.3" fill="#2B6CB0"/>
+<circle cx="451.24" cy="386.32" r="3.3" fill="#2B6CB0"/>
+<circle cx="423.64" cy="370.64" r="3.3" fill="#2B6CB0"/>
+<circle cx="449.4" cy="368.68" r="3.3" fill="#2B6CB0"/>
+<circle cx="448.48" cy="357.9" r="3.3" fill="#2B6CB0"/>
+<circle cx="424.56" cy="466.68" r="3.3" fill="#218456"/>
+<circle cx="399.72" cy="451" r="3.3" fill="#218456"/>
+<circle cx="413.52" cy="456.88" r="3.3" fill="#218456"/>
+<circle cx="402.48" cy="460.8" r="3.3" fill="#218456"/>
+<circle cx="388.68" cy="461.78" r="3.3" fill="#218456"/>
+<circle cx="361.54" cy="356.63" r="5.2" fill="#FFFFFF" stroke="#C7474E" stroke-width="1.6"/>
+<line x1="355.58" y1="355.94" x2="340.11" y2="354.15" stroke="#C7474E" stroke-width="1.4"/>
+<path d="M 340.46 351.15 L 339.77 357.16 L 334.65 353.52 Z" fill="#C7474E"/>
+<circle cx="327.7" cy="352.72" r="5.2" fill="#C7474E" stroke="#243B49" stroke-width="1.6"/>
+<line x1="325.1" y1="352.72" x2="330.3" y2="352.72" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="327.7" y1="350.12" x2="327.7" y2="355.32" stroke="#FFFFFF" stroke-width="1.4"/>
+<circle cx="420.06" cy="427.92" r="5.2" fill="#FFFFFF" stroke="#2B6CB0" stroke-width="1.6"/>
+<line x1="422.63" y1="422.49" x2="438.41" y2="389.08" stroke="#2B6CB0" stroke-width="1.4"/>
+<path d="M 441.14 390.37 L 435.67 387.79 L 440.76 384.11 Z" fill="#2B6CB0"/>
+<circle cx="443.75" cy="377.78" r="5.2" fill="#2B6CB0" stroke="#243B49" stroke-width="1.6"/>
+<line x1="441.15" y1="377.78" x2="446.35" y2="377.78" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="443.75" y1="375.18" x2="443.75" y2="380.38" stroke="#FFFFFF" stroke-width="1.4"/>
+<circle cx="409.84" cy="475.01" r="5.2" fill="#FFFFFF" stroke="#218456" stroke-width="1.6"/>
+<circle cx="402.22" cy="464.86" r="5.2" fill="#218456" stroke="#243B49" stroke-width="1.6"/>
+<line x1="399.62" y1="464.86" x2="404.82" y2="464.86" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="402.22" y1="462.26" x2="402.22" y2="467.46" stroke="#FFFFFF" stroke-width="1.4"/>
+<text x="510" y="276" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#243B49" font-weight="bold">6</text>
+<text x="526" y="276" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#243B49" font-weight="bold">Centers to clusters</text>
+<text x="526" y="292" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#60727D">no point changes cluster, so stop</text>
+<path d="M 510 300 V 512 H 742" fill="none" stroke="#243B49" stroke-width="1.3" stroke-linejoin="miter" stroke-linecap="round"/>
+<ellipse cx="576.42" cy="350.06" rx="28.61" ry="23.43" fill="none" stroke="#C7474E" stroke-width="1.2" stroke-dasharray="5 4"/>
+<ellipse cx="691.42" cy="377.99" rx="29.06" ry="29.39" fill="none" stroke="#2B6CB0" stroke-width="1.2" stroke-dasharray="5 4"/>
+<ellipse cx="654.62" cy="467.17" rx="29.31" ry="27.21" fill="none" stroke="#218456" stroke-width="1.2" stroke-dasharray="5 4"/>
+<circle cx="586.08" cy="362.8" r="3.3" fill="#C7474E"/>
+<circle cx="639.44" cy="473.54" r="3.3" fill="#218456"/>
+<circle cx="643.12" cy="483.34" r="3.3" fill="#218456"/>
+<circle cx="572.28" cy="337.32" r="3.3" fill="#C7474E"/>
+<circle cx="572.28" cy="359.86" r="3.3" fill="#C7474E"/>
+<circle cx="563.08" cy="361.82" r="3.3" fill="#C7474E"/>
+<circle cx="583.32" cy="344.18" r="3.3" fill="#C7474E"/>
+<circle cx="559.4" cy="351.04" r="3.3" fill="#C7474E"/>
+<circle cx="593.44" cy="352.02" r="3.3" fill="#C7474E"/>
+<circle cx="679.92" cy="384.36" r="3.3" fill="#2B6CB0"/>
+<circle cx="686.36" cy="398.08" r="3.3" fill="#2B6CB0"/>
+<circle cx="711.2" cy="378.48" r="3.3" fill="#2B6CB0"/>
+<circle cx="699.24" cy="386.32" r="3.3" fill="#2B6CB0"/>
+<circle cx="671.64" cy="370.64" r="3.3" fill="#2B6CB0"/>
+<circle cx="697.4" cy="368.68" r="3.3" fill="#2B6CB0"/>
+<circle cx="696.48" cy="357.9" r="3.3" fill="#2B6CB0"/>
+<circle cx="672.56" cy="466.68" r="3.3" fill="#218456"/>
+<circle cx="647.72" cy="451" r="3.3" fill="#218456"/>
+<circle cx="661.52" cy="456.88" r="3.3" fill="#218456"/>
+<circle cx="650.48" cy="460.8" r="3.3" fill="#218456"/>
+<circle cx="636.68" cy="461.78" r="3.3" fill="#218456"/>
+<circle cx="575.7" cy="352.72" r="5.2" fill="#C7474E" stroke="#243B49" stroke-width="1.6"/>
+<line x1="573.1" y1="352.72" x2="578.3" y2="352.72" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="575.7" y1="350.12" x2="575.7" y2="355.32" stroke="#FFFFFF" stroke-width="1.4"/>
+<circle cx="691.75" cy="377.78" r="5.2" fill="#2B6CB0" stroke="#243B49" stroke-width="1.6"/>
+<line x1="689.15" y1="377.78" x2="694.35" y2="377.78" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="691.75" y1="375.18" x2="691.75" y2="380.38" stroke="#FFFFFF" stroke-width="1.4"/>
+<circle cx="650.22" cy="464.86" r="5.2" fill="#218456" stroke="#243B49" stroke-width="1.6"/>
+<line x1="647.62" y1="464.86" x2="652.82" y2="464.86" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="650.22" y1="462.26" x2="650.22" y2="467.46" stroke="#FFFFFF" stroke-width="1.4"/>
+<circle cx="22" cy="524" r="5.2" fill="#60727D" stroke="#243B49" stroke-width="1.6"/>
+<line x1="19.4" y1="524" x2="24.6" y2="524" stroke="#FFFFFF" stroke-width="1.4"/>
+<line x1="22" y1="521.4" x2="22" y2="526.6" stroke="#FFFFFF" stroke-width="1.4"/>
+<text x="34" y="528" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#60727D">a center</text>
+<circle cx="112" cy="524" r="5.2" fill="#FFFFFF" stroke="#60727D" stroke-width="1.6"/>
+<text x="124" y="528" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#60727D">where it was</text>
+</svg>

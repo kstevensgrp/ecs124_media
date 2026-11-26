@@ -18,6 +18,7 @@ Media is organized by subject, one folder per subject:
 | `lab3/` | page figures for the Lab 3 and Lab 3 Extra writeups (indexing and database search) |
 | `lab4/` | page figures for the Lab 4 writeup (genome assembly) |
 | `lab5/` | page figures for the Lab 5 writeup (evolutionary trees) |
+| `lab6/` | page figures for the Lab 6 writeup (clustering) |
 | `unit2_notes/` | figures for the Unit 2 Handout (approximate matching and sequence alignment) |
 | `unit3_notes/` | figures for the Unit 3 Handout (indexing and database search) |
 
@@ -214,3 +215,45 @@ Figure 8 of the lab (`fig_tumor_tree`, the answer to Part A) is not here.
 | `fig_neighbors` | Lab 5 | 16 | a four-leaf tree in which the closest pair of leaves are not neighbors |
 | `fig_navin_fig2b_nj` | Lab 5 | 17 | schematic of the neighbor-joining tree of 100 single cells from one breast tumor: normal cells and three clones, each leaf at its measured distance, branching inside the groups simplified; after Navin Fig. 2b |
 | `fig_navin_fig3c_nj` | Lab 5 | 18 | schematic of the neighbor-joining tree of cells from a primary breast tumor (circles) and its liver metastasis (squares): the aneuploid cells of both sites on one branch; after Navin Fig. 3c |
+
+## lab6/
+
+Page figures for the Lab 6 writeup (Unit 6, clustering: k-means and
+hierarchical clustering of yeast gene expression). Each is provided as an SVG
+(the same file the Canvas page uses) and a PNG (1760 px wide, 128 colours, for
+Google Docs); `fig_yeast_all_genes` and `fig_lloyd_distortion` are plots made
+as PNG only. The `fig_<subject>` figures are original drawings made for the
+lab. The `fig_<author>_<subject>` figures are simplified schematic redrawings
+of figures in Perou et al., *Nature* 406:747 (2000), Eisen et al., *PNAS*
+95:14863 (1998), Iyer et al., *Science* 283:83 (1999), Sørlie et al., *PNAS*
+98:10869 (2001), Ahlqvist et al., *Lancet Diabetes Endocrinol* 6:361 (2018)
+and Compeau & Pevzner, *Bioinformatics Algorithms*, Chapter 8; the originals
+are not published here. The Compeau & Pevzner schematics are not traced: they
+are drawn from the lab's own data by running the lab's reference code. Figure 2
+of the lab (the chapter's opening illustration) is not here.
+
+| figure | lab | # | what it shows |
+|---|---|---|---|
+| `fig_perou_fig3a_subtypes` | Lab 6 | 1 | schematic of the tree of 65 breast tumor samples: the branching traced from the paper's figure, the four groups the authors named (basal-like, ERBB2+, normal breast-like, luminal) as colours and bars, and brackets joining the 20 pairs taken from one tumor before and after chemotherapy; sample names left out; after Perou Fig. 3a |
+| `fig_profile_point` | Lab 6 | 3 | a gene's seven values as a row of the table, a line over time and a point in seven dimensions |
+| `fig_yeast_all_genes` | Lab 6 | 4 | the 230 yeast genes of the lab's data file as overlaid lines over the seven time points |
+| `fig_compeau_fig8_4_ten_genes` | Lab 6 | 5 | ten yeast genes as a table and as lines: three that switch on after the diauxic shift, three that switch off and four that stay flat; values from the lab's data file; after Compeau & Pevzner Fig. 8.4 |
+| `fig_compeau_fig8_9_outliers` | Lab 6 | 6 | three clumps and two outliers, clustered with three centers twice: by smallest average squared distance (one center in each clump) and by smallest largest distance (two centers on the outliers); computed, not traced; after Compeau & Pevzner Fig. 8.9 |
+| `fig_compeau_fig8_12_lloyd` | Lab 6 | 7 | the Lloyd algorithm with k = 3 in six panels, alternating centers to clusters and clusters to centers until no point changes cluster; every panel computed by the lab's reference `lloyd`; after Compeau & Pevzner Fig. 8.12 |
+| `fig_compeau_fig8_13_bad_start` | Lab 6 | 8 | five clumps with a bad choice of starting centers (none in clump 1, two in clump 3) and where the Lloyd algorithm stops: clumps 1 and 2 merged, clump 3 split; computed; after Compeau & Pevzner Fig. 8.13 |
+| `fig_lloyd_distortion` | Lab 6 | 9 | distortion against iteration for the reference `lloyd` on the 230 yeast genes with k = 6 |
+| `fig_ahlqvist_fig2_clusters` | Lab 6 | 10 | schematic of the five diabetes clusters (SAID, SIDD, SIRD, MOD, MARD) as box plots of five clustering variables (HbA1c, BMI, age at diagnosis, HOMA2-B, HOMA2-IR); medians, quartiles and whiskers measured off the paper's figure, outliers left out; after Ahlqvist Fig. 2 |
+| `fig_compeau_fig8_22_toy` | Lab 6 | 11 | the ten TOY genes: their table, their distance matrix, the genes as points in three dimensions, and the tree hierarchical clustering builds (average distance); after Compeau & Pevzner Fig. 8.22 |
+| `fig_compeau_fig8_24_merges` | Lab 6 | 12 | the first three merges on the TOY genes: the distance matrix before each merge with its smallest entry marked, and the tree after it; average distance, as in the lab's code; after Compeau & Pevzner Fig. 8.24 |
+| `fig_compeau_fig8_23_cuts` | Lab 6 | 13 | the TOY tree cut at two heights: across four branches (four clusters) and across six (six clusters); after Compeau & Pevzner Fig. 8.23 |
+| `fig_genes_or_samples` | Lab 6 | 14 | one table clustered two ways: a tree over its rows (genes) and a tree over its columns (samples) |
+| `fig_eisen_fig1_serum` | Lab 6 | 15 | schematic of Eisen's display: a red and green heat map of genes by time (averaged into 105 rows), the top of the gene tree at its side, and the five labelled clusters A to E; after Eisen Fig. 1 |
+| `fig_yeast_kmeans` | Lab 6 | 16 | answer plot Y1: the six k-means clusters of the 230 yeast genes |
+| `fig_yeast_hierarchical` | Lab 6 | 17 | answer plot Y2: the six clusters from cutting the hierarchical tree |
+| `fig_yeast_heatmap` | Lab 6 | 18 | the 230 yeast genes in tree order as a red and green heat map with the tree and the six clusters as a colour bar |
+| `fig_iyer_fig2_clusters` | Lab 6 | 19 | schematic of the 517 serum-response genes: the heat map (averaged into 107 rows) with the ten clusters A to J as colour bars, and the average profile of each cluster on one common scale, traced from the paper's plots; after Iyer Fig. 2 |
+| `fig_shape_vs_size` | Lab 6 | 20 | three profiles and their Euclidean and correlation distances: size and shape against shape alone |
+| `fig_eisen_fig3_random` | Lab 6 | 21 | schematic of Eisen's test: the data as measured, the same data clustered, and three shuffled versions clustered the same way, each as a coarse red and green grid; after Eisen Fig. 3 |
+| `fig_compeau_fig8_16_limits` | Lab 6 | 22 | three point sets where the Lloyd algorithm does not find the clusters the eye sees: long thin clusters, clusters that are not round, and sparse beside dense clusters; computed; after Compeau & Pevzner Fig. 8.16 |
+| `fig_sorlie_fig1a_dendrogram` | Lab 6 | 23 | schematic of the tree of 85 breast samples with its six subtypes (basal-like, ERBB2+, normal breast-like, luminal C, B and A) as colours and bars; branching traced from the paper's figure, sample names left out; after Sørlie Fig. 1A |
+| `fig_sorlie_fig3_survival` | Lab 6 | 24 | schematic of the survival curves by tumor subtype, (A) overall and (B) relapse-free, for 49 patients; steps read off the paper's figure by hand; after Sørlie Fig. 3 |
