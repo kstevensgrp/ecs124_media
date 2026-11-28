@@ -20,7 +20,7 @@ Media is organized by subject, one folder per subject:
 | `lab5/` | page figures for the Lab 5 writeup (evolutionary trees) |
 | `lab6/` | page figures for the Lab 6 writeup (clustering) |
 | `unit2_notes/` | figures for the Unit 2 Handout (approximate matching and sequence alignment) |
-| `unit3_notes/` | figures for the Unit 3 Handout (indexing and database search) |
+| `unit3_notes/` | figures for the Unit 3 Handout and the Unit 3 Notes (indexing and database search) |
 
 ## unit1_notes/
 
@@ -74,13 +74,16 @@ source) and a PNG (1760 px wide, greyscale, for Google Docs).
 
 ## unit3_notes/
 
-Figures for the Unit 3 Handout. Each figure is provided as an SVG (the vector
+Figures for the Unit 3 Handout (`suffix-tree-...`, `three-occurrences-...`) and
+the Unit 3 Notes (`node-...`). Each figure is provided as an SVG (the vector
 source) and a PNG (1760 px wide, greyscale, for Google Docs).
 
 | figure | what it shows |
 |---|---|
 | `suffix-tree-xabxac` | Figure 1: the suffix tree of T = xabxac (Gusfield Fig. 5.1 redrawn, leaves numbered from 0): from the root, a to internal node u (then bxac to leaf 1, c to leaf 4), bxac to leaf 2, c to leaf 5, xa to internal node w (then bxac to leaf 0, c to leaf 3); each edge's letters are spaced one level apart, so a node's height is its string-depth |
 | `three-occurrences-aw` | Figure 2: a fragment of the suffix tree of T = awyawxawxz$ (Gusfield Fig. 5.2 redrawn, leaves numbered from 0): the root, its edge aw to the node where P = aw ends (marked by an arrow), and the subtree below it in full — y awxawxz$ to leaf 0, and x to a node with awxz$ to leaf 3 and z$ to leaf 6; the root's other edges (w, x, y, z, $) are cut short in grey. Same drawing rules as `suffix-tree-xabxac` |
+| `node-naive-ataaatg` | Unit 3 Notes Figure 2: the first steps of the naive construction for T = ATAAATG$, each node drawn as the lab's Node object in the style of Miller & Ranum's nodes-and-references figures (top row start, length, leaf; bottom row the children dictionary as Python prints it, with a dot and an arrow for each child, the arrow labeled with the child's edge), under the text with its indices: (a) the root alone, 0, 0, None and {}; (b) suffix 0 inserted, the edge ATAAATG$ to leaf 0 (0, 8, 0); (c) suffix 1 inserted, a second edge TAAATG$ to leaf 1 (1, 7, 1) |
+| `node-tree-ataaatg` | Unit 3 Notes Figure 3: the finished suffix tree of T = ATAAATG$ (the tree of `lab3/fig_suffix_tree`) drawn the same way, all 13 nodes with the values the lab's reference `build_suffix_tree` gives them and "leaf i" under each leaf |
 
 ## lab1/
 
